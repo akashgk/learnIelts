@@ -1,0 +1,24 @@
+{
+ "title": "Part 2 & 3 · An Environmental Problem in Your Area",
+ "summary": "Describe an environmental problem in the area where you live.",
+ "difficulty": "Band 7–8 models",
+ "topics": [
+  "environment",
+  "cities"
+ ],
+ "minutes": 10,
+ "cue_card": {
+  "task": "Describe an environmental problem in the area where you live.",
+  "bullets": [
+   "what the problem is",
+   "what causes it",
+   "how it affects people",
+   "and explain what could be done about it"
+  ]
+ },
+ "part3_questions": [
+  "Who should be responsible for protecting the environment?",
+  "Are young people more environmentally aware than older people?",
+  "Can technology solve environmental problems?"
+ ]
+}

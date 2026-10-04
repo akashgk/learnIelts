@@ -1,0 +1,194 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "ynng",
+   "range": "1–5",
+   "instructions": "Do the following statements agree with the claims of the writer? Write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Early supporters believed the sharing economy would improve relationships between people.",
+     "answer": "YES",
+     "explanation": "Some argued it 'would rebuild a sense of community'."
+    },
+    {
+     "n": 2,
+     "prompt": "Rating systems helped strangers to trust each other.",
+     "answer": "YES",
+     "explanation": "Ratings 'served as a substitute for the personal trust'."
+    },
+    {
+     "n": 3,
+     "prompt": "Most properties on rental platforms were spare rooms in occupied homes.",
+     "answer": "NO",
+     "explanation": "Many were 'entire apartments bought specifically to be let to tourists'."
+    },
+    {
+     "n": 4,
+     "prompt": "Ride-hailing companies accepted the courts' decisions on drivers' rights.",
+     "answer": "NO",
+     "explanation": "Decisions 'that the companies have strongly contested'."
+    },
+    {
+     "n": 5,
+     "prompt": "Ride-hailing has reduced the number of people who own cars.",
+     "answer": "NOT GIVEN",
+     "explanation": "Car ownership is not discussed."
+    }
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "6–9",
+   "instructions": "Match each item with the correct source, A–D.",
+   "questions": [
+    {
+     "n": 6,
+     "prompt": "Restrictions on how often homes can be rented to visitors",
+     "answer": "C",
+     "explanation": "Local authorities 'introduced limits on the number of nights'."
+    },
+    {
+     "n": 7,
+     "prompt": "Claims that flexible working benefits drivers",
+     "answer": "B",
+     "explanation": "'The companies argued that this arrangement offered drivers valuable flexibility'."
+    },
+    {
+     "n": 8,
+     "prompt": "Rulings that some drivers deserve employment rights",
+     "answer": "D",
+     "explanation": "'Courts in several countries … have since ruled'."
+    },
+    {
+     "n": 9,
+     "prompt": "Evidence that a service added to traffic",
+     "answer": "A",
+     "explanation": "'Some studies … found that it increased overall traffic'."
+    }
+   ],
+   "options": [
+    {
+     "key": "A",
+     "text": "researchers"
+    },
+    {
+     "key": "B",
+     "text": "ride-hailing companies"
+    },
+    {
+     "key": "C",
+     "text": "city governments"
+    },
+    {
+     "key": "D",
+     "text": "courts"
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "10–13",
+   "instructions": "Choose the correct letter.",
+   "questions": [
+    {
+     "n": 10,
+     "prompt": "Why does the writer mention that a car is parked for most of its life?",
+     "options": [
+      {
+       "key": "A",
+       "text": "to show cars are badly designed"
+      },
+      {
+       "key": "B",
+       "text": "to illustrate the waste the sharing economy aimed to reduce"
+      },
+      {
+       "key": "C",
+       "text": "to argue that people should not buy cars"
+      },
+      {
+       "key": "D",
+       "text": "to explain the rise of ride-hailing drivers"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Underused assets — the 'economic logic' of sharing."
+    },
+    {
+     "n": 11,
+     "prompt": "What made the sharing economy possible on a large scale?",
+     "options": [
+      {
+       "key": "A",
+       "text": "changes in the law"
+      },
+      {
+       "key": "B",
+       "text": "new technology"
+      },
+      {
+       "key": "C",
+       "text": "a fall in car prices"
+      },
+      {
+       "key": "D",
+       "text": "the growth of tourism"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'Smartphones, GPS and online payment systems made this model practical'."
+    },
+    {
+     "n": 12,
+     "prompt": "Why did some studies find that ride-hailing increased traffic?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Drivers used older cars."
+      },
+      {
+       "key": "B",
+       "text": "It replaced greener forms of travel and involved empty trips."
+      },
+      {
+       "key": "C",
+       "text": "More tourists visited cities."
+      },
+      {
+       "key": "D",
+       "text": "It encouraged people to buy cars."
+      }
+     ],
+     "answer": "B",
+     "explanation": "Trips replaced public transport, walking or cycling, and drivers drove without passengers."
+    },
+    {
+     "n": 13,
+     "prompt": "What is the writer's overall conclusion?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The sharing economy has failed."
+      },
+      {
+       "key": "B",
+       "text": "All sharing platforms should be banned."
+      },
+      {
+       "key": "C",
+       "text": "Platforms should be assessed on what they actually do."
+      },
+      {
+       "key": "D",
+       "text": "Only large platforms are beneficial."
+      }
+     ],
+     "answer": "C",
+     "explanation": "'Judging each platform on what it actually does, rather than on how it describes itself'."
+    }
+   ]
+  }
+ ]
+}

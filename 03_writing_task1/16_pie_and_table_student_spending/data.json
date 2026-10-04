@@ -1,0 +1,72 @@
+{
+ "chart": "mixed",
+ "title": "Student budgets",
+ "parts": [
+  {
+   "chart": "pie",
+   "title": "Share of monthly spending",
+   "unit": "%",
+   "charts": [
+    {
+     "title": "All students",
+     "slices": [
+      {
+       "label": "Rent",
+       "value": 45
+      },
+      {
+       "label": "Food",
+       "value": 20
+      },
+      {
+       "label": "Transport",
+       "value": 8
+      },
+      {
+       "label": "Course materials",
+       "value": 5
+      },
+      {
+       "label": "Leisure",
+       "value": 12
+      },
+      {
+       "label": "Phone & internet",
+       "value": 4
+      },
+      {
+       "label": "Other",
+       "value": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chart": "table",
+   "title": "Average monthly budget by accommodation (US$)",
+   "columns": [
+    "Accommodation",
+    "Total budget",
+    "Of which rent"
+   ],
+   "rows": [
+    [
+     "University halls",
+     1100,
+     520
+    ],
+    [
+     "Shared private flat",
+     1250,
+     600
+    ],
+    [
+     "Living with parents",
+     600,
+     50
+    ]
+   ]
+  }
+ ]
+}

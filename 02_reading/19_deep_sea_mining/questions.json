@@ -1,0 +1,142 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "matching",
+   "range": "1–5",
+   "instructions": "Choose the correct heading for paragraphs B–F from the list of headings below.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Paragraph B",
+     "answer": "vi",
+     "explanation": "Where the nodules are and who controls the area (the ISA)."
+    },
+    {
+     "n": 2,
+     "prompt": "Paragraph C",
+     "answer": "iii",
+     "explanation": "The case for mining: metals for batteries, fewer land-based harms."
+    },
+    {
+     "n": 3,
+     "prompt": "Paragraph D",
+     "answer": "i",
+     "explanation": "Unexpected biodiversity; habitat that would not recover."
+    },
+    {
+     "n": 4,
+     "prompt": "Paragraph E",
+     "answer": "vii",
+     "explanation": "Plumes, waste water and the lasting 1989 experiment."
+    },
+    {
+     "n": 5,
+     "prompt": "Paragraph F",
+     "answer": "iv",
+     "explanation": "A disputed oxygen finding and calls for a pause."
+    }
+   ],
+   "options": [
+    {
+     "key": "i",
+     "text": "A habitat that cannot be replaced"
+    },
+    {
+     "key": "ii",
+     "text": "How nodules are processed on land"
+    },
+    {
+     "key": "iii",
+     "text": "Arguments in favour of extraction"
+    },
+    {
+     "key": "iv",
+     "text": "An unexpected discovery and calls for caution"
+    },
+    {
+     "key": "v",
+     "text": "The history of ocean exploration"
+    },
+    {
+     "key": "vi",
+     "text": "Location and legal responsibility"
+    },
+    {
+     "key": "vii",
+     "text": "Damage beyond the immediate area"
+    }
+   ]
+  },
+  {
+   "type": "gap",
+   "range": "6–9",
+   "instructions": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+   "questions": [
+    {
+     "n": 6,
+     "prompt": "Nodules grow around a core such as a piece of shell or a shark's ________.",
+     "answer": [
+      "tooth"
+     ],
+     "explanation": "Paragraph A."
+    },
+    {
+     "n": 7,
+     "prompt": "Mining on land can involve clearing forests and polluting ________.",
+     "answer": [
+      "rivers"
+     ],
+     "explanation": "Paragraph C."
+    },
+    {
+     "n": 8,
+     "prompt": "Nodules are pumped up a ________ to a ship.",
+     "answer": [
+      "pipe"
+     ],
+     "explanation": "Paragraph C."
+    },
+    {
+     "n": 9,
+     "prompt": "Collector vehicles would create ________ of fine sediment.",
+     "answer": [
+      "plumes"
+     ],
+     "explanation": "Paragraph E."
+    }
+   ]
+  },
+  {
+   "type": "tfng",
+   "range": "10–13",
+   "instructions": "Do the following statements agree with the information given in the text? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+   "questions": [
+    {
+     "n": 10,
+     "prompt": "The ISA has already approved commercial mining in the Clarion-Clipperton Zone.",
+     "answer": "FALSE",
+     "explanation": "It 'had not yet agreed the rules that would allow commercial mining to begin'."
+    },
+    {
+     "n": 11,
+     "prompt": "Most species collected in one survey were new to science.",
+     "answer": "TRUE",
+     "explanation": "'the large majority of species collected there had never been described before'."
+    },
+    {
+     "n": 12,
+     "prompt": "The 1989 test area had fully recovered when scientists returned.",
+     "answer": "FALSE",
+     "explanation": "Tracks still visible; 'many animal populations had not recovered'."
+    },
+    {
+     "n": 13,
+     "prompt": "Some car manufacturers have supported a pause on deep-sea mining.",
+     "answer": "TRUE",
+     "explanation": "'including several car manufacturers, have called for a pause'."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Sales ________ at $5 million in 2018 before falling.",
+     "answer": [
+      "peaked"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'peaked'."
+    },
+    {
+     "n": 2,
+     "prompt": "Rent ________ for almost half of total spending.",
+     "answer": [
+      "accounts"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'accounts'."
+    },
+    {
+     "n": 3,
+     "prompt": "After rising rapidly, the figure ________ at around 300.",
+     "answer": [
+      "plateaued"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'plateaued'."
+    },
+    {
+     "n": 4,
+     "prompt": "Electric cars ________ diesel cars in 2023.",
+     "answer": [
+      "overtook"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'overtook'."
+    },
+    {
+     "n": 5,
+     "prompt": "Temperatures ________ between 18 and 25 degrees.",
+     "answer": [
+      "fluctuated"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'fluctuated'."
+    },
+    {
+     "n": 6,
+     "prompt": "Men and women spent 3 and 4 hours ________.",
+     "answer": [
+      "respectively"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'respectively'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Which verb means 'fell very quickly'?",
+     "options": [
+      {
+       "key": "A",
+       "text": "plummeted"
+      },
+      {
+       "key": "B",
+       "text": "plateaued"
+      },
+      {
+       "key": "C",
+       "text": "peaked"
+      }
+     ],
+     "answer": "A",
+     "explanation": "plummet = fall sharply."
+    },
+    {
+     "n": 8,
+     "prompt": "The lowest point on a graph is a:",
+     "options": [
+      {
+       "key": "A",
+       "text": "trough"
+      },
+      {
+       "key": "B",
+       "text": "peak"
+      },
+      {
+       "key": "C",
+       "text": "plateau"
+      }
+     ],
+     "answer": "A",
+     "explanation": "trough."
+    },
+    {
+     "n": 9,
+     "prompt": "Choose the correct phrase:",
+     "options": [
+      {
+       "key": "A",
+       "text": "a twofold increase"
+      },
+      {
+       "key": "B",
+       "text": "a two-fold of increase"
+      },
+      {
+       "key": "C",
+       "text": "a double-fold increase"
+      }
+     ],
+     "answer": "A",
+     "explanation": "twofold = double."
+    },
+    {
+     "n": 10,
+     "prompt": "Choose the correct preposition: 'Visitors peaked ___ 2 million.'",
+     "options": [
+      {
+       "key": "A",
+       "text": "at"
+      },
+      {
+       "key": "B",
+       "text": "in"
+      },
+      {
+       "key": "C",
+       "text": "on"
+      }
+     ],
+     "answer": "A",
+     "explanation": "peak at + number."
+    }
+   ]
+  }
+ ]
+}

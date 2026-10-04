@@ -1,0 +1,59 @@
+{
+ "chart": "line",
+ "title": "Electricity from renewable sources",
+ "unit": "% of total",
+ "x": [
+  2000,
+  2005,
+  2010,
+  2015,
+  2020,
+  2025
+ ],
+ "series": [
+  {
+   "name": "Country A",
+   "values": [
+    55,
+    56,
+    58,
+    62,
+    66,
+    70
+   ]
+  },
+  {
+   "name": "Country B",
+   "values": [
+    15,
+    18,
+    24,
+    33,
+    45,
+    52
+   ]
+  },
+  {
+   "name": "Country C",
+   "values": [
+    8,
+    9,
+    12,
+    20,
+    31,
+    43
+   ]
+  },
+  {
+   "name": "Country D",
+   "values": [
+    2,
+    3,
+    5,
+    8,
+    15,
+    28
+   ]
+  }
+ ]
+}

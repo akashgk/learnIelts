@@ -1,0 +1,212 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Not only ____ technology save time, but it also reduces costs.",
+     "options": [
+      {
+       "key": "A",
+       "text": "does"
+      },
+      {
+       "key": "B",
+       "text": "is"
+      },
+      {
+       "key": "C",
+       "text": "do"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Not only + does + subject + verb."
+    },
+    {
+     "n": 2,
+     "prompt": "____ worries many parents is screen time.",
+     "options": [
+      {
+       "key": "A",
+       "text": "That"
+      },
+      {
+       "key": "B",
+       "text": "What"
+      },
+      {
+       "key": "C",
+       "text": "Which"
+      }
+     ],
+     "answer": "B",
+     "explanation": "What-cleft: What worries … is …"
+    },
+    {
+     "n": 3,
+     "prompt": "It is the government ____ should take action.",
+     "options": [
+      {
+       "key": "A",
+       "text": "that"
+      },
+      {
+       "key": "B",
+       "text": "what"
+      },
+      {
+       "key": "C",
+       "text": "where"
+      }
+     ],
+     "answer": "A",
+     "explanation": "It is … that …"
+    },
+    {
+     "n": 4,
+     "prompt": "Rarely ____ such a dramatic increase.",
+     "options": [
+      {
+       "key": "A",
+       "text": "we have seen"
+      },
+      {
+       "key": "B",
+       "text": "have we seen"
+      },
+      {
+       "key": "C",
+       "text": "we saw"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Inversion after 'rarely'."
+    },
+    {
+     "n": 5,
+     "prompt": "Only by working together ____ solve this problem.",
+     "options": [
+      {
+       "key": "A",
+       "text": "we can"
+      },
+      {
+       "key": "B",
+       "text": "can we"
+      },
+      {
+       "key": "C",
+       "text": "we could"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Only by … + inversion."
+    },
+    {
+     "n": 6,
+     "prompt": "Never before ____ so many people lived in cities.",
+     "options": [
+      {
+       "key": "A",
+       "text": "have"
+      },
+      {
+       "key": "B",
+       "text": "has"
+      },
+      {
+       "key": "C",
+       "text": "did"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Never before have so many people…"
+    },
+    {
+     "n": 7,
+     "prompt": "Which sentence is a correct cleft sentence?",
+     "options": [
+      {
+       "key": "A",
+       "text": "What we need is more investment."
+      },
+      {
+       "key": "B",
+       "text": "What we need it is more investment."
+      },
+      {
+       "key": "C",
+       "text": "What need we is more investment."
+      }
+     ],
+     "answer": "A",
+     "explanation": "What + clause + is + focus."
+    },
+    {
+     "n": 8,
+     "prompt": "Not only ____ the policy unpopular, but it was also expensive.",
+     "options": [
+      {
+       "key": "A",
+       "text": "was"
+      },
+      {
+       "key": "B",
+       "text": "did"
+      },
+      {
+       "key": "C",
+       "text": "has"
+      }
+     ],
+     "answer": "A",
+     "explanation": "With 'be', invert be: Not only was the policy…"
+    },
+    {
+     "n": 9,
+     "prompt": "Which is natural formal English?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Seldom do politicians admit mistakes."
+      },
+      {
+       "key": "B",
+       "text": "Seldom politicians do admit mistakes."
+      },
+      {
+       "key": "C",
+       "text": "Seldom politicians admit mistakes do."
+      }
+     ],
+     "answer": "A",
+     "explanation": "Seldom + do + subject + verb."
+    },
+    {
+     "n": 10,
+     "prompt": "____ is not the cost but the time that matters.",
+     "options": [
+      {
+       "key": "A",
+       "text": "It"
+      },
+      {
+       "key": "B",
+       "text": "What"
+      },
+      {
+       "key": "C",
+       "text": "There"
+      }
+     ],
+     "answer": "A",
+     "explanation": "It is not X but Y that…"
+    }
+   ]
+  }
+ ]
+}

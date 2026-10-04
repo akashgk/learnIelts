@@ -1,0 +1,184 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "11–15",
+   "instructions": "Choose the correct letter.",
+   "questions": [
+    {
+     "n": 11,
+     "prompt": "What was the site used for before it became a reserve?",
+     "options": [
+      {
+       "key": "A",
+       "text": "farming"
+      },
+      {
+       "key": "B",
+       "text": "gravel extraction"
+      },
+      {
+       "key": "C",
+       "text": "a water reservoir"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'land that had been used for gravel extraction'."
+    },
+    {
+     "n": 12,
+     "prompt": "According to the warden, the best time to visit is",
+     "options": [
+      {
+       "key": "A",
+       "text": "spring."
+      },
+      {
+       "key": "B",
+       "text": "summer."
+      },
+      {
+       "key": "C",
+       "text": "winter."
+      }
+     ],
+     "answer": "C",
+     "explanation": "'The best time to visit is actually winter'."
+    },
+    {
+     "n": 13,
+     "prompt": "Dogs are not allowed because they",
+     "options": [
+      {
+       "key": "A",
+       "text": "frighten visitors."
+      },
+      {
+       "key": "B",
+       "text": "disturb nesting birds."
+      },
+      {
+       "key": "C",
+       "text": "damage the paths."
+      }
+     ],
+     "answer": "B",
+     "explanation": "'because they disturb nesting birds'."
+    },
+    {
+     "n": 14,
+     "prompt": "To join the Sunday guided walk, visitors should",
+     "options": [
+      {
+       "key": "A",
+       "text": "pay a fee."
+      },
+      {
+       "key": "B",
+       "text": "book at the visitor centre."
+      },
+      {
+       "key": "C",
+       "text": "arrive at nine o'clock."
+      }
+     ],
+     "answer": "B",
+     "explanation": "'reserve a place at the visitor centre beforehand'. It is free and starts at ten."
+    },
+    {
+     "n": 15,
+     "prompt": "The warden says the best way to help the reserve is to",
+     "options": [
+      {
+       "key": "A",
+       "text": "volunteer."
+      },
+      {
+       "key": "B",
+       "text": "make a donation."
+      },
+      {
+       "key": "C",
+       "text": "become a member."
+      }
+     ],
+     "answer": "C",
+     "explanation": "'the best way is to become a member'."
+    }
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "16–20",
+   "instructions": "Label the map (see map.md). Write the correct letter, A–H.",
+   "questions": [
+    {
+     "n": 16,
+     "prompt": "Picnic area",
+     "answer": "G",
+     "explanation": "Far western end, south side of the main path."
+    },
+    {
+     "n": 17,
+     "prompt": "Kingfisher Hide",
+     "answer": "B",
+     "explanation": "Northern shore, turn right — north-east corner."
+    },
+    {
+     "n": 18,
+     "prompt": "Pond-dipping platform",
+     "answer": "F",
+     "explanation": "Directly south of the Kingfisher Hide, eastern end of the main path."
+    },
+    {
+     "n": 19,
+     "prompt": "Heron Hide",
+     "answer": "C",
+     "explanation": "Western side of the lake, just north of the main path."
+    },
+    {
+     "n": 20,
+     "prompt": "Wildlife garden",
+     "answer": "H",
+     "explanation": "South-east corner, to the right of the visitor centre."
+    }
+   ],
+   "options": [
+    {
+     "key": "A",
+     "text": "A"
+    },
+    {
+     "key": "B",
+     "text": "B"
+    },
+    {
+     "key": "C",
+     "text": "C"
+    },
+    {
+     "key": "D",
+     "text": "D"
+    },
+    {
+     "key": "E",
+     "text": "E"
+    },
+    {
+     "key": "F",
+     "text": "F"
+    },
+    {
+     "key": "G",
+     "text": "G"
+    },
+    {
+     "key": "H",
+     "text": "H"
+    }
+   ],
+   "strategy": "Trace the route with your finger. 'Turn left' from a north-facing position = west."
+  }
+ ]
+}

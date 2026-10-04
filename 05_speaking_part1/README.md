@@ -1,6 +1,6 @@
 # Speaking Part 1
 
-Twelve common Part 1 topics with 5 examiner-style questions and natural model answers each, plus a **question bank** (`99_question_bank`) of 30 more topics and 92 questions (`question_bank.json` for flashcards).
+Twenty common Part 1 topics with 5 examiner-style questions and natural model answers each, plus a **question bank** (`99_question_bank`) of 30 more topics and 92 questions (`question_bank.json` for flashcards).
 
 **Each folder contains** `questions.md` (practise with these first) · `model_answer.md` (answers + useful phrases) · `meta.json` (includes the `questions` array for flashcard or interview modes).
 
@@ -24,4 +24,12 @@ Twelve common Part 1 topics with 5 examiner-style questions and natural model an
 | 10 | **Part 1 · Transport & Travel**<br>5 Part 1 questions on transport & travel with natural model answers. | Band 6–8 models | transport, travel | [questions](10_transport_and_travel/questions.md) · [model_answer](10_transport_and_travel/model_answer.md) |
 | 11 | **Part 1 · Sleep & Daily Routine**<br>5 Part 1 questions on sleep & daily routine with natural model answers. | Band 6–8 models | health, everyday life | [questions](11_sleep_and_daily_routine/questions.md) · [model_answer](11_sleep_and_daily_routine/model_answer.md) |
 | 12 | **Part 1 · Friends**<br>5 Part 1 questions on friends with natural model answers. | Band 6–8 models | people, relationships | [questions](12_friends/questions.md) · [model_answer](12_friends/model_answer.md) |
+| 13 | **Part 1 · Shopping**<br>5 Part 1 questions on shopping with natural model answers. | Band 6–8 models | shopping, everyday life | [questions](13_shopping/questions.md) · [model_answer](13_shopping/model_answer.md) |
+| 14 | **Part 1 · Neighbours**<br>5 Part 1 questions on neighbours with natural model answers. | Band 6–8 models | people, community | [questions](14_neighbours/questions.md) · [model_answer](14_neighbours/model_answer.md) |
+| 15 | **Part 1 · Art**<br>5 Part 1 questions on art with natural model answers. | Band 6–8 models | arts, culture | [questions](15_art/questions.md) · [model_answer](15_art/model_answer.md) |
+| 16 | **Part 1 · Sport & Exercise**<br>5 Part 1 questions on sport & exercise with natural model answers. | Band 6–8 models | sport, health | [questions](16_sport/questions.md) · [model_answer](16_sport/model_answer.md) |
+| 17 | **Part 1 · Holidays**<br>5 Part 1 questions on holidays with natural model answers. | Band 6–8 models | travel, leisure | [questions](17_holidays/questions.md) · [model_answer](17_holidays/model_answer.md) |
+| 18 | **Part 1 · Mornings**<br>5 Part 1 questions on mornings with natural model answers. | Band 6–8 models | everyday life, health | [questions](18_mornings/questions.md) · [model_answer](18_mornings/model_answer.md) |
+| 19 | **Part 1 · Social Media**<br>5 Part 1 questions on social media with natural model answers. | Band 6–8 models | technology, media | [questions](19_social_media/questions.md) · [model_answer](19_social_media/model_answer.md) |
+| 20 | **Part 1 · Gifts**<br>5 Part 1 questions on gifts with natural model answers. | Band 6–8 models | people, culture | [questions](20_gifts/questions.md) · [model_answer](20_gifts/model_answer.md) |
 | 99 | **Part 1 Question Bank (92 questions)**<br>30 more Part 1 topics with 92 practice questions for flashcards or mock interviews. | All levels | speaking | [questions](99_question_bank/questions.md) |

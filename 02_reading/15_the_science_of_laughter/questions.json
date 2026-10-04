@@ -1,0 +1,142 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "matching",
+   "range": "1–5",
+   "instructions": "Choose the correct heading for paragraphs B–F from the list of headings below.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Paragraph B",
+     "answer": "v",
+     "explanation": "Laughter is far more common in company and fits around speech — evidence it is social."
+    },
+    {
+     "n": 2,
+     "prompt": "Paragraph C",
+     "answer": "ii",
+     "explanation": "Apes and rats — the evolutionary roots of laughter."
+    },
+    {
+     "n": 3,
+     "prompt": "Paragraph D",
+     "answer": "vii",
+     "explanation": "Contagious laughter, recorded laughter on TV, the Tanzania case."
+    },
+    {
+     "n": 4,
+     "prompt": "Paragraph E",
+     "answer": "iv",
+     "explanation": "Pain tolerance, endorphins and social bonds — health and social benefits."
+    },
+    {
+     "n": 5,
+     "prompt": "Paragraph F",
+     "answer": "i",
+     "explanation": "Spontaneous vs voluntary laughter, which listeners can distinguish."
+    }
+   ],
+   "options": [
+    {
+     "key": "i",
+     "text": "Two kinds of laughter and how we recognise them"
+    },
+    {
+     "key": "ii",
+     "text": "Laughter in other species"
+    },
+    {
+     "key": "iii",
+     "text": "Why some jokes are funnier than others"
+    },
+    {
+     "key": "iv",
+     "text": "Physical and social benefits"
+    },
+    {
+     "key": "v",
+     "text": "Evidence that laughter is about other people"
+    },
+    {
+     "key": "vi",
+     "text": "How children learn to laugh"
+    },
+    {
+     "key": "vii",
+     "text": "A sound that spreads from person to person"
+    }
+   ]
+  },
+  {
+   "type": "tfng",
+   "range": "6–9",
+   "instructions": "Do the following statements agree with the information given in the text? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+   "questions": [
+    {
+     "n": 6,
+     "prompt": "Most laughter recorded in Provine's study followed jokes.",
+     "answer": "FALSE",
+     "explanation": "Only 'around 10 to 20 per cent' followed anything like a joke."
+    },
+    {
+     "n": 7,
+     "prompt": "Listeners usually laugh more than speakers.",
+     "answer": "FALSE",
+     "explanation": "'Speakers also tend to laugh more than their listeners'."
+    },
+    {
+     "n": 8,
+     "prompt": "The sounds rats make when tickled can be heard by humans.",
+     "answer": "FALSE",
+     "explanation": "They are 'beyond the range of human hearing'."
+    },
+    {
+     "n": 9,
+     "prompt": "The 1962 laughter outbreak lasted for several years.",
+     "answer": "NOT GIVEN",
+     "explanation": "Schools closed 'temporarily', but no duration is given."
+    }
+   ]
+  },
+  {
+   "type": "gap",
+   "range": "10–13",
+   "instructions": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+   "questions": [
+    {
+     "n": 10,
+     "prompt": "Laughter usually occurs at pauses in speech, like ________ in writing.",
+     "answer": [
+      "punctuation"
+     ],
+     "explanation": "Paragraph B."
+    },
+    {
+     "n": 11,
+     "prompt": "Great apes make a panting sound especially when chased or ________.",
+     "answer": [
+      "tickled"
+     ],
+     "explanation": "Paragraph C."
+    },
+    {
+     "n": 12,
+     "prompt": "Laughter may release ________, which reduce pain.",
+     "answer": [
+      "endorphins"
+     ],
+     "explanation": "Paragraph E."
+    },
+    {
+     "n": 13,
+     "prompt": "Spontaneous laughter is usually higher in ________.",
+     "answer": [
+      "pitch"
+     ],
+     "explanation": "Paragraph F."
+    }
+   ]
+  }
+ ]
+}

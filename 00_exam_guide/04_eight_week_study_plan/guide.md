@@ -14,6 +14,7 @@ The plan uses only the material in this repo plus free official tests (see `reso
 | **6** | Speed & range | R07, R08 · L08 · W1-06, 08, 09, 10 · W2-08, 09, 10 · G08 | Paraphrase 5 sentences from an article |
 | **7** | Full mocks | Listening Test A (L01–04) and Test B (L05–08) under time · R06+R07+R08 as a full 60-min test · W2-11, 12 · S23 04–08 | Speaking: 2-minute talk every day |
 | **7½** | Extra mocks | Listening Test C (L09–12) · R09+R10+R14 as a full test · W1-11 to 14 · W2-15 to 20 · G09–G12 · V11–V14 | One prompt from the Task 2 bank every day |
+| **7¾** | Final mocks | Listening Test D (L13–16) · R15+R18+R20 and R16+R17+R19 as full tests · W1-15 to 18 · W2-21 to 26 · S1 13–20 · S23 13–18 · G13–G16 · V15–V18 | Timed full Writing paper (T1 + T2, 60 min) |
 | **8** | Review & polish | Redo every question you got wrong · W2-13, 14 · S23 09–12 · S1 05–12 · V09, V10 · exam guide 05 | Sleep 7–8 hours. Light review only in the last 2 days |
 
 ## How to work through a practice item

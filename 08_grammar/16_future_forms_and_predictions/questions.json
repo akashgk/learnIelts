@@ -1,0 +1,212 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "By 2050, the world's population ____ to nearly 10 billion.",
+     "options": [
+      {
+       "key": "A",
+       "text": "will have grown"
+      },
+      {
+       "key": "B",
+       "text": "will grow up"
+      },
+      {
+       "key": "C",
+       "text": "has grown"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Completed by a future time → future perfect."
+    },
+    {
+     "n": 2,
+     "prompt": "When the new bridge ____, journeys will be shorter.",
+     "options": [
+      {
+       "key": "A",
+       "text": "will open"
+      },
+      {
+       "key": "B",
+       "text": "opens"
+      },
+      {
+       "key": "C",
+       "text": "is opening"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Present simple after 'when' for future."
+    },
+    {
+     "n": 3,
+     "prompt": "Sales ____ to rise next year, according to analysts.",
+     "options": [
+      {
+       "key": "A",
+       "text": "are expected"
+      },
+      {
+       "key": "B",
+       "text": "expect"
+      },
+      {
+       "key": "C",
+       "text": "are expecting"
+      }
+     ],
+     "answer": "A",
+     "explanation": "be expected to (passive)."
+    },
+    {
+     "n": 4,
+     "prompt": "This time next week, I ____ on a beach.",
+     "options": [
+      {
+       "key": "A",
+       "text": "will lie"
+      },
+      {
+       "key": "B",
+       "text": "will be lying"
+      },
+      {
+       "key": "C",
+       "text": "lie"
+      }
+     ],
+     "answer": "B",
+     "explanation": "In progress at a future time → future continuous."
+    },
+    {
+     "n": 5,
+     "prompt": "Look at those dark clouds — it ____ rain.",
+     "options": [
+      {
+       "key": "A",
+       "text": "will"
+      },
+      {
+       "key": "B",
+       "text": "is going to"
+      },
+      {
+       "key": "C",
+       "text": "rains"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Prediction from present evidence."
+    },
+    {
+     "n": 6,
+     "prompt": "I ____ my tutor at 3 p.m. tomorrow; we've arranged it.",
+     "options": [
+      {
+       "key": "A",
+       "text": "meet"
+      },
+      {
+       "key": "B",
+       "text": "am meeting"
+      },
+      {
+       "key": "C",
+       "text": "will have met"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Fixed arrangement → present continuous."
+    },
+    {
+     "n": 7,
+     "prompt": "The train ____ at 6.15 tomorrow morning.",
+     "options": [
+      {
+       "key": "A",
+       "text": "leaves"
+      },
+      {
+       "key": "B",
+       "text": "will be leaving"
+      },
+      {
+       "key": "C",
+       "text": "is going to leave"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Timetable → present simple."
+    },
+    {
+     "n": 8,
+     "prompt": "Electric cars are ____ to replace petrol cars eventually.",
+     "options": [
+      {
+       "key": "A",
+       "text": "likely"
+      },
+      {
+       "key": "B",
+       "text": "probably"
+      },
+      {
+       "key": "C",
+       "text": "possibly"
+      }
+     ],
+     "answer": "A",
+     "explanation": "be likely to + verb."
+    },
+    {
+     "n": 9,
+     "prompt": "As soon as I ____ my results, I'll call you.",
+     "options": [
+      {
+       "key": "A",
+       "text": "will get"
+      },
+      {
+       "key": "B",
+       "text": "get"
+      },
+      {
+       "key": "C",
+       "text": "am getting"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Present simple after 'as soon as'."
+    },
+    {
+     "n": 10,
+     "prompt": "By the time you arrive, we ____ dinner.",
+     "options": [
+      {
+       "key": "A",
+       "text": "will finish"
+      },
+      {
+       "key": "B",
+       "text": "will have finished"
+      },
+      {
+       "key": "C",
+       "text": "finish"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Completed before a future point."
+    }
+   ]
+  }
+ ]
+}

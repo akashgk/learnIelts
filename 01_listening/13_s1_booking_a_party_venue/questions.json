@@ -1,0 +1,109 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–10",
+   "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Room: Main Hall (maximum ________ people)",
+     "answer": [
+      "120",
+      "a hundred and twenty",
+      "one hundred and twenty"
+     ],
+     "explanation": "'The Main Hall takes up to a hundred and twenty.'",
+     "trap": "40 is the Garden Room; 60 is the number of guests."
+    },
+    {
+     "n": 2,
+     "prompt": "Date: Sunday ________ April",
+     "answer": [
+      "20",
+      "20th",
+      "twentieth"
+     ],
+     "explanation": "Saturday 19th is booked; Sunday the twentieth is free."
+    },
+    {
+     "n": 3,
+     "prompt": "Access from ________ p.m.",
+     "answer": [
+      "5",
+      "five",
+      "5.00",
+      "5:00"
+     ],
+     "explanation": "'You can have access from five o'clock'."
+    },
+    {
+     "n": 4,
+     "prompt": "Refundable deposit: £________",
+     "answer": [
+      "100",
+      "one hundred"
+     ],
+     "explanation": "'a refundable deposit of one hundred pounds'.",
+     "trap": "£45 is the hourly rate."
+    },
+    {
+     "n": 5,
+     "prompt": "Must bring own plates and ________",
+     "answer": [
+      "glasses"
+     ],
+     "explanation": "'we don't provide plates or glasses'."
+    },
+    {
+     "n": 6,
+     "prompt": "Music must end by ________ p.m.",
+     "answer": [
+      "10.45",
+      "10:45",
+      "ten forty-five"
+     ],
+     "explanation": "'all music has to finish by ten forty-five'.",
+     "trap": "11 is when the party ends."
+    },
+    {
+     "n": 7,
+     "prompt": "Car park: ________ spaces, free in the evening",
+     "answer": [
+      "30",
+      "thirty"
+     ],
+     "explanation": "'thirty spaces'."
+    },
+    {
+     "n": 8,
+     "prompt": "Caretaker: Mr ________",
+     "answer": [
+      "Pritchard"
+     ],
+     "explanation": "Spelled P-R-I-T-C-H-A-R-D."
+    },
+    {
+     "n": 9,
+     "prompt": "Return booking form within ________ days",
+     "answer": [
+      "7",
+      "seven"
+     ],
+     "explanation": "'within seven days'."
+    },
+    {
+     "n": 10,
+     "prompt": "Contact number: ________",
+     "answer": [
+      "07854316207",
+      "07854 316 207"
+     ],
+     "explanation": "'07854 316 207'."
+    }
+   ],
+   "strategy": "Several numbers are heard close together (40, 60, 120; £45, £100). Decide which number answers the specific note."
+  }
+ ]
+}

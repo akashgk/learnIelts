@@ -1,0 +1,158 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "21–24",
+   "instructions": "Choose the correct letter.",
+   "questions": [
+    {
+     "n": 21,
+     "prompt": "What do the students think was the main reason for BeanHouse's growth?",
+     "options": [
+      {
+       "key": "A",
+       "text": "its marketing"
+      },
+      {
+       "key": "B",
+       "text": "its choice of locations"
+      },
+      {
+       "key": "C",
+       "text": "its low prices"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Daniel: 'the main reason was actually the choice of locations'.",
+     "trap": "A is the case study's view, which they question."
+    },
+    {
+     "n": 22,
+     "prompt": "What was clever about the social media strategy?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It used paid advertising."
+      },
+      {
+       "key": "B",
+       "text": "Customers promoted the brand themselves."
+      },
+      {
+       "key": "C",
+       "text": "It targeted older customers."
+      }
+     ],
+     "answer": "B",
+     "explanation": "'the customers did the advertising for free'."
+    },
+    {
+     "n": 23,
+     "prompt": "The social media strategy was less successful with",
+     "options": [
+      {
+       "key": "A",
+       "text": "students."
+      },
+      {
+       "key": "B",
+       "text": "older customers."
+      },
+      {
+       "key": "C",
+       "text": "commuters."
+      }
+     ],
+     "answer": "B",
+     "explanation": "'older customers hardly engaged with it at all'."
+    },
+    {
+     "n": 24,
+     "prompt": "What criticism do the students make of the loyalty scheme data?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It covered too short a period."
+      },
+      {
+       "key": "B",
+       "text": "It came from too few cafés."
+      },
+      {
+       "key": "C",
+       "text": "It was collected by the company."
+      }
+     ],
+     "answer": "A",
+     "explanation": "'the figures only covered the first six months'."
+    }
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "25–30",
+   "instructions": "What do the students say about each decision? Choose your answers from A–E. You may use any letter more than once.",
+   "questions": [
+    {
+     "n": 25,
+     "prompt": "Price increase",
+     "answer": "C",
+     "explanation": "Both thought it risky, but 'in fact sales hardly fell' — it turned out better than expected."
+    },
+    {
+     "n": 26,
+     "prompt": "Seasonal menus",
+     "answer": "B",
+     "explanation": "Sofia liked them; Daniel disagreed — they disagree."
+    },
+    {
+     "n": 27,
+     "prompt": "Partnership with local bakeries",
+     "answer": "A",
+     "explanation": "'We both thought that was the best decision.'"
+    },
+    {
+     "n": 28,
+     "prompt": "Celebrity endorsement",
+     "answer": "D",
+     "explanation": "Both thought it was a mistake."
+    },
+    {
+     "n": 29,
+     "prompt": "Mobile ordering app",
+     "answer": "B",
+     "explanation": "Sofia: essential; Daniel: not so sure — they disagree."
+    },
+    {
+     "n": 30,
+     "prompt": "Ending plastic cups",
+     "answer": "E",
+     "explanation": "Positive but 'introduced quite late … it looked like a reaction'."
+    }
+   ],
+   "options": [
+    {
+     "key": "A",
+     "text": "Both students think it was the most successful decision."
+    },
+    {
+     "key": "B",
+     "text": "The students disagree about it."
+    },
+    {
+     "key": "C",
+     "text": "It worked better than the students expected."
+    },
+    {
+     "key": "D",
+     "text": "Both students think it was a poor decision."
+    },
+    {
+     "key": "E",
+     "text": "It was a good idea but was introduced too late."
+    }
+   ]
+  }
+ ]
+}

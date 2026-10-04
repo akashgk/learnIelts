@@ -1,0 +1,110 @@
+[
+ {
+  "word": "upbringing",
+  "pos": "n",
+  "meaning": "the way a child is raised",
+  "example": "A strict upbringing can shape a person's values.",
+  "collocations": [
+   "a strict / happy upbringing"
+  ]
+ },
+ {
+  "word": "nuclear family",
+  "pos": "n",
+  "meaning": "parents and their children only",
+  "example": "The nuclear family is now the norm in cities.",
+  "collocations": [
+   "the traditional nuclear family"
+  ]
+ },
+ {
+  "word": "extended family",
+  "pos": "n",
+  "meaning": "relatives beyond parents and children",
+  "example": "She grew up surrounded by her extended family.",
+  "collocations": [
+   "live with the extended family"
+  ]
+ },
+ {
+  "word": "sibling",
+  "pos": "n",
+  "meaning": "a brother or sister",
+  "example": "Siblings often compete for attention.",
+  "collocations": [
+   "older / younger sibling"
+  ]
+ },
+ {
+  "word": "role model",
+  "pos": "n",
+  "meaning": "a person others try to copy",
+  "example": "Parents are children's first role models.",
+  "collocations": [
+   "a positive role model"
+  ]
+ },
+ {
+  "word": "discipline",
+  "pos": "n/v",
+  "meaning": "training to obey rules; to punish",
+  "example": "Consistent discipline helps children feel secure.",
+  "collocations": [
+   "impose / maintain discipline"
+  ]
+ },
+ {
+  "word": "generation gap",
+  "pos": "n",
+  "meaning": "differences between older and younger people",
+  "example": "Technology has widened the generation gap.",
+  "collocations": [
+   "bridge the generation gap"
+  ]
+ },
+ {
+  "word": "single-parent",
+  "pos": "adj",
+  "meaning": "with only one parent",
+  "example": "Single-parent families may need extra support.",
+  "collocations": [
+   "single-parent household / family"
+  ]
+ },
+ {
+  "word": "childcare",
+  "pos": "n",
+  "meaning": "looking after children while parents work",
+  "example": "The high cost of childcare keeps many parents at home.",
+  "collocations": [
+   "affordable childcare"
+  ]
+ },
+ {
+  "word": "overprotective",
+  "pos": "adj",
+  "meaning": "protecting someone too much",
+  "example": "Overprotective parents may limit independence.",
+  "collocations": [
+   "overprotective parents"
+  ]
+ },
+ {
+  "word": "bond",
+  "pos": "n/v",
+  "meaning": "a close connection",
+  "example": "Shared meals strengthen family bonds.",
+  "collocations": [
+   "strengthen / form a bond"
+  ]
+ },
+ {
+  "word": "peer pressure",
+  "pos": "n",
+  "meaning": "influence from people of the same age",
+  "example": "Teenagers often give in to peer pressure.",
+  "collocations": [
+   "give in to / resist peer pressure"
+  ]
+ }
+]

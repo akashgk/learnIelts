@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "English is often described as a global lingua ________.",
+     "answer": [
+      "franca"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'franca'."
+    },
+    {
+     "n": 2,
+     "prompt": "He is ________ in French after living in Paris.",
+     "answer": [
+      "fluent"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'fluent'."
+    },
+    {
+     "n": 3,
+     "prompt": "Crossed arms are an example of body ________.",
+     "answer": [
+      "language"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'language'."
+    },
+    {
+     "n": 4,
+     "prompt": "Many universities require proof of English ________.",
+     "answer": [
+      "proficiency"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'proficiency'."
+    },
+    {
+     "n": 5,
+     "prompt": "A good presenter can ________ complex ideas simply.",
+     "answer": [
+      "convey"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'convey'."
+    },
+    {
+     "n": 6,
+     "prompt": "People from the north speak a different ________.",
+     "answer": [
+      "dialect"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'dialect'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Choose the correct preposition: 'fluent ___ Spanish'",
+     "options": [
+      {
+       "key": "A",
+       "text": "in"
+      },
+      {
+       "key": "B",
+       "text": "at"
+      },
+      {
+       "key": "C",
+       "text": "on"
+      }
+     ],
+     "answer": "A",
+     "explanation": "fluent in."
+    },
+    {
+     "n": 8,
+     "prompt": "Someone who speaks two languages is:",
+     "options": [
+      {
+       "key": "A",
+       "text": "bilingual"
+      },
+      {
+       "key": "B",
+       "text": "bilateral"
+      },
+      {
+       "key": "C",
+       "text": "binary"
+      }
+     ],
+     "answer": "A",
+     "explanation": "bilingual."
+    },
+    {
+     "n": 9,
+     "prompt": "'Articulate' means:",
+     "options": [
+      {
+       "key": "A",
+       "text": "able to express ideas clearly"
+      },
+      {
+       "key": "B",
+       "text": "speaking very loudly"
+      },
+      {
+       "key": "C",
+       "text": "knowing many languages"
+      }
+     ],
+     "answer": "A",
+     "explanation": "articulate = clear and expressive."
+    },
+    {
+     "n": 10,
+     "prompt": "Choose the correct collocation:",
+     "options": [
+      {
+       "key": "A",
+       "text": "lead to a misunderstanding"
+      },
+      {
+       "key": "B",
+       "text": "make to a misunderstanding"
+      },
+      {
+       "key": "C",
+       "text": "go to a misunderstanding"
+      }
+     ],
+     "answer": "A",
+     "explanation": "lead to."
+    }
+   ]
+  }
+ ]
+}

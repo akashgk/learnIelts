@@ -1,7 +1,7 @@
 {
  "name": "learnIelts — IELTS Academic practice",
  "schema_version": 1,
- "commit": "844b96a",
+ "commit": "20ee096",
  "question_types": {
   "tfng": "True / False / Not Given",
   "ynng": "Yes / No / Not Given",
@@ -24,56 +24,56 @@
    "label": "Listening",
    "path": "01_listening",
    "readme": "01_listening/README.md",
-   "count": 12
+   "count": 16
   },
   {
    "key": "reading",
    "label": "Reading",
    "path": "02_reading",
    "readme": "02_reading/README.md",
-   "count": 14
+   "count": 20
   },
   {
    "key": "writing_task1",
    "label": "Writing Task 1",
    "path": "03_writing_task1",
    "readme": "03_writing_task1/README.md",
-   "count": 14
+   "count": 18
   },
   {
    "key": "writing_task2",
    "label": "Writing Task 2",
    "path": "04_writing_task2",
    "readme": "04_writing_task2/README.md",
-   "count": 21
+   "count": 27
   },
   {
    "key": "speaking_part1",
    "label": "Speaking Part 1",
    "path": "05_speaking_part1",
    "readme": "05_speaking_part1/README.md",
-   "count": 13
+   "count": 21
   },
   {
    "key": "speaking_part2_3",
    "label": "Speaking Parts 2 & 3",
    "path": "06_speaking_part2_3",
    "readme": "06_speaking_part2_3/README.md",
-   "count": 13
+   "count": 19
   },
   {
    "key": "vocabulary",
    "label": "Vocabulary",
    "path": "07_vocabulary",
    "readme": "07_vocabulary/README.md",
-   "count": 14
+   "count": 18
   },
   {
    "key": "grammar",
    "label": "Grammar",
    "path": "08_grammar",
    "readme": "08_grammar/README.md",
-   "count": 12
+   "count": 16
   }
  ],
  "items": [
@@ -581,6 +581,141 @@
    ]
   },
   {
+   "id": "01_listening/13_s1_booking_a_party_venue",
+   "section": "listening",
+   "slug": "13_s1_booking_a_party_venue",
+   "order": 13,
+   "title": "Section 1 · Booking a Party Venue",
+   "summary": "A woman books a community hall for a birthday party — note completion.",
+   "difficulty": "Section 1 · Band 4.5–6",
+   "topics": [
+    "everyday life",
+    "events"
+   ],
+   "skills": [
+    "note completion",
+    "numbers",
+    "prices"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "MANAGER": "male",
+    "WOMAN": "female"
+   },
+   "test": "Practice Test D",
+   "question_count": 10,
+   "question_types": [
+    "gap"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
+   "id": "01_listening/14_s2_wetland_nature_reserve",
+   "section": "listening",
+   "slug": "14_s2_wetland_nature_reserve",
+   "order": 14,
+   "title": "Section 2 · Wetland Nature Reserve",
+   "summary": "A warden introduces a nature reserve — MCQ and map labelling.",
+   "difficulty": "Section 2 · Band 5–6.5",
+   "topics": [
+    "nature",
+    "tourism"
+   ],
+   "skills": [
+    "multiple choice",
+    "map labelling",
+    "directions"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "WARDEN": "male"
+   },
+   "test": "Practice Test D",
+   "question_count": 10,
+   "question_types": [
+    "matching",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "map.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
+   "id": "01_listening/15_s3_marketing_case_study",
+   "section": "listening",
+   "slug": "15_s3_marketing_case_study",
+   "order": 15,
+   "title": "Section 3 · Marketing Case Study",
+   "summary": "Two business students discuss a case study on a café chain's marketing with their tutor.",
+   "difficulty": "Section 3 · Band 6–7.5",
+   "topics": [
+    "business",
+    "education"
+   ],
+   "skills": [
+    "multiple choice",
+    "matching opinions"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "TUTOR": "male",
+    "SOFIA": "female",
+    "DANIEL": "male"
+   },
+   "test": "Practice Test D",
+   "question_count": 10,
+   "question_types": [
+    "matching",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
+   "id": "01_listening/16_s4_lecture_history_of_paper_money",
+   "section": "listening",
+   "slug": "16_s4_lecture_history_of_paper_money",
+   "order": 16,
+   "title": "Section 4 · Lecture: The History of Paper Money",
+   "summary": "From Chinese merchants' receipts to modern central banks — note completion.",
+   "difficulty": "Section 4 · Band 6.5–8",
+   "topics": [
+    "history",
+    "economy"
+   ],
+   "skills": [
+    "note completion"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "LECTURER": "female"
+   },
+   "test": "Practice Test D",
+   "question_count": 10,
+   "question_types": [
+    "gap"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
    "id": "02_reading/01_urban_heat_islands",
    "section": "reading",
    "slug": "01_urban_heat_islands",
@@ -1050,6 +1185,206 @@
    ]
   },
   {
+   "id": "02_reading/15_the_science_of_laughter",
+   "section": "reading",
+   "slug": "15_the_science_of_laughter",
+   "order": 15,
+   "title": "Why We Laugh",
+   "summary": "What laughter is for, where it came from and why it is contagious.",
+   "difficulty": "Passage 1 · Band 5.5–6.5",
+   "topics": [
+    "psychology",
+    "science",
+    "health"
+   ],
+   "skills": [
+    "matching headings",
+    "true/false/not given",
+    "sentence completion"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "gap",
+    "matching",
+    "tfng"
+   ],
+   "passage_words": 531,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/16_ice_cores_climate_archives",
+   "section": "reading",
+   "slug": "16_ice_cores_climate_archives",
+   "order": 16,
+   "title": "Reading the Ice",
+   "summary": "How scientists use ice cores to reconstruct hundreds of thousands of years of climate.",
+   "difficulty": "Passage 2 · Band 6.5–7.5",
+   "topics": [
+    "science",
+    "environment",
+    "climate"
+   ],
+   "skills": [
+    "flow-chart completion",
+    "multiple choice",
+    "true/false/not given"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "gap",
+    "mcq",
+    "tfng"
+   ],
+   "passage_words": 541,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/17_history_of_the_bicycle",
+   "section": "reading",
+   "slug": "17_history_of_the_bicycle",
+   "order": 17,
+   "title": "Two Wheels",
+   "summary": "From the 'running machine' to the safety bicycle — and its surprising social impact.",
+   "difficulty": "Passage 1–2 · Band 6–7",
+   "topics": [
+    "history",
+    "technology",
+    "transport",
+    "society"
+   ],
+   "skills": [
+    "matching information",
+    "summary completion",
+    "yes/no/not given"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "matching",
+    "ynng"
+   ],
+   "passage_words": 554,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/18_the_sharing_economy",
+   "section": "reading",
+   "slug": "18_the_sharing_economy",
+   "order": 18,
+   "title": "Borrowed, Not Bought",
+   "summary": "The rise of the sharing economy and the debate over its benefits and costs.",
+   "difficulty": "Passage 2 · Band 6.5–7.5",
+   "topics": [
+    "business",
+    "economy",
+    "technology",
+    "society"
+   ],
+   "skills": [
+    "yes/no/not given",
+    "matching features",
+    "multiple choice"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "matching",
+    "mcq",
+    "ynng"
+   ],
+   "passage_words": 564,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/19_deep_sea_mining",
+   "section": "reading",
+   "slug": "19_deep_sea_mining",
+   "order": 19,
+   "title": "Treasure on the Ocean Floor",
+   "summary": "The race to mine the deep seabed for battery metals, and the scientific concerns.",
+   "difficulty": "Passage 2–3 · Band 7–8",
+   "topics": [
+    "environment",
+    "ocean",
+    "economy",
+    "technology"
+   ],
+   "skills": [
+    "matching headings",
+    "sentence completion",
+    "true/false/not given"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "gap",
+    "matching",
+    "tfng"
+   ],
+   "passage_words": 561,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/20_deciphering_linear_b",
+   "section": "reading",
+   "slug": "20_deciphering_linear_b",
+   "order": 20,
+   "title": "Cracking an Ancient Code",
+   "summary": "How an architect and a classicist deciphered the Bronze Age script Linear B.",
+   "difficulty": "Passage 3 · Band 7–8.5",
+   "topics": [
+    "history",
+    "language",
+    "culture"
+   ],
+   "skills": [
+    "multiple choice",
+    "matching features",
+    "summary completion"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "gap",
+    "matching",
+    "mcq"
+   ],
+   "passage_words": 607,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
    "id": "03_writing_task1/01_line_graph_international_students",
    "section": "writing_task1",
    "slug": "01_line_graph_international_students",
@@ -1355,6 +1690,94 @@
    "minutes": 20,
    "min_words": 150,
    "model_answer_words": 193,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/15_line_graph_renewable_energy",
+   "section": "writing_task1",
+   "slug": "15_line_graph_renewable_energy",
+   "order": 15,
+   "title": "Line Graph · Renewable Electricity in Four Countries",
+   "summary": "Describe four lines with different starting points and growth rates.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "energy",
+    "environment"
+   ],
+   "chart": "line",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 175,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/16_pie_and_table_student_spending",
+   "section": "writing_task1",
+   "slug": "16_pie_and_table_student_spending",
+   "order": 16,
+   "title": "Pie Chart + Table · Student Budgets",
+   "summary": "Combine a pie chart and a table; link the two sources in the overview.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "education",
+    "economy"
+   ],
+   "chart": "mixed",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 185,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/17_process_making_chocolate",
+   "section": "writing_task1",
+   "slug": "17_process_making_chocolate",
+   "order": 17,
+   "title": "Process · How Chocolate Is Made",
+   "summary": "A process with natural and man-made stages; mix active and passive.",
+   "difficulty": "Band 6.5–7.5 target",
+   "topics": [
+    "food",
+    "industry"
+   ],
+   "chart": "process",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 204,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/18_map_village_tourism_development",
+   "section": "writing_task1",
+   "slug": "18_map_village_tourism_development",
+   "order": 18,
+   "title": "Maps · A Fishing Village Becomes a Resort",
+   "summary": "Describe transformation from a fishing village to a tourist resort.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "tourism",
+    "urban planning"
+   ],
+   "chart": "map",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 190,
    "files": [
     "data.json",
     "model_answer.md",
@@ -1806,6 +2229,137 @@
    ]
   },
   {
+   "id": "04_writing_task2/21_opinion_university_subject_choice",
+   "section": "writing_task2",
+   "slug": "21_opinion_university_subject_choice",
+   "order": 21,
+   "title": "Opinion · Should Students Study Only Useful Subjects?",
+   "summary": "Disagree essay on the value of non-vocational degrees.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "education",
+    "work"
+   ],
+   "essay_type": "opinion",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 287,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/22_discussion_working_hours_productivity",
+   "section": "writing_task2",
+   "slug": "22_discussion_working_hours_productivity",
+   "order": 22,
+   "title": "Discussion · Longer Hours or Better Balance?",
+   "summary": "Discuss whether long working hours increase success.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "work",
+    "health",
+    "society"
+   ],
+   "essay_type": "discussion",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 282,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/23_adv_outweigh_genetic_testing",
+   "section": "writing_task2",
+   "slug": "23_adv_outweigh_genetic_testing",
+   "order": 23,
+   "title": "Advantages Outweigh? · Personal DNA Testing",
+   "summary": "Weigh the benefits and risks of home genetic tests.",
+   "difficulty": "Band 7.5–8.5 target",
+   "topics": [
+    "science",
+    "health",
+    "technology"
+   ],
+   "essay_type": "advantages_outweigh",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 288,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/24_problem_solution_noise_pollution",
+   "section": "writing_task2",
+   "slug": "24_problem_solution_noise_pollution",
+   "order": 24,
+   "title": "Causes & Solutions · Noise in Cities",
+   "summary": "Explain the causes and effects of urban noise and propose solutions.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "cities",
+    "health",
+    "environment"
+   ],
+   "essay_type": "problem_solution",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 293,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/25_two_part_volunteering_decline",
+   "section": "writing_task2",
+   "slug": "25_two_part_volunteering_decline",
+   "order": 25,
+   "title": "Two-part Question · Why Fewer People Volunteer",
+   "summary": "Explain falling volunteering and suggest how to encourage it.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "society",
+    "community",
+    "work"
+   ],
+   "essay_type": "two_part",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 290,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/26_positive_negative_cashless_society",
+   "section": "writing_task2",
+   "slug": "26_positive_negative_cashless_society",
+   "order": 26,
+   "title": "Positive or Negative? · Going Cashless",
+   "summary": "Evaluate the move from cash to digital payments.",
+   "difficulty": "Band 7.5–8.5 target",
+   "topics": [
+    "technology",
+    "economy",
+    "society"
+   ],
+   "essay_type": "positive_negative",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 280,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
    "id": "04_writing_task2/99_prompt_bank",
    "section": "writing_task2",
    "slug": "99_prompt_bank",
@@ -2144,6 +2698,214 @@
     "Do you prefer having a few close friends or many friends?"
    ],
    "model_answer_words": 147,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/13_shopping",
+   "section": "speaking_part1",
+   "slug": "13_shopping",
+   "order": 13,
+   "title": "Part 1 · Shopping",
+   "summary": "5 Part 1 questions on shopping with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "shopping",
+    "everyday life"
+   ],
+   "minutes": 5,
+   "questions": [
+    "Do you enjoy shopping?",
+    "Do you prefer shopping online or in shops?",
+    "What was the last thing you bought?",
+    "Do you ever buy things you don't really need?",
+    "Has the way people shop changed in your country?"
+   ],
+   "model_answer_words": 180,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/14_neighbours",
+   "section": "speaking_part1",
+   "slug": "14_neighbours",
+   "order": 14,
+   "title": "Part 1 · Neighbours",
+   "summary": "5 Part 1 questions on neighbours with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "people",
+    "community"
+   ],
+   "minutes": 5,
+   "questions": [
+    "Do you know your neighbours?",
+    "How often do you see them?",
+    "Have your neighbours ever helped you?",
+    "Do people in your country usually know their neighbours?",
+    "What makes a good neighbour?"
+   ],
+   "model_answer_words": 153,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/15_art",
+   "section": "speaking_part1",
+   "slug": "15_art",
+   "order": 15,
+   "title": "Part 1 · Art",
+   "summary": "5 Part 1 questions on art with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "arts",
+    "culture"
+   ],
+   "minutes": 5,
+   "questions": [
+    "Do you like art?",
+    "Have you ever been to an art gallery?",
+    "Did you learn art at school?",
+    "Do you have any paintings or pictures at home?",
+    "Do you think art is important for children?"
+   ],
+   "model_answer_words": 156,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/16_sport",
+   "section": "speaking_part1",
+   "slug": "16_sport",
+   "order": 16,
+   "title": "Part 1 · Sport & Exercise",
+   "summary": "5 Part 1 questions on sport & exercise with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "sport",
+    "health"
+   ],
+   "minutes": 5,
+   "questions": [
+    "Do you play any sports?",
+    "What sports are popular in your country?",
+    "Did you do sport at school?",
+    "Do you prefer watching or playing sport?",
+    "Do you think people do enough exercise nowadays?"
+   ],
+   "model_answer_words": 143,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/17_holidays",
+   "section": "speaking_part1",
+   "slug": "17_holidays",
+   "order": 17,
+   "title": "Part 1 · Holidays",
+   "summary": "5 Part 1 questions on holidays with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "travel",
+    "leisure"
+   ],
+   "minutes": 5,
+   "questions": [
+    "Where did you go on your last holiday?",
+    "Do you prefer relaxing or active holidays?",
+    "Do you like to plan holidays in advance?",
+    "Who do you usually go on holiday with?",
+    "What kind of holiday would you like to have in the future?"
+   ],
+   "model_answer_words": 167,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/18_mornings",
+   "section": "speaking_part1",
+   "slug": "18_mornings",
+   "order": 18,
+   "title": "Part 1 · Mornings",
+   "summary": "5 Part 1 questions on mornings with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "everyday life",
+    "health"
+   ],
+   "minutes": 5,
+   "questions": [
+    "Are you a morning person?",
+    "What do you usually do in the morning?",
+    "Do you eat breakfast every day?",
+    "Has your morning routine changed recently?",
+    "What do you think is the best way to start the day?"
+   ],
+   "model_answer_words": 146,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/19_social_media",
+   "section": "speaking_part1",
+   "slug": "19_social_media",
+   "order": 19,
+   "title": "Part 1 · Social Media",
+   "summary": "5 Part 1 questions on social media with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "technology",
+    "media"
+   ],
+   "minutes": 5,
+   "questions": [
+    "Which social media do you use?",
+    "How much time do you spend on social media?",
+    "What do you like about it?",
+    "Is there anything you dislike about it?",
+    "Do you think you'll use social media more or less in the future?"
+   ],
+   "model_answer_words": 154,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/20_gifts",
+   "section": "speaking_part1",
+   "slug": "20_gifts",
+   "order": 20,
+   "title": "Part 1 · Gifts",
+   "summary": "5 Part 1 questions on gifts with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "people",
+    "culture"
+   ],
+   "minutes": 5,
+   "questions": [
+    "Do you like giving gifts?",
+    "What was the best gift you've received?",
+    "Is it difficult to choose gifts?",
+    "When do people give gifts in your country?",
+    "Do you think expensive gifts are better?"
+   ],
+   "model_answer_words": 151,
    "files": [
     "model_answer.md",
     "questions.md"
@@ -2565,6 +3327,203 @@
    ]
   },
   {
+   "id": "06_speaking_part2_3/13_a_time_you_were_late",
+   "section": "speaking_part2_3",
+   "slug": "13_a_time_you_were_late",
+   "order": 13,
+   "title": "Part 2 & 3 · A Time You Were Late",
+   "summary": "Describe a time when you were late for something important.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "everyday life",
+    "time"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe a time when you were late for something important.",
+    "bullets": [
+     "what you were late for",
+     "why you were late",
+     "what happened as a result",
+     "and how you felt about it"
+    ]
+   },
+   "part3_questions": [
+    "Why are some people often late?",
+    "Is punctuality more important in some cultures than others?",
+    "How has technology changed the way we manage time?"
+   ],
+   "model_answer_words": 247,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/14_a_useful_app",
+   "section": "speaking_part2_3",
+   "slug": "14_a_useful_app",
+   "order": 14,
+   "title": "Part 2 & 3 · A Useful App or Website",
+   "summary": "Describe a website or app that you find useful.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "technology"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe a website or app that you find useful.",
+    "bullets": [
+     "what it is",
+     "how you found out about it",
+     "what you use it for",
+     "and explain why it is useful"
+    ]
+   },
+   "part3_questions": [
+    "What are the most popular apps in your country?",
+    "Do people rely too much on apps?",
+    "How might apps change in the future?"
+   ],
+   "model_answer_words": 264,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/15_an_old_family_object",
+   "section": "speaking_part2_3",
+   "slug": "15_an_old_family_object",
+   "order": 15,
+   "title": "Part 2 & 3 · An Old Family Object",
+   "summary": "Describe an old object that your family has kept for a long time.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "family",
+    "culture"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe an old object that your family has kept for a long time.",
+    "bullets": [
+     "what it is",
+     "where it came from",
+     "how long your family has had it",
+     "and explain why it is important to your family"
+    ]
+   },
+   "part3_questions": [
+    "Why do people keep old things?",
+    "Do young people value old objects?",
+    "Should old buildings be preserved?"
+   ],
+   "model_answer_words": 247,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/16_a_difficult_decision",
+   "section": "speaking_part2_3",
+   "slug": "16_a_difficult_decision",
+   "order": 16,
+   "title": "Part 2 & 3 · A Difficult Decision",
+   "summary": "Describe a time when you had to make a difficult decision.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "work",
+    "people"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe a time when you had to make a difficult decision.",
+    "bullets": [
+     "what the decision was",
+     "when it happened",
+     "what options you had",
+     "and explain how you made the decision"
+    ]
+   },
+   "part3_questions": [
+    "What decisions do young people find difficult?",
+    "Should parents make decisions for their children?",
+    "Do people make better decisions alone or in groups?"
+   ],
+   "model_answer_words": 262,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/17_an_environmental_problem",
+   "section": "speaking_part2_3",
+   "slug": "17_an_environmental_problem",
+   "order": 17,
+   "title": "Part 2 & 3 · An Environmental Problem in Your Area",
+   "summary": "Describe an environmental problem in the area where you live.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "environment",
+    "cities"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe an environmental problem in the area where you live.",
+    "bullets": [
+     "what the problem is",
+     "what causes it",
+     "how it affects people",
+     "and explain what could be done about it"
+    ]
+   },
+   "part3_questions": [
+    "Who should be responsible for protecting the environment?",
+    "Are young people more environmentally aware than older people?",
+    "Can technology solve environmental problems?"
+   ],
+   "model_answer_words": 258,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/18_a_proud_moment",
+   "section": "speaking_part2_3",
+   "slug": "18_a_proud_moment",
+   "order": 18,
+   "title": "Part 2 & 3 · Something That Made You Proud",
+   "summary": "Describe something you did that made you feel proud.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "achievement",
+    "education"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe something you did that made you feel proud.",
+    "bullets": [
+     "what you did",
+     "when you did it",
+     "who was involved",
+     "and explain why you felt proud"
+    ]
+   },
+   "part3_questions": [
+    "Should parents praise their children a lot?",
+    "What achievements are valued in your society?",
+    "Is it better to work alone or in a team to achieve goals?"
+   ],
+   "model_answer_words": 264,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
    "id": "06_speaking_part2_3/99_cue_card_bank",
    "section": "speaking_part2_3",
    "slug": "99_cue_card_bank",
@@ -2955,6 +3914,114 @@
    ]
   },
   {
+   "id": "07_vocabulary/15_family_and_children",
+   "section": "vocabulary",
+   "slug": "15_family_and_children",
+   "order": 15,
+   "title": "Family & Children",
+   "summary": "12 high-value words for family & children essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "family",
+    "society"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "07_vocabulary/16_sport_and_fitness",
+   "section": "vocabulary",
+   "slug": "16_sport_and_fitness",
+   "order": 16,
+   "title": "Sport & Fitness",
+   "summary": "12 high-value words for sport & fitness essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "sport",
+    "health"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "07_vocabulary/17_language_and_communication",
+   "section": "vocabulary",
+   "slug": "17_language_and_communication",
+   "order": 17,
+   "title": "Language & Communication",
+   "summary": "12 high-value words for language & communication essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "language",
+    "culture"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "07_vocabulary/18_task1_data_language",
+   "section": "vocabulary",
+   "slug": "18_task1_data_language",
+   "order": 18,
+   "title": "Task 1 Data Language",
+   "summary": "12 high-value words for task 1 data language essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "writing",
+    "data"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
    "id": "08_grammar/01_articles",
    "section": "grammar",
    "slug": "01_articles",
@@ -3229,10 +4296,102 @@
     "lesson.md",
     "questions.json"
    ]
+  },
+  {
+   "id": "08_grammar/13_quantifiers",
+   "section": "grammar",
+   "slug": "13_quantifiers",
+   "order": 13,
+   "title": "Quantifiers: much, many, few, little, a number of",
+   "summary": "Use quantifiers correctly with countable and uncountable nouns.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 10,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "08_grammar/14_prepositions_for_data",
+   "section": "grammar",
+   "slug": "14_prepositions_for_data",
+   "order": 14,
+   "title": "Prepositions for Data & Time",
+   "summary": "Use by, of, at, to, from, between correctly when describing numbers and trends.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 10,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "08_grammar/15_emphasis_and_inversion",
+   "section": "grammar",
+   "slug": "15_emphasis_and_inversion",
+   "order": 15,
+   "title": "Emphasis: Cleft Sentences & Inversion",
+   "summary": "Add emphasis and variety with 'What … is', 'It is … that' and negative inversion.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 10,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "08_grammar/16_future_forms_and_predictions",
+   "section": "grammar",
+   "slug": "16_future_forms_and_predictions",
+   "order": 16,
+   "title": "Future Forms & Predictions",
+   "summary": "Express predictions, plans and probability about the future accurately.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 10,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
   }
  ],
  "totals": {
-  "items": 118,
-  "objective_questions": 547
+  "items": 160,
+  "objective_questions": 745
  }
 }

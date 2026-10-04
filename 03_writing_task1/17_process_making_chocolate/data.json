@@ -1,0 +1,39 @@
+{
+ "chart": "process",
+ "title": "Chocolate production",
+ "cyclic": false,
+ "steps": [
+  {
+   "label": "Harvesting",
+   "text": "Cacao pods harvested by hand with machetes"
+  },
+  {
+   "label": "Extraction",
+   "text": "Pods opened; beans and pulp removed"
+  },
+  {
+   "label": "Fermenting & drying",
+   "text": "Fermented 5–7 days in boxes, then sun-dried 1–2 weeks"
+  },
+  {
+   "label": "Shipping",
+   "text": "Packed in sacks and shipped to factories"
+  },
+  {
+   "label": "Roasting",
+   "text": "Roasted at 120–150°C; shells removed to leave nibs"
+  },
+  {
+   "label": "Grinding",
+   "text": "Nibs ground into cocoa liquor"
+  },
+  {
+   "label": "Mixing & conching",
+   "text": "Mixed with sugar, milk powder and cocoa butter; refined"
+  },
+  {
+   "label": "Tempering & moulding",
+   "text": "Heated and cooled, poured into moulds, packaged"
+  }
+ ]
+}

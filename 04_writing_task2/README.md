@@ -1,16 +1,16 @@
 # Writing Task 2
 
-Twenty model essays covering all six Task 2 question types, plus a **prompt bank of 60 extra questions** (`99_prompt_bank`):
+Twenty-six model essays covering all six Task 2 question types, plus a **prompt bank of 60 extra questions** (`99_prompt_bank`):
 
 | Type (`essay_type`) | Question wording | Items |
 |---|---|---|
-| `opinion` | To what extent do you agree or disagree? | 01, 07, 09, 13, 15, 20 |
-| `discussion` | Discuss both views and give your opinion. | 02, 08, 11, 16 |
+| `opinion` | To what extent do you agree or disagree? | 01, 07, 09, 13, 15, 20, 21 |
+| `discussion` | Discuss both views and give your opinion. | 02, 08, 11, 16, 22 |
 | `advantages_disadvantages` | What are the advantages and disadvantages? | 03, 17 |
-| `advantages_outweigh` | Do the advantages outweigh the disadvantages? | 10 |
-| `problem_solution` | What are the causes / problems? What solutions? | 04, 12, 18 |
-| `two_part` | Two direct questions | 05, 14, 19 |
-| `positive_negative` | Is this a positive or negative development? | 06 |
+| `advantages_outweigh` | Do the advantages outweigh the disadvantages? | 10, 23 |
+| `problem_solution` | What are the causes / problems? What solutions? | 04, 12, 18, 24 |
+| `two_part` | Two direct questions | 05, 14, 19, 25 |
+| `positive_negative` | Is this a positive or negative development? | 06, 26 |
 
 **Each folder contains** `prompt.md` (task + approach tips) · `model_answer.md` (Band 8–9 essay, then plan, examiner notes and topic vocabulary after `---`) · `meta.json`.
 
@@ -42,4 +42,10 @@ Twenty model essays covering all six Task 2 question types, plus a **prompt bank
 | 18 | **Causes & Solutions · Youth Unemployment**<br>Explain why young people struggle to find work and propose targeted measures. | Band 7–8 target | work, economy, young people, education | [prompt](18_problem_solution_youth_unemployment/prompt.md) · [model_answer](18_problem_solution_youth_unemployment/model_answer.md) |
 | 19 | **Two-part Question · The Shift to Online Shopping**<br>Explain why online shopping is growing and evaluate its effect on town centres. | Band 7–8 target | technology, business, cities | [prompt](19_two_part_shopping_online/prompt.md) · [model_answer](19_two_part_shopping_online/model_answer.md) |
 | 20 | **Opinion · Is Space Exploration Worth the Money?**<br>Disagree essay defending space spending with concrete benefits. | Band 7.5–8.5 target | science, government, economy | [prompt](20_opinion_space_exploration_spending/prompt.md) · [model_answer](20_opinion_space_exploration_spending/model_answer.md) |
+| 21 | **Opinion · Should Students Study Only Useful Subjects?**<br>Disagree essay on the value of non-vocational degrees. | Band 7–8 target | education, work | [prompt](21_opinion_university_subject_choice/prompt.md) · [model_answer](21_opinion_university_subject_choice/model_answer.md) |
+| 22 | **Discussion · Longer Hours or Better Balance?**<br>Discuss whether long working hours increase success. | Band 7–8 target | work, health, society | [prompt](22_discussion_working_hours_productivity/prompt.md) · [model_answer](22_discussion_working_hours_productivity/model_answer.md) |
+| 23 | **Advantages Outweigh? · Personal DNA Testing**<br>Weigh the benefits and risks of home genetic tests. | Band 7.5–8.5 target | science, health, technology | [prompt](23_adv_outweigh_genetic_testing/prompt.md) · [model_answer](23_adv_outweigh_genetic_testing/model_answer.md) |
+| 24 | **Causes & Solutions · Noise in Cities**<br>Explain the causes and effects of urban noise and propose solutions. | Band 7–8 target | cities, health, environment | [prompt](24_problem_solution_noise_pollution/prompt.md) · [model_answer](24_problem_solution_noise_pollution/model_answer.md) |
+| 25 | **Two-part Question · Why Fewer People Volunteer**<br>Explain falling volunteering and suggest how to encourage it. | Band 7–8 target | society, community, work | [prompt](25_two_part_volunteering_decline/prompt.md) · [model_answer](25_two_part_volunteering_decline/model_answer.md) |
+| 26 | **Positive or Negative? · Going Cashless**<br>Evaluate the move from cash to digital payments. | Band 7.5–8.5 target | technology, economy, society | [prompt](26_positive_negative_cashless_society/prompt.md) · [model_answer](26_positive_negative_cashless_society/model_answer.md) |
 | 99 | **Task 2 Prompt Bank (60 questions)**<br>60 extra Task 2 prompts across all essay types and topics, with a self-assessment checklist. | All levels | cities, crime, culture, education, environment, food, globalisation, government, health, media, society, sport, technology, tourism, work | [prompts](99_prompt_bank/prompts.md) |

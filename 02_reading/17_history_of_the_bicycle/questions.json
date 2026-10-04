@@ -1,0 +1,160 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "matching",
+   "range": "1–5",
+   "instructions": "The passage has six paragraphs, A–F. Which paragraph contains the following information?",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "a claim about the effect of cycling on choosing a husband or wife",
+     "answer": "D",
+     "explanation": "'whom to marry' / meeting partners from neighbouring villages."
+    },
+    {
+     "n": 2,
+     "prompt": "a reason why an early design was risky",
+     "answer": "B",
+     "explanation": "Penny-farthing riders 'were frequently thrown forward over the handlebars'."
+    },
+    {
+     "n": 3,
+     "prompt": "a possible environmental cause for an invention",
+     "answer": "A",
+     "explanation": "A volcanic eruption caused crop failures, making horse feed expensive."
+    },
+    {
+     "n": 4,
+     "prompt": "a reference to medical objections",
+     "answer": "E",
+     "explanation": "'some doctors warned that cycling could harm women's health'."
+    },
+    {
+     "n": 5,
+     "prompt": "an example of a cycling business financing another invention",
+     "answer": "F",
+     "explanation": "The Wright brothers' bicycle shop funded their experiments."
+    }
+   ],
+   "options": [
+    {
+     "key": "A",
+     "text": "Paragraph A"
+    },
+    {
+     "key": "B",
+     "text": "Paragraph B"
+    },
+    {
+     "key": "C",
+     "text": "Paragraph C"
+    },
+    {
+     "key": "D",
+     "text": "Paragraph D"
+    },
+    {
+     "key": "E",
+     "text": "Paragraph E"
+    },
+    {
+     "key": "F",
+     "text": "Paragraph F"
+    }
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "6–9",
+   "instructions": "Complete the summary using the list of words, A–G, below.",
+   "questions": [
+    {
+     "n": 6,
+     "prompt": "On the safety bicycle, a chain drove the ________ wheel.",
+     "answer": "D",
+     "explanation": "'a chain that transmitted the rider's pedalling to the rear wheel'."
+    },
+    {
+     "n": 7,
+     "prompt": "Gearing meant a ________ wheel could go as fast as a large one.",
+     "answer": "F",
+     "explanation": "'a small wheel could travel as fast as a large one'."
+    },
+    {
+     "n": 8,
+     "prompt": "Dunlop's tyre was filled with ________.",
+     "answer": "A",
+     "explanation": "'a practical air-filled tyre'."
+    },
+    {
+     "n": 9,
+     "prompt": "In the 1890s, ________ production made bicycles cheaper.",
+     "answer": "B",
+     "explanation": "'mass production brought prices down'."
+    }
+   ],
+   "options": [
+    {
+     "key": "A",
+     "text": "air"
+    },
+    {
+     "key": "B",
+     "text": "mass"
+    },
+    {
+     "key": "C",
+     "text": "front"
+    },
+    {
+     "key": "D",
+     "text": "rear"
+    },
+    {
+     "key": "E",
+     "text": "rubber"
+    },
+    {
+     "key": "F",
+     "text": "small"
+    },
+    {
+     "key": "G",
+     "text": "hand"
+    }
+   ]
+  },
+  {
+   "type": "ynng",
+   "range": "10–13",
+   "instructions": "Do the following statements agree with the claims of the writer? Write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+   "questions": [
+    {
+     "n": 10,
+     "prompt": "The running machine's popularity lasted for several decades.",
+     "answer": "NO",
+     "explanation": "It 'enjoyed a brief period of fashion before interest faded'."
+    },
+    {
+     "n": 11,
+     "prompt": "The penny-farthing could give a comfortable ride in the right conditions.",
+     "answer": "YES",
+     "explanation": "'on good roads, surprisingly smooth'."
+    },
+    {
+     "n": 12,
+     "prompt": "The doctors' warnings about women cycling were justified.",
+     "answer": "NO",
+     "explanation": "'claims that now seem absurd'."
+    },
+    {
+     "n": 13,
+     "prompt": "The Wright brothers' bicycles were the best-selling models in Ohio.",
+     "answer": "NOT GIVEN",
+     "explanation": "Their shop is mentioned, but not its sales ranking."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Unemployment fell ____ 2% to 6%. (a drop of two points)",
+     "options": [
+      {
+       "key": "A",
+       "text": "by"
+      },
+      {
+       "key": "B",
+       "text": "to"
+      },
+      {
+       "key": "C",
+       "text": "of"
+      }
+     ],
+     "answer": "A",
+     "explanation": "by = size of the change."
+    },
+    {
+     "n": 2,
+     "prompt": "Unemployment fell ____ 6%. (new level)",
+     "options": [
+      {
+       "key": "A",
+       "text": "by"
+      },
+      {
+       "key": "B",
+       "text": "to"
+      },
+      {
+       "key": "C",
+       "text": "at"
+      }
+     ],
+     "answer": "B",
+     "explanation": "to = the new level."
+    },
+    {
+     "n": 3,
+     "prompt": "There was a sharp increase ____ house prices.",
+     "options": [
+      {
+       "key": "A",
+       "text": "of"
+      },
+      {
+       "key": "B",
+       "text": "in"
+      },
+      {
+       "key": "C",
+       "text": "at"
+      }
+     ],
+     "answer": "B",
+     "explanation": "an increase in + the thing that changes."
+    },
+    {
+     "n": 4,
+     "prompt": "There was an increase ____ 15%.",
+     "options": [
+      {
+       "key": "A",
+       "text": "of"
+      },
+      {
+       "key": "B",
+       "text": "in"
+      },
+      {
+       "key": "C",
+       "text": "by"
+      }
+     ],
+     "answer": "A",
+     "explanation": "an increase of + amount."
+    },
+    {
+     "n": 5,
+     "prompt": "In 2010, the figure stood ____ 40%.",
+     "options": [
+      {
+       "key": "A",
+       "text": "on"
+      },
+      {
+       "key": "B",
+       "text": "at"
+      },
+      {
+       "key": "C",
+       "text": "in"
+      }
+     ],
+     "answer": "B",
+     "explanation": "stand at."
+    },
+    {
+     "n": 6,
+     "prompt": "Prices fluctuated ____ $20 and $30.",
+     "options": [
+      {
+       "key": "A",
+       "text": "from"
+      },
+      {
+       "key": "B",
+       "text": "between"
+      },
+      {
+       "key": "C",
+       "text": "among"
+      }
+     ],
+     "answer": "B",
+     "explanation": "between X and Y."
+    },
+    {
+     "n": 7,
+     "prompt": "The project will be completed ____ 2030.",
+     "options": [
+      {
+       "key": "A",
+       "text": "by"
+      },
+      {
+       "key": "B",
+       "text": "until"
+      },
+      {
+       "key": "C",
+       "text": "on"
+      }
+     ],
+     "answer": "A",
+     "explanation": "by = not later than."
+    },
+    {
+     "n": 8,
+     "prompt": "Sales rose steadily ____ the period.",
+     "options": [
+      {
+       "key": "A",
+       "text": "over"
+      },
+      {
+       "key": "B",
+       "text": "on"
+      },
+      {
+       "key": "C",
+       "text": "at"
+      }
+     ],
+     "answer": "A",
+     "explanation": "over the period."
+    },
+    {
+     "n": 9,
+     "prompt": "The museum opened ____ 1998.",
+     "options": [
+      {
+       "key": "A",
+       "text": "on"
+      },
+      {
+       "key": "B",
+       "text": "at"
+      },
+      {
+       "key": "C",
+       "text": "in"
+      }
+     ],
+     "answer": "C",
+     "explanation": "in + year."
+    },
+    {
+     "n": 10,
+     "prompt": "Visitor numbers peaked ____ 3 million.",
+     "options": [
+      {
+       "key": "A",
+       "text": "at"
+      },
+      {
+       "key": "B",
+       "text": "on"
+      },
+      {
+       "key": "C",
+       "text": "by"
+      }
+     ],
+     "answer": "A",
+     "explanation": "peak at + level."
+    }
+   ]
+  }
+ ]
+}

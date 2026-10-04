@@ -1,0 +1,112 @@
+[
+ {
+  "word": "sedentary",
+  "pos": "adj",
+  "meaning": "involving little physical activity",
+  "example": "Sedentary jobs increase the risk of back pain.",
+  "collocations": [
+   "sedentary lifestyle"
+  ]
+ },
+ {
+  "word": "work out",
+  "pos": "phr v",
+  "meaning": "to exercise, especially in a gym",
+  "example": "I work out three times a week.",
+  "collocations": [
+   "work out at the gym"
+  ]
+ },
+ {
+  "word": "stamina",
+  "pos": "n",
+  "meaning": "the ability to keep going for a long time",
+  "example": "Long-distance running builds stamina.",
+  "collocations": [
+   "build / improve stamina"
+  ]
+ },
+ {
+  "word": "spectator",
+  "pos": "n",
+  "meaning": "a person watching an event",
+  "example": "The stadium holds 50,000 spectators.",
+  "collocations": [
+   "spectator sport"
+  ]
+ },
+ {
+  "word": "amateur",
+  "pos": "adj/n",
+  "meaning": "doing something without being paid",
+  "example": "He plays for an amateur football club.",
+  "collocations": [
+   "amateur athlete"
+  ]
+ },
+ {
+  "word": "sponsorship",
+  "pos": "n",
+  "meaning": "financial support from a company",
+  "example": "Sponsorship deals are worth millions.",
+  "collocations": [
+   "sponsorship deal"
+  ]
+ },
+ {
+  "word": "performance-enhancing drugs",
+  "pos": "n",
+  "meaning": "illegal substances that improve performance",
+  "example": "Athletes caught using performance-enhancing drugs are banned.",
+  "collocations": [
+   "take / test for performance-enhancing drugs"
+  ]
+ },
+ {
+  "word": "grassroots",
+  "pos": "adj",
+  "meaning": "at the basic, local level",
+  "example": "Funding for grassroots sport is vital.",
+  "collocations": [
+   "grassroots sport / level"
+  ]
+ },
+ {
+  "word": "competitive",
+  "pos": "adj",
+  "meaning": "involving competition; wanting to win",
+  "example": "She is very competitive.",
+  "collocations": [
+   "competitive sport",
+   "highly competitive"
+  ]
+ },
+ {
+  "word": "fitness",
+  "pos": "n",
+  "meaning": "the condition of being physically fit",
+  "example": "Swimming improves overall fitness.",
+  "collocations": [
+   "physical fitness",
+   "fitness levels"
+  ]
+ },
+ {
+  "word": "injury",
+  "pos": "n",
+  "meaning": "physical harm",
+  "example": "He missed the season through injury.",
+  "collocations": [
+   "suffer / sustain an injury"
+  ]
+ },
+ {
+  "word": "host",
+  "pos": "v",
+  "meaning": "to organise and hold an event",
+  "example": "The city will host the Olympics.",
+  "collocations": [
+   "host the Olympics / World Cup"
+  ]
+ }
+]

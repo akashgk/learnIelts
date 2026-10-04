@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Running every day helps to build ________.",
+     "answer": [
+      "stamina"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'stamina'."
+    },
+    {
+     "n": 2,
+     "prompt": "Football is the world's most popular ________ sport.",
+     "answer": [
+      "spectator"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'spectator'."
+    },
+    {
+     "n": 3,
+     "prompt": "Local clubs need investment in ________ sport.",
+     "answer": [
+      "grassroots"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'grassroots'."
+    },
+    {
+     "n": 4,
+     "prompt": "He was banned for taking performance-________ drugs.",
+     "answer": [
+      "enhancing"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'enhancing'."
+    },
+    {
+     "n": 5,
+     "prompt": "She ________ a knee injury during the match.",
+     "answer": [
+      "sustained"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'sustained'."
+    },
+    {
+     "n": 6,
+     "prompt": "Several cities competed to ________ the World Cup.",
+     "answer": [
+      "host"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'host'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Choose the correct phrase:",
+     "options": [
+      {
+       "key": "A",
+       "text": "work out at the gym"
+      },
+      {
+       "key": "B",
+       "text": "work up at the gym"
+      },
+      {
+       "key": "C",
+       "text": "work in at the gym"
+      }
+     ],
+     "answer": "A",
+     "explanation": "work out = exercise."
+    },
+    {
+     "n": 8,
+     "prompt": "A person who plays sport without being paid is an:",
+     "options": [
+      {
+       "key": "A",
+       "text": "amateur"
+      },
+      {
+       "key": "B",
+       "text": "amateurish"
+      },
+      {
+       "key": "C",
+       "text": "amatory"
+      }
+     ],
+     "answer": "A",
+     "explanation": "amateur."
+    },
+    {
+     "n": 9,
+     "prompt": "Choose the correct collocation:",
+     "options": [
+      {
+       "key": "A",
+       "text": "sustain an injury"
+      },
+      {
+       "key": "B",
+       "text": "make an injury"
+      },
+      {
+       "key": "C",
+       "text": "do an injury"
+      }
+     ],
+     "answer": "A",
+     "explanation": "sustain / suffer an injury."
+    },
+    {
+     "n": 10,
+     "prompt": "'Sedentary' means:",
+     "options": [
+      {
+       "key": "A",
+       "text": "very active"
+      },
+      {
+       "key": "B",
+       "text": "involving a lot of sitting"
+      },
+      {
+       "key": "C",
+       "text": "dangerous"
+      }
+     ],
+     "answer": "B",
+     "explanation": "sedentary = inactive."
+    }
+   ]
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 # Vocabulary
 
-Fourteen word banks (thirteen topics plus linking words) for the themes that come up most often in Writing Task 2 and Speaking. Each has 12 high-value words with meanings, example sentences and collocations, plus 10 auto-graded exercises.
+Eighteen word banks (topics plus linking words and Task 1 data language) for the themes that come up most often in Writing Task 2 and Speaking. Each has 12 high-value words with meanings, example sentences and collocations, plus 10 auto-graded exercises.
 
 **Each folder contains** `words.json` (structured: word, pos, meaning, example, collocations; ideal for flashcards or spaced repetition) · `word_list.md` · `questions.json` · `QUESTIONS.md` · `SOLUTION.md` · `meta.json`.
 
@@ -24,3 +24,7 @@ Fourteen word banks (thirteen topics plus linking words) for the themes that com
 | 12 | **Food & Agriculture** (10 Qs)<br>12 high-value words for food & agriculture essays and speaking, with collocations and exercises. | Band 6–8 | food, environment | [word_list](12_food_and_agriculture/word_list.md) · [QUESTIONS](12_food_and_agriculture/QUESTIONS.md) · [SOLUTION](12_food_and_agriculture/SOLUTION.md) |
 | 13 | **Arts & Culture** (10 Qs)<br>12 high-value words for arts & culture essays and speaking, with collocations and exercises. | Band 6–8 | arts, culture | [word_list](13_arts_and_culture/word_list.md) · [QUESTIONS](13_arts_and_culture/QUESTIONS.md) · [SOLUTION](13_arts_and_culture/SOLUTION.md) |
 | 14 | **Linking Words & Cohesion** (10 Qs)<br>12 high-value words for linking words & cohesion essays and speaking, with collocations and exercises. | Band 6–8 | writing, cohesion | [word_list](14_linking_words_cohesion/word_list.md) · [QUESTIONS](14_linking_words_cohesion/QUESTIONS.md) · [SOLUTION](14_linking_words_cohesion/SOLUTION.md) |
+| 15 | **Family & Children** (10 Qs)<br>12 high-value words for family & children essays and speaking, with collocations and exercises. | Band 6–8 | family, society | [word_list](15_family_and_children/word_list.md) · [QUESTIONS](15_family_and_children/QUESTIONS.md) · [SOLUTION](15_family_and_children/SOLUTION.md) |
+| 16 | **Sport & Fitness** (10 Qs)<br>12 high-value words for sport & fitness essays and speaking, with collocations and exercises. | Band 6–8 | sport, health | [word_list](16_sport_and_fitness/word_list.md) · [QUESTIONS](16_sport_and_fitness/QUESTIONS.md) · [SOLUTION](16_sport_and_fitness/SOLUTION.md) |
+| 17 | **Language & Communication** (10 Qs)<br>12 high-value words for language & communication essays and speaking, with collocations and exercises. | Band 6–8 | language, culture | [word_list](17_language_and_communication/word_list.md) · [QUESTIONS](17_language_and_communication/QUESTIONS.md) · [SOLUTION](17_language_and_communication/SOLUTION.md) |
+| 18 | **Task 1 Data Language** (10 Qs)<br>12 high-value words for task 1 data language essays and speaking, with collocations and exercises. | Band 6–8 | writing, data | [word_list](18_task1_data_language/word_list.md) · [QUESTIONS](18_task1_data_language/QUESTIONS.md) · [SOLUTION](18_task1_data_language/SOLUTION.md) |

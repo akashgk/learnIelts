@@ -1,0 +1,187 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–5",
+   "instructions": "Complete the flow-chart below. Choose ONE WORD ONLY from the passage for each answer.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Snow builds up; weight of new layers compresses old snow into ________.",
+     "answer": [
+      "ice"
+     ],
+     "explanation": "'compresses the lower layers into dense ice'."
+    },
+    {
+     "n": 2,
+     "prompt": "A hollow drill cuts cylinders about ten centimetres in ________.",
+     "answer": [
+      "diameter"
+     ],
+     "explanation": "'around ten centimetres in diameter'."
+    },
+    {
+     "n": 3,
+     "prompt": "Sections are packed in ________ boxes.",
+     "answer": [
+      "insulated"
+     ],
+     "explanation": "'packed in insulated boxes'."
+    },
+    {
+     "n": 4,
+     "prompt": "Stored at about −30°C so their ________ does not change.",
+     "answer": [
+      "chemistry"
+     ],
+     "explanation": "'to prevent any changes to their chemistry'."
+    },
+    {
+     "n": 5,
+     "prompt": "Analysis: isotope ratios show past ________.",
+     "answer": [
+      "temperatures",
+      "temperature"
+     ],
+     "explanation": "Isotope proportions depend on air temperature."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "6–9",
+   "instructions": "Choose the correct letter.",
+   "questions": [
+    {
+     "n": 6,
+     "prompt": "Air bubbles in ice are valuable because they",
+     "options": [
+      {
+       "key": "A",
+       "text": "show how fast the ice formed."
+      },
+      {
+       "key": "B",
+       "text": "contain samples of the ancient atmosphere."
+      },
+      {
+       "key": "C",
+       "text": "indicate past volcanic activity."
+      },
+      {
+       "key": "D",
+       "text": "reveal the age of the deepest layers."
+      }
+     ],
+     "answer": "B",
+     "explanation": "'These bubbles are samples of ancient atmosphere'."
+    },
+    {
+     "n": 7,
+     "prompt": "What do layers of dust in an ice core suggest?",
+     "options": [
+      {
+       "key": "A",
+       "text": "a volcanic eruption"
+      },
+      {
+       "key": "B",
+       "text": "a warmer climate"
+      },
+      {
+       "key": "C",
+       "text": "drier, windier conditions"
+      },
+      {
+       "key": "D",
+       "text": "increased snowfall"
+      }
+     ],
+     "answer": "C",
+     "explanation": "'Layers of dust indicate periods when the climate was drier and windier'."
+    },
+    {
+     "n": 8,
+     "prompt": "Why is dating deep ice more difficult?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The layers are too thin to count."
+      },
+      {
+       "key": "B",
+       "text": "The ice contains too much dust."
+      },
+      {
+       "key": "C",
+       "text": "The bubbles have escaped."
+      },
+      {
+       "key": "D",
+       "text": "The drill cannot reach it."
+      }
+     ],
+     "answer": "A",
+     "explanation": "'deeper down, where layers become too thin to distinguish'."
+    },
+    {
+     "n": 9,
+     "prompt": "What is the aim of the search for older ice?",
+     "options": [
+      {
+       "key": "A",
+       "text": "to measure modern pollution"
+      },
+      {
+       "key": "B",
+       "text": "to understand a change in ice-age cycles"
+      },
+      {
+       "key": "C",
+       "text": "to find evidence of early humans"
+      },
+      {
+       "key": "D",
+       "text": "to test new drilling equipment"
+      }
+     ],
+     "answer": "B",
+     "explanation": "To explain why cycles 'became longer and more intense' about a million years ago."
+    }
+   ]
+  },
+  {
+   "type": "tfng",
+   "range": "10–13",
+   "instructions": "Do the following statements agree with the information given in the text? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+   "questions": [
+    {
+     "n": 10,
+     "prompt": "Scientists began drilling ice cores in the 1950s.",
+     "answer": "TRUE",
+     "explanation": "'since the 1950s, scientists have been drilling'."
+    },
+    {
+     "n": 11,
+     "prompt": "The Dome C core showed that carbon dioxide and temperature changed together.",
+     "answer": "TRUE",
+     "explanation": "'temperature and carbon dioxide levels rose and fell closely together'."
+    },
+    {
+     "n": 12,
+     "prompt": "Carbon dioxide levels during past warm periods were higher than today's.",
+     "answer": "FALSE",
+     "explanation": "Warm periods: 280–300 ppm; today: above 420 ppm."
+    },
+    {
+     "n": 13,
+     "prompt": "Greenland ice is older than Antarctic ice.",
+     "answer": "NOT GIVEN",
+     "explanation": "The passage does not compare the ages of the two ice sheets."
+    }
+   ]
+  }
+ ]
+}

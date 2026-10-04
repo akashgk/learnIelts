@@ -1,6 +1,6 @@
 # Grammar
 
-Twelve focused lessons on the grammar that most affects IELTS Writing and Speaking scores, each with 8–10 auto-graded exercises.
+Sixteen focused lessons on the grammar that most affects IELTS Writing and Speaking scores, each with 8–10 auto-graded exercises.
 
 **Each folder contains** `lesson.md` · `questions.json` · `QUESTIONS.md` · `SOLUTION.md` · `meta.json`.
 
@@ -22,3 +22,7 @@ Twelve focused lessons on the grammar that most affects IELTS Writing and Speaki
 | 10 | **Gerunds & Infinitives** (10 Qs)<br>Choose -ing or to + verb after common verbs, adjectives and prepositions. | Band 5.5–7.5 | grammar | [lesson](10_gerunds_and_infinitives/lesson.md) · [QUESTIONS](10_gerunds_and_infinitives/QUESTIONS.md) · [SOLUTION](10_gerunds_and_infinitives/SOLUTION.md) |
 | 11 | **Sentence Boundaries & Punctuation** (10 Qs)<br>Avoid comma splices and fragments; use commas, semicolons and colons correctly. | Band 5.5–7.5 | grammar | [lesson](11_sentence_boundaries_and_punctuation/lesson.md) · [QUESTIONS](11_sentence_boundaries_and_punctuation/QUESTIONS.md) · [SOLUTION](11_sentence_boundaries_and_punctuation/SOLUTION.md) |
 | 12 | **Nominalisation & Noun Phrases** (10 Qs)<br>Turn verbs and adjectives into nouns to write in a concise, academic style. | Band 5.5–7.5 | grammar | [lesson](12_nominalisation_and_noun_phrases/lesson.md) · [QUESTIONS](12_nominalisation_and_noun_phrases/QUESTIONS.md) · [SOLUTION](12_nominalisation_and_noun_phrases/SOLUTION.md) |
+| 13 | **Quantifiers: much, many, few, little, a number of** (10 Qs)<br>Use quantifiers correctly with countable and uncountable nouns. | Band 5.5–7.5 | grammar | [lesson](13_quantifiers/lesson.md) · [QUESTIONS](13_quantifiers/QUESTIONS.md) · [SOLUTION](13_quantifiers/SOLUTION.md) |
+| 14 | **Prepositions for Data & Time** (10 Qs)<br>Use by, of, at, to, from, between correctly when describing numbers and trends. | Band 5.5–7.5 | grammar | [lesson](14_prepositions_for_data/lesson.md) · [QUESTIONS](14_prepositions_for_data/QUESTIONS.md) · [SOLUTION](14_prepositions_for_data/SOLUTION.md) |
+| 15 | **Emphasis: Cleft Sentences & Inversion** (10 Qs)<br>Add emphasis and variety with 'What … is', 'It is … that' and negative inversion. | Band 5.5–7.5 | grammar | [lesson](15_emphasis_and_inversion/lesson.md) · [QUESTIONS](15_emphasis_and_inversion/QUESTIONS.md) · [SOLUTION](15_emphasis_and_inversion/SOLUTION.md) |
+| 16 | **Future Forms & Predictions** (10 Qs)<br>Express predictions, plans and probability about the future accurately. | Band 5.5–7.5 | grammar | [lesson](16_future_forms_and_predictions/lesson.md) · [QUESTIONS](16_future_forms_and_predictions/QUESTIONS.md) · [SOLUTION](16_future_forms_and_predictions/SOLUTION.md) |

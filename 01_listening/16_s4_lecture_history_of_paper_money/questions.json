@@ -1,0 +1,94 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "31–40",
+   "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+   "questions": [
+    {
+     "n": 31,
+     "prompt": "In China, many coins were made of ________, which made trade difficult.",
+     "answer": [
+      "iron"
+     ],
+     "explanation": "'many coins were made of iron'."
+    },
+    {
+     "n": 32,
+     "prompt": "11th century: merchants exchanged coins for paper ________.",
+     "answer": [
+      "receipts"
+     ],
+     "explanation": "'in exchange for paper receipts'."
+    },
+    {
+     "n": 33,
+     "prompt": "Marco Polo: money made from the bark of ________ trees.",
+     "answer": [
+      "mulberry"
+     ],
+     "explanation": "'the bark of mulberry trees'."
+    },
+    {
+     "n": 34,
+     "prompt": "Printing too many notes caused ________.",
+     "answer": [
+      "inflation"
+     ],
+     "explanation": "'The result was inflation'."
+    },
+    {
+     "n": 35,
+     "prompt": "Sweden's large copper coins were shaped like ________.",
+     "answer": [
+      "plates"
+     ],
+     "explanation": "'enormous plates of copper'."
+    },
+    {
+     "n": 36,
+     "prompt": "Gold standard: notes could be exchanged for gold at the central ________.",
+     "answer": [
+      "bank"
+     ],
+     "explanation": "'at the central bank'."
+    },
+    {
+     "n": 37,
+     "prompt": "Disadvantage: hard to respond to economic ________.",
+     "answer": [
+      "crises",
+      "crisis"
+     ],
+     "explanation": "'difficult for governments to respond to economic crises'."
+    },
+    {
+     "n": 38,
+     "prompt": "Fiat money: value depends on ________.",
+     "answer": [
+      "trust"
+     ],
+     "explanation": "'their value depends entirely on trust'."
+    },
+    {
+     "n": 39,
+     "prompt": "Most central banks aim for inflation of about ________ per cent.",
+     "answer": [
+      "2",
+      "two"
+     ],
+     "explanation": "'typically around two per cent a year'."
+    },
+    {
+     "n": 40,
+     "prompt": "Some central banks are testing ________ currencies.",
+     "answer": [
+      "digital"
+     ],
+     "explanation": "'experimenting with digital currencies'."
+    }
+   ]
+  }
+ ]
+}

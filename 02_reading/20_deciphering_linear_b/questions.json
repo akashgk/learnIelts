@@ -1,0 +1,207 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–4",
+   "instructions": "Choose the correct letter.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Why did the Linear B tablets survive?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They were stored underground."
+      },
+      {
+       "key": "B",
+       "text": "They were hardened by a fire."
+      },
+      {
+       "key": "C",
+       "text": "They were made from stone."
+      },
+      {
+       "key": "D",
+       "text": "They were deliberately preserved."
+      }
+     ],
+     "answer": "B",
+     "explanation": "'a fire that destroyed the palace baked them hard'."
+    },
+    {
+     "n": 2,
+     "prompt": "What was the importance of Blegen's discovery at Pylos?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It proved the language was Greek."
+      },
+      {
+       "key": "B",
+       "text": "It showed the script was used outside Crete."
+      },
+      {
+       "key": "C",
+       "text": "It disproved Kober's theories."
+      },
+      {
+       "key": "D",
+       "text": "It allowed Evans to publish his work."
+      }
+     ],
+     "answer": "B",
+     "explanation": "'it showed the script was used beyond Crete'."
+    },
+    {
+     "n": 3,
+     "prompt": "What did Kober's triplets show?",
+     "options": [
+      {
+       "key": "A",
+       "text": "that the language changed word endings"
+      },
+      {
+       "key": "B",
+       "text": "which signs represented vowels"
+      },
+      {
+       "key": "C",
+       "text": "that the script was Greek"
+      },
+      {
+       "key": "D",
+       "text": "the meaning of place names"
+      }
+     ],
+     "answer": "A",
+     "explanation": "The language 'must be inflected, changing the endings of words'."
+    },
+    {
+     "n": 4,
+     "prompt": "How did Ventris make his breakthrough?",
+     "options": [
+      {
+       "key": "A",
+       "text": "by comparing the script with Etruscan"
+      },
+      {
+       "key": "B",
+       "text": "by guessing sounds for likely place names"
+      },
+      {
+       "key": "C",
+       "text": "by asking Chadwick to translate the tablets"
+      },
+      {
+       "key": "D",
+       "text": "by using a newly found tablet from Pylos"
+      }
+     ],
+     "answer": "B",
+     "explanation": "He used words he 'guessed might be place names on Crete'.",
+     "trap": "D — the Pylos tripod tablet CONFIRMED the decipherment in 1953."
+    }
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "5–9",
+   "instructions": "Match each statement with the correct person, A–E. You may use any letter more than once.",
+   "questions": [
+    {
+     "n": 5,
+     "prompt": "worked mainly without help, outside normal working hours",
+     "answer": "C",
+     "explanation": "Kober worked 'largely alone, in her spare time'."
+    },
+    {
+     "n": 6,
+     "prompt": "delayed making material available to others",
+     "answer": "A",
+     "explanation": "Evans 'was also slow to publish the tablets in full'."
+    },
+    {
+     "n": 7,
+     "prompt": "verified that the language was an early form of Greek",
+     "answer": "E",
+     "explanation": "Chadwick 'confirmed that the language was indeed Greek'."
+    },
+    {
+     "n": 8,
+     "prompt": "first became interested in the script as a child",
+     "answer": "D",
+     "explanation": "Ventris had been fascinated 'since hearing Evans lecture when he was a schoolboy'."
+    },
+    {
+     "n": 9,
+     "prompt": "tested the decipherment on a new piece of evidence",
+     "answer": "B",
+     "explanation": "Blegen 'applied Ventris's values to a newly discovered tablet'."
+    }
+   ],
+   "options": [
+    {
+     "key": "A",
+     "text": "Arthur Evans"
+    },
+    {
+     "key": "B",
+     "text": "Carl Blegen"
+    },
+    {
+     "key": "C",
+     "text": "Alice Kober"
+    },
+    {
+     "key": "D",
+     "text": "Michael Ventris"
+    },
+    {
+     "key": "E",
+     "text": "John Chadwick"
+    }
+   ]
+  },
+  {
+   "type": "gap",
+   "range": "10–13",
+   "instructions": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+   "questions": [
+    {
+     "n": 10,
+     "prompt": "Ventris arranged the signs in a ________.",
+     "answer": [
+      "grid"
+     ],
+     "explanation": "'Ventris arranged the signs in a grid'."
+    },
+    {
+     "n": 11,
+     "prompt": "Signs sharing a vowel were placed in the same ________.",
+     "answer": [
+      "column"
+     ],
+     "explanation": "'those sharing a vowel in the same column'."
+    },
+    {
+     "n": 12,
+     "prompt": "The Pylos tablet showed pictures of three-legged ________.",
+     "answer": [
+      "pots"
+     ],
+     "explanation": "'drawings of three-legged pots'."
+    },
+    {
+     "n": 13,
+     "prompt": "Most tablets were ________ records rather than literature.",
+     "answer": [
+      "administrative"
+     ],
+     "explanation": "'mainly administrative records'."
+    }
+   ]
+  }
+ ]
+}

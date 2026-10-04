@@ -1,0 +1,112 @@
+[
+ {
+  "word": "surge",
+  "pos": "v/n",
+  "meaning": "a sudden large increase",
+  "example": "Sales surged in December.",
+  "collocations": [
+   "surge to",
+   "a surge in"
+  ]
+ },
+ {
+  "word": "plummet",
+  "pos": "v",
+  "meaning": "to fall very quickly",
+  "example": "Profits plummeted during the crisis.",
+  "collocations": [
+   "plummet to"
+  ]
+ },
+ {
+  "word": "plateau",
+  "pos": "v/n",
+  "meaning": "to stay level after rising",
+  "example": "Numbers plateaued at around 500.",
+  "collocations": [
+   "reach a plateau"
+  ]
+ },
+ {
+  "word": "fluctuate",
+  "pos": "v",
+  "meaning": "to rise and fall irregularly",
+  "example": "Prices fluctuated between $10 and $15.",
+  "collocations": [
+   "fluctuate between … and …"
+  ]
+ },
+ {
+  "word": "peak",
+  "pos": "v/n",
+  "meaning": "to reach the highest point",
+  "example": "Visitors peaked at 2 million in 2019.",
+  "collocations": [
+   "peak at",
+   "reach a peak of"
+  ]
+ },
+ {
+  "word": "marginal",
+  "pos": "adj",
+  "meaning": "very small",
+  "example": "There was a marginal increase.",
+  "collocations": [
+   "marginal increase / decline"
+  ]
+ },
+ {
+  "word": "proportion",
+  "pos": "n",
+  "meaning": "part of a whole, often %",
+  "example": "The proportion of women rose.",
+  "collocations": [
+   "the proportion of"
+  ]
+ },
+ {
+  "word": "respectively",
+  "pos": "adv",
+  "meaning": "in the order mentioned",
+  "example": "A and B grew by 5% and 8% respectively.",
+  "collocations": [
+   "X and Y … respectively"
+  ]
+ },
+ {
+  "word": "account for",
+  "pos": "phr v",
+  "meaning": "to form a part of a total",
+  "example": "Rent accounts for 40% of spending.",
+  "collocations": [
+   "account for X%"
+  ]
+ },
+ {
+  "word": "overtake",
+  "pos": "v",
+  "meaning": "to become higher than",
+  "example": "Gas overtook coal in 2015.",
+  "collocations": [
+   "overtake X as"
+  ]
+ },
+ {
+  "word": "trough",
+  "pos": "n",
+  "meaning": "the lowest point",
+  "example": "Sales hit a trough in March.",
+  "collocations": [
+   "hit / reach a trough"
+  ]
+ },
+ {
+  "word": "twofold",
+  "pos": "adj/adv",
+  "meaning": "double",
+  "example": "There was a twofold increase.",
+  "collocations": [
+   "a twofold / threefold increase"
+  ]
+ }
+]

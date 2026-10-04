@@ -1,6 +1,6 @@
 # Speaking Parts 2 & 3
 
-Twelve cue cards with full model answers, each with linked Part 3 discussion questions, plus a **cue card bank** (`99_cue_card_bank`) of 24 more cards with 72 Part 3 questions (`cue_cards.json`).
+Eighteen cue cards with full model answers, each with linked Part 3 discussion questions, plus a **cue card bank** (`99_cue_card_bank`) of 24 more cards with 72 Part 3 questions (`cue_cards.json`).
 
 **Each folder contains** `cue_card.md` (the card + Part 3 questions) · `model_answer.md` (a ~2-minute model talk, 1-minute prep notes, Part 3 model answers, useful phrases) · `meta.json` (with `cue_card` and `part3_questions` for a timer or mock-interview app).
 
@@ -24,4 +24,10 @@ Twelve cue cards with full model answers, each with linked Part 3 discussion que
 | 10 | **Part 2 & 3 · Useful Advice You Received**<br>Describe a piece of good advice you received. | Band 7–8 models | people, work | [cue_card](10_advice_you_received/cue_card.md) · [model_answer](10_advice_you_received/model_answer.md) |
 | 11 | **Part 2 & 3 · A Festival or Celebration**<br>Describe a festival or celebration that is important in your country. | Band 7–8 models | culture, traditions | [cue_card](11_festival_or_celebration/cue_card.md) · [model_answer](11_festival_or_celebration/model_answer.md) |
 | 12 | **Part 2 & 3 · A Goal for the Future**<br>Describe a goal you would like to achieve in the future. | Band 7–8 models | work, ambition, education | [cue_card](12_future_goal/cue_card.md) · [model_answer](12_future_goal/model_answer.md) |
+| 13 | **Part 2 & 3 · A Time You Were Late**<br>Describe a time when you were late for something important. | Band 7–8 models | everyday life, time | [cue_card](13_a_time_you_were_late/cue_card.md) · [model_answer](13_a_time_you_were_late/model_answer.md) |
+| 14 | **Part 2 & 3 · A Useful App or Website**<br>Describe a website or app that you find useful. | Band 7–8 models | technology | [cue_card](14_a_useful_app/cue_card.md) · [model_answer](14_a_useful_app/model_answer.md) |
+| 15 | **Part 2 & 3 · An Old Family Object**<br>Describe an old object that your family has kept for a long time. | Band 7–8 models | family, culture | [cue_card](15_an_old_family_object/cue_card.md) · [model_answer](15_an_old_family_object/model_answer.md) |
+| 16 | **Part 2 & 3 · A Difficult Decision**<br>Describe a time when you had to make a difficult decision. | Band 7–8 models | work, people | [cue_card](16_a_difficult_decision/cue_card.md) · [model_answer](16_a_difficult_decision/model_answer.md) |
+| 17 | **Part 2 & 3 · An Environmental Problem in Your Area**<br>Describe an environmental problem in the area where you live. | Band 7–8 models | environment, cities | [cue_card](17_an_environmental_problem/cue_card.md) · [model_answer](17_an_environmental_problem/model_answer.md) |
+| 18 | **Part 2 & 3 · Something That Made You Proud**<br>Describe something you did that made you feel proud. | Band 7–8 models | achievement, education | [cue_card](18_a_proud_moment/cue_card.md) · [model_answer](18_a_proud_moment/model_answer.md) |
 | 99 | **Cue Card Bank (24 cards)**<br>24 extra Part 2 cue cards with 72 linked Part 3 questions. | All levels | speaking | [cue_cards](99_cue_card_bank/cue_cards.md) |

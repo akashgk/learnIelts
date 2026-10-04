@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Many teenagers smoke because of peer ________.",
+     "answer": [
+      "pressure"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'pressure'."
+    },
+    {
+     "n": 2,
+     "prompt": "The high cost of ________ prevents many mothers from returning to work.",
+     "answer": [
+      "childcare"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'childcare'."
+    },
+    {
+     "n": 3,
+     "prompt": "Grandparents are part of the ________ family.",
+     "answer": [
+      "extended"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'extended'."
+    },
+    {
+     "n": 4,
+     "prompt": "She had a happy ________ in a small village.",
+     "answer": [
+      "upbringing"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'upbringing'."
+    },
+    {
+     "n": 5,
+     "prompt": "Social media has widened the generation ________.",
+     "answer": [
+      "gap"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'gap'."
+    },
+    {
+     "n": 6,
+     "prompt": "Eating together helps to strengthen family ________.",
+     "answer": [
+      "bonds"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'bonds'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Choose the correct collocation:",
+     "options": [
+      {
+       "key": "A",
+       "text": "give in to peer pressure"
+      },
+      {
+       "key": "B",
+       "text": "give up to peer pressure"
+      },
+      {
+       "key": "C",
+       "text": "give on peer pressure"
+      }
+     ],
+     "answer": "A",
+     "explanation": "give in to = yield to."
+    },
+    {
+     "n": 8,
+     "prompt": "A brother or sister is a:",
+     "options": [
+      {
+       "key": "A",
+       "text": "sibling"
+      },
+      {
+       "key": "B",
+       "text": "spouse"
+      },
+      {
+       "key": "C",
+       "text": "sponsor"
+      }
+     ],
+     "answer": "A",
+     "explanation": "sibling."
+    },
+    {
+     "n": 9,
+     "prompt": "Parents who protect children too much are:",
+     "options": [
+      {
+       "key": "A",
+       "text": "overprotective"
+      },
+      {
+       "key": "B",
+       "text": "overcrowded"
+      },
+      {
+       "key": "C",
+       "text": "overestimated"
+      }
+     ],
+     "answer": "A",
+     "explanation": "overprotective."
+    },
+    {
+     "n": 10,
+     "prompt": "Which phrase means only parents and children?",
+     "options": [
+      {
+       "key": "A",
+       "text": "nuclear family"
+      },
+      {
+       "key": "B",
+       "text": "extended family"
+      },
+      {
+       "key": "C",
+       "text": "family tree"
+      }
+     ],
+     "answer": "A",
+     "explanation": "nuclear family."
+    }
+   ]
+  }
+ ]
+}

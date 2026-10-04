@@ -1,0 +1,212 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "There isn't ____ evidence to support this claim.",
+     "options": [
+      {
+       "key": "A",
+       "text": "many"
+      },
+      {
+       "key": "B",
+       "text": "much"
+      },
+      {
+       "key": "C",
+       "text": "a few"
+      }
+     ],
+     "answer": "B",
+     "explanation": "evidence is uncountable."
+    },
+    {
+     "n": 2,
+     "prompt": "____ students failed, so the teacher was disappointed. (almost none passed)",
+     "options": [
+      {
+       "key": "A",
+       "text": "Few"
+      },
+      {
+       "key": "B",
+       "text": "Many"
+      },
+      {
+       "key": "C",
+       "text": "Little"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Many failed → disappointed. 'Few' would mean almost none failed."
+    },
+    {
+     "n": 3,
+     "prompt": "There is ____ hope of finding survivors. (almost no hope)",
+     "options": [
+      {
+       "key": "A",
+       "text": "little"
+      },
+      {
+       "key": "B",
+       "text": "a little"
+      },
+      {
+       "key": "C",
+       "text": "few"
+      }
+     ],
+     "answer": "A",
+     "explanation": "little = almost none (uncountable)."
+    },
+    {
+     "n": 4,
+     "prompt": "A large ____ of people attended.",
+     "options": [
+      {
+       "key": "A",
+       "text": "amount"
+      },
+      {
+       "key": "B",
+       "text": "number"
+      },
+      {
+       "key": "C",
+       "text": "deal"
+      }
+     ],
+     "answer": "B",
+     "explanation": "people are countable → number."
+    },
+    {
+     "n": 5,
+     "prompt": "We need ____ information before deciding.",
+     "options": [
+      {
+       "key": "A",
+       "text": "more"
+      },
+      {
+       "key": "B",
+       "text": "many"
+      },
+      {
+       "key": "C",
+       "text": "a few"
+      }
+     ],
+     "answer": "A",
+     "explanation": "information is uncountable; 'more' works for both."
+    },
+    {
+     "n": 6,
+     "prompt": "The new law led to ____ accidents.",
+     "options": [
+      {
+       "key": "A",
+       "text": "less"
+      },
+      {
+       "key": "B",
+       "text": "fewer"
+      },
+      {
+       "key": "C",
+       "text": "little"
+      }
+     ],
+     "answer": "B",
+     "explanation": "accidents are countable → fewer."
+    },
+    {
+     "n": 7,
+     "prompt": "I have ____ friends in this city, so I'm not lonely.",
+     "options": [
+      {
+       "key": "A",
+       "text": "few"
+      },
+      {
+       "key": "B",
+       "text": "a few"
+      },
+      {
+       "key": "C",
+       "text": "a little"
+      }
+     ],
+     "answer": "B",
+     "explanation": "a few = some (positive meaning)."
+    },
+    {
+     "n": 8,
+     "prompt": "A great ____ of money was wasted.",
+     "options": [
+      {
+       "key": "A",
+       "text": "number"
+      },
+      {
+       "key": "B",
+       "text": "deal"
+      },
+      {
+       "key": "C",
+       "text": "many"
+      }
+     ],
+     "answer": "B",
+     "explanation": "a great deal of + uncountable."
+    },
+    {
+     "n": 9,
+     "prompt": "How ____ furniture did they buy?",
+     "options": [
+      {
+       "key": "A",
+       "text": "many"
+      },
+      {
+       "key": "B",
+       "text": "much"
+      },
+      {
+       "key": "C",
+       "text": "few"
+      }
+     ],
+     "answer": "B",
+     "explanation": "furniture is uncountable."
+    },
+    {
+     "n": 10,
+     "prompt": "____ of the participants agreed with the proposal.",
+     "options": [
+      {
+       "key": "A",
+       "text": "Most"
+      },
+      {
+       "key": "B",
+       "text": "Much"
+      },
+      {
+       "key": "C",
+       "text": "Little"
+      }
+     ],
+     "answer": "A",
+     "explanation": "most of + plural."
+    }
+   ]
+  }
+ ]
+}

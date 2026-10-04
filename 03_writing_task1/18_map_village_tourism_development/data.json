@@ -1,0 +1,72 @@
+{
+ "chart": "map",
+ "title": "Port Mira",
+ "maps": [
+  {
+   "title": "2000",
+   "features": [
+    {
+     "name": "Fishing boats",
+     "position": "north-west"
+    },
+    {
+     "name": "Fish market",
+     "position": "north-west"
+    },
+    {
+     "name": "Empty beach",
+     "position": "north-east"
+    },
+    {
+     "name": "Fishermen's cottages",
+     "position": "west"
+    },
+    {
+     "name": "Farmland",
+     "position": "east"
+    },
+    {
+     "name": "Narrow road",
+     "position": "south"
+    },
+    {
+     "name": "Forest",
+     "position": "south-east"
+    }
+   ]
+  },
+  {
+   "title": "Today",
+   "features": [
+    {
+     "name": "Marina for yachts",
+     "position": "north-west"
+    },
+    {
+     "name": "Seafood restaurant (former fish market)",
+     "position": "north-west"
+    },
+    {
+     "name": "Beach with cafés",
+     "position": "north-east"
+    },
+    {
+     "name": "Cottages now holiday rentals",
+     "position": "west"
+    },
+    {
+     "name": "Four-storey hotel with pool (former farmland)",
+     "position": "east"
+    },
+    {
+     "name": "Widened road, roundabout and car park",
+     "position": "south"
+    },
+    {
+     "name": "Forest reduced by half",
+     "position": "south-east"
+    }
+   ]
+  }
+ ]
+}

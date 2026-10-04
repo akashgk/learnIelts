@@ -1,0 +1,112 @@
+[
+ {
+  "word": "fluent",
+  "pos": "adj",
+  "meaning": "able to speak smoothly and accurately",
+  "example": "She is fluent in three languages.",
+  "collocations": [
+   "fluent in",
+   "fluent English"
+  ]
+ },
+ {
+  "word": "native speaker",
+  "pos": "n",
+  "meaning": "someone who learned a language from birth",
+  "example": "Native speakers rarely notice their own grammar.",
+  "collocations": [
+   "native speaker of English"
+  ]
+ },
+ {
+  "word": "bilingual",
+  "pos": "adj",
+  "meaning": "able to use two languages",
+  "example": "Bilingual children switch between languages easily.",
+  "collocations": [
+   "bilingual education"
+  ]
+ },
+ {
+  "word": "dialect",
+  "pos": "n",
+  "meaning": "a regional form of a language",
+  "example": "The village has its own dialect.",
+  "collocations": [
+   "regional dialect"
+  ]
+ },
+ {
+  "word": "lingua franca",
+  "pos": "n",
+  "meaning": "a shared language between speakers of different languages",
+  "example": "English is the lingua franca of aviation.",
+  "collocations": [
+   "global lingua franca"
+  ]
+ },
+ {
+  "word": "articulate",
+  "pos": "adj/v",
+  "meaning": "able to express ideas clearly",
+  "example": "She is an articulate speaker.",
+  "collocations": [
+   "articulate speaker",
+   "articulate ideas"
+  ]
+ },
+ {
+  "word": "body language",
+  "pos": "n",
+  "meaning": "communication through gestures and posture",
+  "example": "Body language can reveal nervousness.",
+  "collocations": [
+   "read someone's body language"
+  ]
+ },
+ {
+  "word": "misunderstanding",
+  "pos": "n",
+  "meaning": "failure to understand correctly",
+  "example": "Cultural differences can cause misunderstandings.",
+  "collocations": [
+   "lead to a misunderstanding"
+  ]
+ },
+ {
+  "word": "acquire",
+  "pos": "v",
+  "meaning": "to learn or gain",
+  "example": "Children acquire language naturally.",
+  "collocations": [
+   "acquire a language"
+  ]
+ },
+ {
+  "word": "proficiency",
+  "pos": "n",
+  "meaning": "a high level of skill",
+  "example": "The job requires proficiency in Spanish.",
+  "collocations": [
+   "language proficiency"
+  ]
+ },
+ {
+  "word": "endangered language",
+  "pos": "n",
+  "meaning": "a language at risk of disappearing",
+  "example": "Many endangered languages have few speakers.",
+  "collocations": [
+   "revive an endangered language"
+  ]
+ },
+ {
+  "word": "convey",
+  "pos": "v",
+  "meaning": "to communicate an idea or feeling",
+  "example": "Tone of voice conveys emotion.",
+  "collocations": [
+   "convey meaning / a message"
+  ]
+ }
+]
