@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Heavy fines act as a ________ to dangerous driving.",
+     "answer": [
+      "deterrent"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'deterrent'."
+    },
+    {
+     "n": 2,
+     "prompt": "Free university education can improve social ________.",
+     "answer": [
+      "mobility"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'mobility'."
+    },
+    {
+     "n": 3,
+     "prompt": "The government plans to introduce new ________ to protect workers.",
+     "answer": [
+      "legislation"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'legislation'."
+    },
+    {
+     "n": 4,
+     "prompt": "Many people argue that prisons should focus on ________ rather than punishment.",
+     "answer": [
+      "rehabilitation"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'rehabilitation'."
+    },
+    {
+     "n": 5,
+     "prompt": "The state ________ bus fares to keep them low.",
+     "answer": [
+      "subsidises"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'subsidises'."
+    },
+    {
+     "n": 6,
+     "prompt": "The gap between rich and poor shows rising ________.",
+     "answer": [
+      "inequality"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'inequality'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Choose the correct collocation:",
+     "options": [
+      {
+       "key": "A",
+       "text": "allocate funds"
+      },
+      {
+       "key": "B",
+       "text": "allocate opinions"
+      },
+      {
+       "key": "C",
+       "text": "allocate laws"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Allocate funds / resources / money."
+    },
+    {
+     "n": 8,
+     "prompt": "Choose the correct phrase:",
+     "options": [
+      {
+       "key": "A",
+       "text": "at the taxpayer's expense"
+      },
+      {
+       "key": "B",
+       "text": "on the taxpayer's cost"
+      },
+      {
+       "key": "C",
+       "text": "by the taxpayer's price"
+      }
+     ],
+     "answer": "A",
+     "explanation": "At the taxpayer's expense."
+    },
+    {
+     "n": 9,
+     "prompt": "'Censorship' involves:",
+     "options": [
+      {
+       "key": "A",
+       "text": "controlling information"
+      },
+      {
+       "key": "B",
+       "text": "counting the population"
+      },
+      {
+       "key": "C",
+       "text": "collecting taxes"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Censorship restricts what can be published."
+    },
+    {
+     "n": 10,
+     "prompt": "Choose the correct verb: 'Parliament ____ the new law.'",
+     "options": [
+      {
+       "key": "A",
+       "text": "passed"
+      },
+      {
+       "key": "B",
+       "text": "made up"
+      },
+      {
+       "key": "C",
+       "text": "did"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Pass a law / legislation."
+    }
+   ]
+  }
+ ]
+}

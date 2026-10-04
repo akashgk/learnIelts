@@ -1,0 +1,61 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–4",
+   "instructions": "Complete the table below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+   "strategy": "Tables are read row by row. Use the column headings to predict what kind of information is missing.",
+   "questions": [
+    {"n": 1, "prompt": "Hydroponics — roots are placed in a nutrient-rich ________.", "answer": ["water solution", "solution"], "explanation": "Paragraph B: 'roots sit in a nutrient-rich water solution'."},
+    {"n": 2, "prompt": "Aeroponics — roots hang in the air and receive a ________.", "answer": ["fine mist", "mist"], "explanation": "Paragraph B: 'sprayed with a fine mist'."},
+    {"n": 3, "prompt": "Lighting — LED lamps mainly produce red and ________ light.", "answer": ["blue"], "explanation": "Paragraph B: 'mainly red and blue'."},
+    {"n": 4, "prompt": "Climate control — temperature, humidity and ________ are managed by computer.", "answer": ["carbon dioxide", "CO2"], "explanation": "Paragraph B: 'Temperature, humidity and carbon dioxide levels are controlled by computer'."}
+   ]
+  },
+  {
+   "type": "mcq_multi",
+   "range": "5–6",
+   "instructions": "Choose TWO letters, A–E. Which TWO advantages of vertical farming are mentioned in paragraph C?",
+   "strategy": "Each correct letter scores one mark, in any order. Check every option against the text — two options will be mentioned elsewhere or not at all.",
+   "options": [
+    {"key": "A", "text": "lower construction costs than conventional farms"},
+    {"key": "B", "text": "reduced use of chemicals to control pests"},
+    {"key": "C", "text": "lower energy consumption than field agriculture"},
+    {"key": "D", "text": "much greater efficiency in the use of water"},
+    {"key": "E", "text": "the ability to grow staple cereal crops"}
+   ],
+   "questions": [
+    {"n": [5, 6], "prompt": "Which TWO advantages are mentioned?", "answer": ["B", "D"], "explanation": "B: 'little need for pesticides'. D: 'up to 95 per cent less water'. A and C are the opposite (paragraph D: high construction costs, energy is the greatest obstacle). E is contradicted in paragraph E."}
+   ]
+  },
+  {
+   "type": "tfng",
+   "range": "7–10",
+   "instructions": "Do the following statements agree with the information given in the passage? Write TRUE, FALSE or NOT GIVEN.",
+   "questions": [
+    {"n": 7, "prompt": "A vertically farmed lettuce always has a smaller carbon footprint than an imported one.", "answer": "FALSE", "explanation": "Paragraph D: if electricity comes from fossil fuels, its footprint 'can actually exceed' that of a transported field lettuce. 'Always' is contradicted."},
+    {"n": 8, "prompt": "Some vertical farming businesses have closed because of high energy costs.", "answer": "TRUE", "explanation": "Paragraph D: several companies 'have gone out of business … after rising energy prices made their operations unprofitable'."},
+    {"n": 9, "prompt": "Spinach is the most profitable crop grown in vertical farms.", "answer": "NOT GIVEN", "explanation": "Spinach is listed as ideal, but no comparison of profitability between crops is made."},
+    {"n": 10, "prompt": "Vertical farming is likely to become the world's main source of calories.", "answer": "FALSE", "explanation": "Paragraph E: 'unlikely to replace conventional agriculture as the main source of the world's calories'."}
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "11–13",
+   "instructions": "Complete each sentence with the correct ending, A–E.",
+   "options": [
+    {"key": "A", "text": "because they mature quickly and take up little space."},
+    {"key": "B", "text": "because importing fresh food there is already costly."},
+    {"key": "C", "text": "because they need long periods of intense light."},
+    {"key": "D", "text": "because supermarkets refuse to buy them."},
+    {"key": "E", "text": "because produce reaches shops very soon after harvest."}
+   ],
+   "questions": [
+    {"n": 11, "prompt": "Leafy greens are well suited to vertical farms", "answer": "A", "explanation": "Paragraph E: 'they grow quickly, are compact'."},
+    {"n": 12, "prompt": "Wheat and rice are expensive to grow indoors", "answer": "C", "explanation": "Paragraph E: 'They take months to mature, need large amounts of light'."},
+    {"n": 13, "prompt": "Vertical farms may be competitive in desert regions", "answer": "B", "explanation": "Paragraph F: 'the cost of importing fresh vegetables is already high'.", "trap": "E is a real advantage (paragraph C) but it is not the reason given for desert regions."}
+   ]
+  }
+ ]
+}

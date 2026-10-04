@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Sitting at a desk all day is a ________ lifestyle.",
+     "answer": [
+      "sedentary"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'sedentary'."
+    },
+    {
+     "n": 2,
+     "prompt": "Thanks to better medicine, life ________ has increased.",
+     "answer": [
+      "expectancy"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'expectancy'."
+    },
+    {
+     "n": 3,
+     "prompt": "Asthma is a ________ condition that lasts for years.",
+     "answer": [
+      "chronic"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'chronic'."
+    },
+    {
+     "n": 4,
+     "prompt": "Excessive screen use may have a ________ effect on sleep.",
+     "answer": [
+      "detrimental"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'detrimental'."
+    },
+    {
+     "n": 5,
+     "prompt": "Exercise benefits mental ________ as well as physical health.",
+     "answer": [
+      "well-being"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'well-being'."
+    },
+    {
+     "n": 6,
+     "prompt": "Many nurses suffer from ________ after years of night shifts.",
+     "answer": [
+      "burnout"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'burnout'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Choose the correct phrase:",
+     "options": [
+      {
+       "key": "A",
+       "text": "access to healthcare"
+      },
+      {
+       "key": "B",
+       "text": "access for healthcare"
+      },
+      {
+       "key": "C",
+       "text": "access of healthcare"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Access TO something."
+    },
+    {
+     "n": 8,
+     "prompt": "'Detrimental' means:",
+     "options": [
+      {
+       "key": "A",
+       "text": "helpful"
+      },
+      {
+       "key": "B",
+       "text": "harmful"
+      },
+      {
+       "key": "C",
+       "text": "expensive"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Detrimental to = harmful to."
+    },
+    {
+     "n": 9,
+     "prompt": "Choose the correct collocation:",
+     "options": [
+      {
+       "key": "A",
+       "text": "keep a balanced diet"
+      },
+      {
+       "key": "B",
+       "text": "maintain a balanced diet"
+      },
+      {
+       "key": "C",
+       "text": "hold a balanced diet"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Maintain / eat / follow a balanced diet."
+    },
+    {
+     "n": 10,
+     "prompt": "Which word describes a disease that can be avoided?",
+     "options": [
+      {
+       "key": "A",
+       "text": "preventable"
+      },
+      {
+       "key": "B",
+       "text": "preventive"
+      },
+      {
+       "key": "C",
+       "text": "prevented"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Preventable disease = it can be prevented."
+    }
+   ]
+  }
+ ]
+}

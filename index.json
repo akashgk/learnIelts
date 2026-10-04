@@ -1,0 +1,2406 @@
+{
+ "name": "learnIelts — IELTS Academic practice",
+ "schema_version": 1,
+ "commit": null,
+ "question_types": {
+  "tfng": "True / False / Not Given",
+  "ynng": "Yes / No / Not Given",
+  "mcq": "Multiple choice (one answer)",
+  "mcq_multi": "Multiple choice (choose TWO/THREE)",
+  "gap": "Completion (sentence / note / table / form / summary)",
+  "matching": "Matching (headings, information, features, endings)",
+  "short": "Short answer"
+ },
+ "sections": [
+  {
+   "key": "guide",
+   "label": "Exam guide",
+   "path": "00_exam_guide",
+   "readme": "00_exam_guide/README.md",
+   "count": 5
+  },
+  {
+   "key": "listening",
+   "label": "Listening",
+   "path": "01_listening",
+   "readme": "01_listening/README.md",
+   "count": 8
+  },
+  {
+   "key": "reading",
+   "label": "Reading",
+   "path": "02_reading",
+   "readme": "02_reading/README.md",
+   "count": 8
+  },
+  {
+   "key": "writing_task1",
+   "label": "Writing Task 1",
+   "path": "03_writing_task1",
+   "readme": "03_writing_task1/README.md",
+   "count": 10
+  },
+  {
+   "key": "writing_task2",
+   "label": "Writing Task 2",
+   "path": "04_writing_task2",
+   "readme": "04_writing_task2/README.md",
+   "count": 14
+  },
+  {
+   "key": "speaking_part1",
+   "label": "Speaking Part 1",
+   "path": "05_speaking_part1",
+   "readme": "05_speaking_part1/README.md",
+   "count": 12
+  },
+  {
+   "key": "speaking_part2_3",
+   "label": "Speaking Parts 2 & 3",
+   "path": "06_speaking_part2_3",
+   "readme": "06_speaking_part2_3/README.md",
+   "count": 12
+  },
+  {
+   "key": "vocabulary",
+   "label": "Vocabulary",
+   "path": "07_vocabulary",
+   "readme": "07_vocabulary/README.md",
+   "count": 10
+  },
+  {
+   "key": "grammar",
+   "label": "Grammar",
+   "path": "08_grammar",
+   "readme": "08_grammar/README.md",
+   "count": 8
+  }
+ ],
+ "items": [
+  {
+   "id": "00_exam_guide/01_test_format",
+   "section": "guide",
+   "slug": "01_test_format",
+   "order": 1,
+   "title": "IELTS Academic Test Format",
+   "summary": "Sections, timings, question counts and 2026 delivery changes.",
+   "difficulty": "All levels",
+   "topics": [
+    "exam format"
+   ],
+   "minutes": 10,
+   "files": [
+    "guide.md"
+   ]
+  },
+  {
+   "id": "00_exam_guide/02_band_scores",
+   "section": "guide",
+   "slug": "02_band_scores",
+   "order": 2,
+   "title": "Band Scores & Marking Criteria",
+   "summary": "Raw-score conversion tables, overall band rounding, writing and speaking criteria.",
+   "difficulty": "All levels",
+   "topics": [
+    "scoring"
+   ],
+   "minutes": 10,
+   "files": [
+    "band_table.json",
+    "guide.md"
+   ]
+  },
+  {
+   "id": "00_exam_guide/03_question_type_strategies",
+   "section": "guide",
+   "slug": "03_question_type_strategies",
+   "order": 3,
+   "title": "Question-Type Strategies",
+   "summary": "How to tackle TFNG, headings, MCQ, completion, maps and more.",
+   "difficulty": "All levels",
+   "topics": [
+    "strategy"
+   ],
+   "minutes": 10,
+   "files": [
+    "guide.md"
+   ]
+  },
+  {
+   "id": "00_exam_guide/04_eight_week_study_plan",
+   "section": "guide",
+   "slug": "04_eight_week_study_plan",
+   "order": 4,
+   "title": "8-Week Study Plan",
+   "summary": "A week-by-week plan that uses every item in this repo.",
+   "difficulty": "All levels",
+   "topics": [
+    "planning"
+   ],
+   "minutes": 10,
+   "files": [
+    "guide.md"
+   ]
+  },
+  {
+   "id": "00_exam_guide/05_test_day_checklist",
+   "section": "guide",
+   "slug": "05_test_day_checklist",
+   "order": 5,
+   "title": "Test Day Checklist",
+   "summary": "What to do the day before and during each section.",
+   "difficulty": "All levels",
+   "topics": [
+    "strategy"
+   ],
+   "minutes": 10,
+   "files": [
+    "guide.md"
+   ]
+  },
+  {
+   "id": "01_listening/01_s1_sports_centre_membership",
+   "section": "listening",
+   "slug": "01_s1_sports_centre_membership",
+   "order": 1,
+   "title": "Section 1 · Joining a Sports Centre",
+   "summary": "A phone call to join a leisure centre — form completion with names, numbers and corrections.",
+   "difficulty": "Section 1 · Band 4.5–6",
+   "topics": [
+    "everyday life",
+    "sport"
+   ],
+   "skills": [
+    "form completion",
+    "spelling",
+    "numbers",
+    "distractors"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "RECEPTIONIST": "female",
+    "CALLER": "male"
+   },
+   "test": "Practice Test A",
+   "question_count": 10,
+   "question_types": [
+    "gap"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
+   "id": "01_listening/02_s2_riverside_museum_tour",
+   "section": "listening",
+   "slug": "02_s2_riverside_museum_tour",
+   "order": 2,
+   "title": "Section 2 · Riverside Museum Tour",
+   "summary": "A guide's introduction to a museum — multiple choice and map labelling.",
+   "difficulty": "Section 2 · Band 5–6.5",
+   "topics": [
+    "tourism",
+    "history"
+   ],
+   "skills": [
+    "multiple choice",
+    "map labelling",
+    "directions"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "GUIDE": "female"
+   },
+   "test": "Practice Test A",
+   "question_count": 10,
+   "question_types": [
+    "matching",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "map.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
+   "id": "01_listening/03_s3_research_project_tutorial",
+   "section": "listening",
+   "slug": "03_s3_research_project_tutorial",
+   "order": 3,
+   "title": "Section 3 · Food Waste Research Tutorial",
+   "summary": "Two students and a tutor discuss limitations, findings and how to present data.",
+   "difficulty": "Section 3 · Band 6–7.5",
+   "topics": [
+    "education",
+    "food",
+    "environment"
+   ],
+   "skills": [
+    "choose two",
+    "multiple choice",
+    "matching speakers"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "TUTOR": "male",
+    "MAYA": "female",
+    "TOM": "male"
+   },
+   "test": "Practice Test A",
+   "question_count": 10,
+   "question_types": [
+    "matching",
+    "mcq",
+    "mcq_multi"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
+   "id": "01_listening/04_s4_lecture_bioluminescence",
+   "section": "listening",
+   "slug": "04_s4_lecture_bioluminescence",
+   "order": 4,
+   "title": "Section 4 · Lecture: Bioluminescence",
+   "summary": "An academic lecture on how and why living things produce light — note completion.",
+   "difficulty": "Section 4 · Band 6.5–8",
+   "topics": [
+    "science",
+    "nature",
+    "ocean"
+   ],
+   "skills": [
+    "note completion",
+    "signpost language"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "LECTURER": "male"
+   },
+   "test": "Practice Test A",
+   "question_count": 10,
+   "question_types": [
+    "gap"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
+   "id": "01_listening/05_s1_lost_property_report",
+   "section": "listening",
+   "slug": "05_s1_lost_property_report",
+   "order": 5,
+   "title": "Section 1 · Reporting Lost Property",
+   "summary": "A phone call to report a bag left on a train — form completion with dates and descriptions.",
+   "difficulty": "Section 1 · Band 4.5–6",
+   "topics": [
+    "everyday life",
+    "transport"
+   ],
+   "skills": [
+    "form completion",
+    "dates",
+    "spelling",
+    "distractors"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "OFFICER": "male",
+    "WOMAN": "female"
+   },
+   "test": "Practice Test B",
+   "question_count": 10,
+   "question_types": [
+    "gap"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
+   "id": "01_listening/06_s2_community_festival_volunteers",
+   "section": "listening",
+   "slug": "06_s2_community_festival_volunteers",
+   "order": 6,
+   "title": "Section 2 · Festival Volunteer Briefing",
+   "summary": "A coordinator explains rules and roles to festival volunteers — MCQ and matching.",
+   "difficulty": "Section 2 · Band 5–6.5",
+   "topics": [
+    "community",
+    "environment",
+    "events"
+   ],
+   "skills": [
+    "multiple choice",
+    "matching",
+    "partly vs mainly"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "ORGANISER": "male"
+   },
+   "test": "Practice Test B",
+   "question_count": 10,
+   "question_types": [
+    "matching",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
+   "id": "01_listening/07_s3_presentation_on_cycling",
+   "section": "listening",
+   "slug": "07_s3_presentation_on_cycling",
+   "order": 7,
+   "title": "Section 3 · Planning a Cycling Presentation",
+   "summary": "Two students plan a presentation on urban cycling policies — MCQ and matching case studies.",
+   "difficulty": "Section 3 · Band 6–7.5",
+   "topics": [
+    "transport",
+    "cities",
+    "environment",
+    "education"
+   ],
+   "skills": [
+    "multiple choice",
+    "matching",
+    "changed opinions"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "LENA": "female",
+    "OMAR": "male"
+   },
+   "test": "Practice Test B",
+   "question_count": 10,
+   "question_types": [
+    "matching",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
+   "id": "01_listening/08_s4_lecture_roman_concrete",
+   "section": "listening",
+   "slug": "08_s4_lecture_roman_concrete",
+   "order": 8,
+   "title": "Section 4 · Lecture: Roman Concrete",
+   "summary": "Why Roman concrete has lasted 2,000 years and what modern engineers can learn — note completion.",
+   "difficulty": "Section 4 · Band 6.5–8",
+   "topics": [
+    "history",
+    "engineering",
+    "science",
+    "environment"
+   ],
+   "skills": [
+    "note completion",
+    "paraphrase",
+    "word forms"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "LECTURER": "female"
+   },
+   "test": "Practice Test B",
+   "question_count": 10,
+   "question_types": [
+    "gap"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
+   "id": "02_reading/01_urban_heat_islands",
+   "section": "reading",
+   "slug": "01_urban_heat_islands",
+   "order": 1,
+   "title": "Cooling the Concrete Jungle",
+   "summary": "Why cities are hotter than the countryside and what can be done about it.",
+   "difficulty": "Passage 1 · Band 5.5–6.5",
+   "topics": [
+    "environment",
+    "cities",
+    "health"
+   ],
+   "skills": [
+    "matching headings",
+    "true/false/not given",
+    "summary completion"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "gap",
+    "matching",
+    "tfng"
+   ],
+   "passage_words": 694,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/02_wolves_of_yellowstone",
+   "section": "reading",
+   "slug": "02_wolves_of_yellowstone",
+   "order": 2,
+   "title": "The Return of the Wolves",
+   "summary": "The reintroduction of wolves to Yellowstone and the debate over the 'trophic cascade'.",
+   "difficulty": "Passage 1–2 · Band 6–7",
+   "topics": [
+    "nature",
+    "ecology",
+    "science"
+   ],
+   "skills": [
+    "matching information",
+    "multiple choice",
+    "sentence completion"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "gap",
+    "matching",
+    "mcq"
+   ],
+   "passage_words": 565,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/03_the_longitude_problem",
+   "section": "reading",
+   "slug": "03_the_longitude_problem",
+   "order": 3,
+   "title": "The Longitude Problem",
+   "summary": "How John Harrison's marine clocks competed with astronomy to solve navigation at sea.",
+   "difficulty": "Passage 2 · Band 6–7",
+   "topics": [
+    "history",
+    "science",
+    "technology"
+   ],
+   "skills": [
+    "note completion",
+    "true/false/not given",
+    "matching features"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "gap",
+    "matching",
+    "tfng"
+   ],
+   "passage_words": 702,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/04_sleep_and_memory",
+   "section": "reading",
+   "slug": "04_sleep_and_memory",
+   "order": 4,
+   "title": "Why We Sleep on It",
+   "summary": "How different stages of sleep help the brain to store memories.",
+   "difficulty": "Passage 2 · Band 6.5–7.5",
+   "topics": [
+    "science",
+    "health",
+    "education"
+   ],
+   "skills": [
+    "matching headings",
+    "yes/no/not given",
+    "summary completion"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "gap",
+    "matching",
+    "ynng"
+   ],
+   "passage_words": 604,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/05_vertical_farming",
+   "section": "reading",
+   "slug": "05_vertical_farming",
+   "order": 5,
+   "title": "Farming Upwards",
+   "summary": "The promise and limits of growing food indoors in stacked layers.",
+   "difficulty": "Passage 1–2 · Band 6–7",
+   "topics": [
+    "food",
+    "technology",
+    "environment",
+    "cities"
+   ],
+   "skills": [
+    "table completion",
+    "choose two",
+    "true/false/not given",
+    "sentence endings"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "gap",
+    "matching",
+    "mcq_multi",
+    "tfng"
+   ],
+   "passage_words": 632,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/06_disappearing_languages",
+   "section": "reading",
+   "slug": "06_disappearing_languages",
+   "order": 6,
+   "title": "When a Language Dies",
+   "summary": "Why languages are disappearing, why it matters and how some have been revived.",
+   "difficulty": "Passage 3 · Band 7–8",
+   "topics": [
+    "language",
+    "culture",
+    "society"
+   ],
+   "skills": [
+    "multiple choice",
+    "yes/no/not given",
+    "summary with word box"
+   ],
+   "minutes": 20,
+   "question_count": 14,
+   "question_types": [
+    "matching",
+    "mcq",
+    "ynng"
+   ],
+   "passage_words": 670,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/07_the_paradox_of_choice",
+   "section": "reading",
+   "slug": "07_the_paradox_of_choice",
+   "order": 7,
+   "title": "Too Much of a Good Thing?",
+   "summary": "The famous jam experiment, 'choice overload' and what later research found.",
+   "difficulty": "Passage 3 · Band 7–8",
+   "topics": [
+    "psychology",
+    "business",
+    "society"
+   ],
+   "skills": [
+    "flow-chart completion",
+    "classification",
+    "multiple choice"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "gap",
+    "matching",
+    "mcq"
+   ],
+   "passage_words": 631,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/08_the_placebo_effect",
+   "section": "reading",
+   "slug": "08_the_placebo_effect",
+   "order": 8,
+   "title": "The Power of Belief",
+   "summary": "What the placebo effect really is, how big it is, and what makes it stronger.",
+   "difficulty": "Passage 2–3 · Band 6.5–7.5",
+   "topics": [
+    "health",
+    "medicine",
+    "psychology",
+    "science"
+   ],
+   "skills": [
+    "matching information",
+    "true/false/not given",
+    "short answer"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "matching",
+    "short",
+    "tfng"
+   ],
+   "passage_words": 586,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "03_writing_task1/01_line_graph_international_students",
+   "section": "writing_task1",
+   "slug": "01_line_graph_international_students",
+   "order": 1,
+   "title": "Line Graph · International Students in Three Countries",
+   "summary": "Describe and compare trends over 20 years; practise the overview and trend vocabulary.",
+   "difficulty": "Band 6–7 target",
+   "topics": [
+    "education",
+    "globalisation"
+   ],
+   "chart": "line",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 186,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/02_bar_chart_household_spending",
+   "section": "writing_task1",
+   "slug": "02_bar_chart_household_spending",
+   "order": 2,
+   "title": "Bar Chart · Household Spending 1990 vs 2020",
+   "summary": "Compare proportions across categories and two years; practise grouping data.",
+   "difficulty": "Band 6–7 target",
+   "topics": [
+    "economy",
+    "society"
+   ],
+   "chart": "bar",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 166,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/03_pie_charts_energy_sources",
+   "section": "writing_task1",
+   "slug": "03_pie_charts_energy_sources",
+   "order": 3,
+   "title": "Pie Charts · Electricity Sources 2000 vs 2020",
+   "summary": "Compare two pie charts; describe a shift from coal to gas and renewables.",
+   "difficulty": "Band 6–7 target",
+   "topics": [
+    "energy",
+    "environment"
+   ],
+   "chart": "pie",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 189,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/04_table_public_transport",
+   "section": "writing_task1",
+   "slug": "04_table_public_transport",
+   "order": 4,
+   "title": "Table · Public Transport in Five Cities",
+   "summary": "Select key features from a table with three variables; compare by column.",
+   "difficulty": "Band 6.5–7.5 target",
+   "topics": [
+    "transport",
+    "cities"
+   ],
+   "chart": "table",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 188,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/05_process_plastic_recycling",
+   "section": "writing_task1",
+   "slug": "05_process_plastic_recycling",
+   "order": 5,
+   "title": "Process · Recycling Plastic Bottles",
+   "summary": "Describe a man-made process using the passive voice and sequencers.",
+   "difficulty": "Band 6–7 target",
+   "topics": [
+    "environment",
+    "industry"
+   ],
+   "chart": "process",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 173,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/06_process_rainwater_harvesting",
+   "section": "writing_task1",
+   "slug": "06_process_rainwater_harvesting",
+   "order": 6,
+   "title": "Process · Rainwater Harvesting System",
+   "summary": "Describe a system with a branching end-point; mix active and passive verbs.",
+   "difficulty": "Band 6.5–7.5 target",
+   "topics": [
+    "environment",
+    "housing",
+    "water"
+   ],
+   "chart": "process",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 199,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/07_map_town_centre_changes",
+   "section": "writing_task1",
+   "slug": "07_map_town_centre_changes",
+   "order": 7,
+   "title": "Maps · Westbury Town Centre Then and Now",
+   "summary": "Compare two maps using present perfect passive and location language.",
+   "difficulty": "Band 6.5–7.5 target",
+   "topics": [
+    "cities",
+    "urban planning"
+   ],
+   "chart": "map",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 196,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/08_mixed_line_and_bar_tourism",
+   "section": "writing_task1",
+   "slug": "08_mixed_line_and_bar_tourism",
+   "order": 8,
+   "title": "Mixed Charts · Tourism Arrivals and Purpose of Visit",
+   "summary": "Combine a line graph and bar chart; describe a peak, a collapse and a recovery.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "tourism",
+    "economy"
+   ],
+   "chart": "mixed",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 175,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/09_bar_chart_internet_use_by_age",
+   "section": "writing_task1",
+   "slug": "09_bar_chart_internet_use_by_age",
+   "order": 9,
+   "title": "Bar Chart · Time Online by Age Group",
+   "summary": "Describe absolute vs proportional change across five age groups.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "technology",
+    "society",
+    "age"
+   ],
+   "chart": "bar",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 208,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/10_map_campus_redevelopment",
+   "section": "writing_task1",
+   "slug": "10_map_campus_redevelopment",
+   "order": 10,
+   "title": "Maps · Planned Campus Redevelopment",
+   "summary": "Describe planned changes using future passive forms.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "education",
+    "urban planning"
+   ],
+   "chart": "map",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 194,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/01_opinion_free_university_education",
+   "section": "writing_task2",
+   "slug": "01_opinion_free_university_education",
+   "order": 1,
+   "title": "Opinion · Should University Be Free for All?",
+   "summary": "Agree/disagree essay with a partial position and a proposed alternative.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "education",
+    "economy",
+    "government"
+   ],
+   "essay_type": "opinion",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 311,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/02_discussion_competition_vs_cooperation",
+   "section": "writing_task2",
+   "slug": "02_discussion_competition_vs_cooperation",
+   "order": 2,
+   "title": "Discussion · Competition or Cooperation at School?",
+   "summary": "Discuss both views and give your own opinion — classic five-paragraph discussion.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "education",
+    "children",
+    "society"
+   ],
+   "essay_type": "discussion",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 301,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/03_adv_disadv_remote_work",
+   "section": "writing_task2",
+   "slug": "03_adv_disadv_remote_work",
+   "order": 3,
+   "title": "Advantages & Disadvantages · Working from Home",
+   "summary": "Balanced advantages/disadvantages essay without a required opinion.",
+   "difficulty": "Band 6.5–7.5 target",
+   "topics": [
+    "work",
+    "technology",
+    "society"
+   ],
+   "essay_type": "advantages_disadvantages",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 288,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/04_problem_solution_traffic_congestion",
+   "section": "writing_task2",
+   "slug": "04_problem_solution_traffic_congestion",
+   "order": 4,
+   "title": "Causes & Solutions · Traffic Congestion",
+   "summary": "Identify causes and match each with a specific solution.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "transport",
+    "cities",
+    "environment"
+   ],
+   "essay_type": "problem_solution",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 296,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/05_two_part_urban_migration",
+   "section": "writing_task2",
+   "slug": "05_two_part_urban_migration",
+   "order": 5,
+   "title": "Two-part Question · Why Are People Moving to Cities?",
+   "summary": "Answer a 'why' question and give a positive/negative verdict.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "cities",
+    "society",
+    "economy"
+   ],
+   "essay_type": "two_part",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 299,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/06_positive_negative_living_alone",
+   "section": "writing_task2",
+   "slug": "06_positive_negative_living_alone",
+   "order": 6,
+   "title": "Positive or Negative? · More People Living Alone",
+   "summary": "Evaluate a social trend for individuals and for society.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "society",
+    "housing",
+    "health"
+   ],
+   "essay_type": "positive_negative",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 274,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/07_opinion_compulsory_community_service",
+   "section": "writing_task2",
+   "slug": "07_opinion_compulsory_community_service",
+   "order": 7,
+   "title": "Opinion · Compulsory Community Service at School",
+   "summary": "Strongly agree essay with a counter-argument and rebuttal paragraph.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "education",
+    "society",
+    "young people"
+   ],
+   "essay_type": "opinion",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 288,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/08_discussion_funding_the_arts",
+   "section": "writing_task2",
+   "slug": "08_discussion_funding_the_arts",
+   "order": 8,
+   "title": "Discussion · Public Money for the Arts?",
+   "summary": "Discuss arts funding vs public services and challenge the either/or premise.",
+   "difficulty": "Band 7.5–8.5 target",
+   "topics": [
+    "arts",
+    "government",
+    "economy"
+   ],
+   "essay_type": "discussion",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 302,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/09_opinion_ai_replacing_teachers",
+   "section": "writing_task2",
+   "slug": "09_opinion_ai_replacing_teachers",
+   "order": 9,
+   "title": "Opinion · Will AI Replace Teachers?",
+   "summary": "Nuanced disagree essay on technology in education.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "technology",
+    "education",
+    "AI"
+   ],
+   "essay_type": "opinion",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 291,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/10_adv_outweigh_international_tourism",
+   "section": "writing_task2",
+   "slug": "10_adv_outweigh_international_tourism",
+   "order": 10,
+   "title": "Advantages Outweigh? · International Tourism",
+   "summary": "Weigh advantages against disadvantages and reach a clear verdict.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "tourism",
+    "environment",
+    "culture",
+    "economy"
+   ],
+   "essay_type": "advantages_outweigh",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 280,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/11_discussion_climate_responsibility",
+   "section": "writing_task2",
+   "slug": "11_discussion_climate_responsibility",
+   "order": 11,
+   "title": "Discussion · Who Should Protect the Environment?",
+   "summary": "Individuals vs governments and corporations — link both views into one argument.",
+   "difficulty": "Band 7.5–8.5 target",
+   "topics": [
+    "environment",
+    "government",
+    "society"
+   ],
+   "essay_type": "discussion",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 298,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/12_causes_solutions_decline_in_reading",
+   "section": "writing_task2",
+   "slug": "12_causes_solutions_decline_in_reading",
+   "order": 12,
+   "title": "Causes & Solutions · Young People Reading Less",
+   "summary": "Explain a social trend and propose matching, practical solutions.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "education",
+    "technology",
+    "young people",
+    "culture"
+   ],
+   "essay_type": "problem_solution",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 315,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/13_opinion_rich_countries_aid",
+   "section": "writing_task2",
+   "slug": "13_opinion_rich_countries_aid",
+   "order": 13,
+   "title": "Opinion · Should Rich Countries Help Poorer Nations?",
+   "summary": "Agree with a qualification — focus on how aid should be given.",
+   "difficulty": "Band 7.5–8.5 target",
+   "topics": [
+    "globalisation",
+    "economy",
+    "government"
+   ],
+   "essay_type": "opinion",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 296,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/14_two_part_celebrities_role_models",
+   "section": "writing_task2",
+   "slug": "14_two_part_celebrities_role_models",
+   "order": 14,
+   "title": "Two-part Question · Celebrities as Role Models",
+   "summary": "Explain celebrity influence and judge whether it is positive or negative.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "media",
+    "young people",
+    "society",
+    "technology"
+   ],
+   "essay_type": "two_part",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 311,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/01_work_or_study",
+   "section": "speaking_part1",
+   "slug": "01_work_or_study",
+   "order": 1,
+   "title": "Part 1 · Work or Study",
+   "summary": "5 Part 1 questions on work or study with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "work",
+    "education"
+   ],
+   "minutes": 5,
+   "questions": [
+    "Do you work or are you a student?",
+    "Why did you choose that job / subject?",
+    "What do you like most about it?",
+    "Is there anything you dislike about it?",
+    "Would you like to change your job in the future?"
+   ],
+   "model_answer_words": 202,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/02_hometown",
+   "section": "speaking_part1",
+   "slug": "02_hometown",
+   "order": 2,
+   "title": "Part 1 · Hometown",
+   "summary": "5 Part 1 questions on hometown with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "places",
+    "cities"
+   ],
+   "minutes": 5,
+   "questions": [
+    "Where is your hometown?",
+    "What do you like about your hometown?",
+    "Has your hometown changed much in recent years?",
+    "Is it a good place for young people?",
+    "Would you like to live there in the future?"
+   ],
+   "model_answer_words": 196,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/03_home_and_accommodation",
+   "section": "speaking_part1",
+   "slug": "03_home_and_accommodation",
+   "order": 3,
+   "title": "Part 1 · Home & Accommodation",
+   "summary": "5 Part 1 questions on home & accommodation with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "housing",
+    "everyday life"
+   ],
+   "minutes": 5,
+   "questions": [
+    "Do you live in a house or an apartment?",
+    "What's your favourite room?",
+    "What would you change about your home?",
+    "Do you plan to live there for a long time?",
+    "What kind of home would you like to live in in the future?"
+   ],
+   "model_answer_words": 168,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/04_free_time",
+   "section": "speaking_part1",
+   "slug": "04_free_time",
+   "order": 4,
+   "title": "Part 1 · Free Time & Hobbies",
+   "summary": "5 Part 1 questions on free time & hobbies with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "leisure",
+    "hobbies"
+   ],
+   "minutes": 5,
+   "questions": [
+    "What do you like to do in your free time?",
+    "How long have you had this hobby?",
+    "Do you prefer spending free time alone or with others?",
+    "Did you have the same hobbies when you were a child?",
+    "Is there a new hobby you'd like to try?"
+   ],
+   "model_answer_words": 174,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/05_weather_and_seasons",
+   "section": "speaking_part1",
+   "slug": "05_weather_and_seasons",
+   "order": 5,
+   "title": "Part 1 · Weather & Seasons",
+   "summary": "5 Part 1 questions on weather & seasons with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "weather",
+    "nature"
+   ],
+   "minutes": 5,
+   "questions": [
+    "What's the weather like where you live?",
+    "What's your favourite season?",
+    "Does the weather affect your mood?",
+    "Do you check the weather forecast?",
+    "Has the weather changed since you were a child?"
+   ],
+   "model_answer_words": 164,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/06_food_and_cooking",
+   "section": "speaking_part1",
+   "slug": "06_food_and_cooking",
+   "order": 6,
+   "title": "Part 1 · Food & Cooking",
+   "summary": "5 Part 1 questions on food & cooking with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "food",
+    "health"
+   ],
+   "minutes": 5,
+   "questions": [
+    "What's your favourite food?",
+    "Do you like cooking?",
+    "Do you prefer eating at home or eating out?",
+    "Is there any food you didn't like as a child but like now?",
+    "Do people in your country eat healthily?"
+   ],
+   "model_answer_words": 164,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/07_mobile_phones_and_technology",
+   "section": "speaking_part1",
+   "slug": "07_mobile_phones_and_technology",
+   "order": 7,
+   "title": "Part 1 · Mobile Phones & Technology",
+   "summary": "5 Part 1 questions on mobile phones & technology with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "technology"
+   ],
+   "minutes": 5,
+   "questions": [
+    "How often do you use your phone?",
+    "What do you mainly use it for?",
+    "Do you think people spend too much time on their phones?",
+    "Have you ever tried to use your phone less?",
+    "What was the first phone you had?"
+   ],
+   "model_answer_words": 164,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/08_reading",
+   "section": "speaking_part1",
+   "slug": "08_reading",
+   "order": 8,
+   "title": "Part 1 · Reading",
+   "summary": "5 Part 1 questions on reading with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "books",
+    "culture"
+   ],
+   "minutes": 5,
+   "questions": [
+    "Do you like reading?",
+    "What kind of books do you read?",
+    "Do you prefer paper books or e-books?",
+    "Did you read a lot as a child?",
+    "Do you think children read less now than before?"
+   ],
+   "model_answer_words": 165,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/09_music",
+   "section": "speaking_part1",
+   "slug": "09_music",
+   "order": 9,
+   "title": "Part 1 · Music",
+   "summary": "5 Part 1 questions on music with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "music",
+    "culture"
+   ],
+   "minutes": 5,
+   "questions": [
+    "What kind of music do you like?",
+    "When do you usually listen to music?",
+    "Can you play a musical instrument?",
+    "Have your music tastes changed over time?",
+    "Do you prefer live music or recordings?"
+   ],
+   "model_answer_words": 141,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/10_transport_and_travel",
+   "section": "speaking_part1",
+   "slug": "10_transport_and_travel",
+   "order": 10,
+   "title": "Part 1 · Transport & Travel",
+   "summary": "5 Part 1 questions on transport & travel with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "transport",
+    "travel"
+   ],
+   "minutes": 5,
+   "questions": [
+    "How do you usually travel to work or school?",
+    "Is public transport good where you live?",
+    "Do you like travelling?",
+    "Where did you go on your last trip?",
+    "Where would you like to travel in the future?"
+   ],
+   "model_answer_words": 142,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/11_sleep_and_daily_routine",
+   "section": "speaking_part1",
+   "slug": "11_sleep_and_daily_routine",
+   "order": 11,
+   "title": "Part 1 · Sleep & Daily Routine",
+   "summary": "5 Part 1 questions on sleep & daily routine with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "health",
+    "everyday life"
+   ],
+   "minutes": 5,
+   "questions": [
+    "How many hours do you usually sleep?",
+    "Are you a morning person or a night person?",
+    "What do you do to relax before sleeping?",
+    "Do you take naps during the day?",
+    "Is your daily routine different at weekends?"
+   ],
+   "model_answer_words": 140,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/12_friends",
+   "section": "speaking_part1",
+   "slug": "12_friends",
+   "order": 12,
+   "title": "Part 1 · Friends",
+   "summary": "5 Part 1 questions on friends with natural model answers.",
+   "difficulty": "Band 6–8 models",
+   "topics": [
+    "people",
+    "relationships"
+   ],
+   "minutes": 5,
+   "questions": [
+    "Do you have many friends?",
+    "How do you usually spend time with your friends?",
+    "Is it easy to make new friends as an adult?",
+    "What makes someone a good friend?",
+    "Do you prefer having a few close friends or many friends?"
+   ],
+   "model_answer_words": 147,
+   "files": [
+    "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/01_person_who_influenced_you",
+   "section": "speaking_part2_3",
+   "slug": "01_person_who_influenced_you",
+   "order": 1,
+   "title": "Part 2 & 3 · A Person Who Influenced You",
+   "summary": "Describe a person who has had an important influence on your life.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "people",
+    "education"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe a person who has had an important influence on your life.",
+    "bullets": [
+     "who this person is",
+     "how long you have known them",
+     "what qualities this person has",
+     "and explain why they have influenced you so much"
+    ]
+   },
+   "part3_questions": [
+    "Who usually has more influence on children — parents or teachers?",
+    "Do you think celebrities are good role models for young people?",
+    "How has the role of teachers changed in recent years?"
+   ],
+   "model_answer_words": 245,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/02_place_you_want_to_revisit",
+   "section": "speaking_part2_3",
+   "slug": "02_place_you_want_to_revisit",
+   "order": 2,
+   "title": "Part 2 & 3 · A Place You Want to Revisit",
+   "summary": "Describe a place you have visited that you would like to go back to.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "travel",
+    "places"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe a place you have visited that you would like to go back to.",
+    "bullets": [
+     "where it is",
+     "when you went there",
+     "what you did there",
+     "and explain why you would like to go back"
+    ]
+   },
+   "part3_questions": [
+    "Why do some people prefer to visit the same place again and again?",
+    "What are the effects of tourism on natural areas?",
+    "Should the number of tourists visiting some places be limited?"
+   ],
+   "model_answer_words": 247,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/03_skill_you_are_proud_of",
+   "section": "speaking_part2_3",
+   "slug": "03_skill_you_are_proud_of",
+   "order": 3,
+   "title": "Part 2 & 3 · A Skill You Are Proud Of",
+   "summary": "Describe a skill that you learned and are proud of.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "learning",
+    "hobbies"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe a skill that you learned and are proud of.",
+    "bullets": [
+     "what the skill is",
+     "when and how you learned it",
+     "how difficult it was",
+     "and explain why you are proud of it"
+    ]
+   },
+   "part3_questions": [
+    "What skills do you think children should learn at school apart from academic subjects?",
+    "Is it easier to learn new skills as a child or as an adult?",
+    "Do you think technology has changed the way people learn skills?"
+   ],
+   "model_answer_words": 249,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/04_interesting_book",
+   "section": "speaking_part2_3",
+   "slug": "04_interesting_book",
+   "order": 4,
+   "title": "Part 2 & 3 · An Interesting Book",
+   "summary": "Describe a book you read that you found interesting.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "books",
+    "culture"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe a book you read that you found interesting.",
+    "bullets": [
+     "what the book is",
+     "when you read it",
+     "what it is about",
+     "and explain why you found it interesting"
+    ]
+   },
+   "part3_questions": [
+    "Why do some people prefer reading books to watching films?",
+    "Do you think e-books will completely replace printed books?",
+    "How can parents encourage children to read more?"
+   ],
+   "model_answer_words": 241,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/05_memorable_journey",
+   "section": "speaking_part2_3",
+   "slug": "05_memorable_journey",
+   "order": 5,
+   "title": "Part 2 & 3 · A Memorable Journey",
+   "summary": "Describe a memorable journey you have made.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "travel",
+    "transport"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe a memorable journey you have made.",
+    "bullets": [
+     "where you went",
+     "how you travelled",
+     "who you were with",
+     "and explain why it was memorable"
+    ]
+   },
+   "part3_questions": [
+    "Do you think people will travel more or less in the future?",
+    "What are the advantages of travelling by train rather than by plane?",
+    "Why do some people enjoy travelling alone?"
+   ],
+   "model_answer_words": 247,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/06_time_you_helped_someone",
+   "section": "speaking_part2_3",
+   "slug": "06_time_you_helped_someone",
+   "order": 6,
+   "title": "Part 2 & 3 · A Time You Helped Someone",
+   "summary": "Describe a time when you helped someone.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "people",
+    "community"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe a time when you helped someone.",
+    "bullets": [
+     "who you helped",
+     "when it happened",
+     "how you helped them",
+     "and explain how you felt about helping this person"
+    ]
+   },
+   "part3_questions": [
+    "Why do some people not help others?",
+    "Should schools teach children to help others?",
+    "Do you think people help each other less than in the past?"
+   ],
+   "model_answer_words": 248,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/07_technology_you_use",
+   "section": "speaking_part2_3",
+   "slug": "07_technology_you_use",
+   "order": 7,
+   "title": "Part 2 & 3 · A Piece of Technology You Use",
+   "summary": "Describe a piece of technology (not a phone) that you use often.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "technology"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe a piece of technology (not a phone) that you use often.",
+    "bullets": [
+     "what it is",
+     "when you got it",
+     "what you use it for",
+     "and explain how it has changed your life"
+    ]
+   },
+   "part3_questions": [
+    "How has technology changed the way people work?",
+    "Do you think older people find it hard to keep up with technology?",
+    "Are there any disadvantages of relying too much on technology?"
+   ],
+   "model_answer_words": 244,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/08_park_or_garden",
+   "section": "speaking_part2_3",
+   "slug": "08_park_or_garden",
+   "order": 8,
+   "title": "Part 2 & 3 · A Park or Garden You Like",
+   "summary": "Describe a park or garden that you like to visit.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "places",
+    "nature",
+    "cities"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe a park or garden that you like to visit.",
+    "bullets": [
+     "where it is",
+     "what it looks like",
+     "what people do there",
+     "and explain why you like to visit it"
+    ]
+   },
+   "part3_questions": [
+    "Why are parks important in cities?",
+    "Should city land be used for parks or for housing?",
+    "How do people's leisure activities in parks differ between generations?"
+   ],
+   "model_answer_words": 245,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/09_very_busy_time",
+   "section": "speaking_part2_3",
+   "slug": "09_very_busy_time",
+   "order": 9,
+   "title": "Part 2 & 3 · A Time You Were Very Busy",
+   "summary": "Describe an occasion when you were very busy.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "work",
+    "everyday life"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe an occasion when you were very busy.",
+    "bullets": [
+     "when it was",
+     "what you had to do",
+     "how you managed your time",
+     "and explain how you felt about being so busy"
+    ]
+   },
+   "part3_questions": [
+    "Do you think people today are busier than in the past?",
+    "What are the effects of being too busy?",
+    "How can people achieve a better work–life balance?"
+   ],
+   "model_answer_words": 245,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/10_advice_you_received",
+   "section": "speaking_part2_3",
+   "slug": "10_advice_you_received",
+   "order": 10,
+   "title": "Part 2 & 3 · Useful Advice You Received",
+   "summary": "Describe a piece of good advice you received.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "people",
+    "work"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe a piece of good advice you received.",
+    "bullets": [
+     "who gave you the advice",
+     "what the advice was",
+     "when you received it",
+     "and explain why you think it was good advice"
+    ]
+   },
+   "part3_questions": [
+    "Who do young people usually ask for advice?",
+    "Is it a good idea to get advice from the internet?",
+    "Why do some people find it difficult to accept advice?"
+   ],
+   "model_answer_words": 246,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/11_festival_or_celebration",
+   "section": "speaking_part2_3",
+   "slug": "11_festival_or_celebration",
+   "order": 11,
+   "title": "Part 2 & 3 · A Festival or Celebration",
+   "summary": "Describe a festival or celebration that is important in your country.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "culture",
+    "traditions"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe a festival or celebration that is important in your country.",
+    "bullets": [
+     "what the festival is",
+     "when it is celebrated",
+     "what people do during it",
+     "and explain why it is important"
+    ]
+   },
+   "part3_questions": [
+    "Why are traditional festivals important?",
+    "Do you think festivals have become too commercial?",
+    "How do young people's attitudes to festivals differ from older people's?"
+   ],
+   "model_answer_words": 236,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "06_speaking_part2_3/12_future_goal",
+   "section": "speaking_part2_3",
+   "slug": "12_future_goal",
+   "order": 12,
+   "title": "Part 2 & 3 · A Goal for the Future",
+   "summary": "Describe a goal you would like to achieve in the future.",
+   "difficulty": "Band 7–8 models",
+   "topics": [
+    "work",
+    "ambition",
+    "education"
+   ],
+   "minutes": 10,
+   "cue_card": {
+    "task": "Describe a goal you would like to achieve in the future.",
+    "bullets": [
+     "what the goal is",
+     "when you set this goal",
+     "what you need to do to achieve it",
+     "and explain why this goal is important to you"
+    ]
+   },
+   "part3_questions": [
+    "Is it important for young people to set goals?",
+    "What stops people from achieving their goals?",
+    "Do you think success is mainly due to hard work or luck?"
+   ],
+   "model_answer_words": 247,
+   "files": [
+    "cue_card.md",
+    "model_answer.md"
+   ]
+  },
+  {
+   "id": "07_vocabulary/01_environment",
+   "section": "vocabulary",
+   "slug": "01_environment",
+   "order": 1,
+   "title": "Environment & Climate",
+   "summary": "12 high-value words for environment & climate essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "environment"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "07_vocabulary/02_education",
+   "section": "vocabulary",
+   "slug": "02_education",
+   "order": 2,
+   "title": "Education & Learning",
+   "summary": "12 high-value words for education & learning essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "education"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "07_vocabulary/03_technology",
+   "section": "vocabulary",
+   "slug": "03_technology",
+   "order": 3,
+   "title": "Technology & Innovation",
+   "summary": "12 high-value words for technology & innovation essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "technology"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "07_vocabulary/04_health",
+   "section": "vocabulary",
+   "slug": "04_health",
+   "order": 4,
+   "title": "Health & Lifestyle",
+   "summary": "12 high-value words for health & lifestyle essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "health"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "07_vocabulary/05_work_and_economy",
+   "section": "vocabulary",
+   "slug": "05_work_and_economy",
+   "order": 5,
+   "title": "Work & Economy",
+   "summary": "12 high-value words for work & economy essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "work",
+    "economy"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "07_vocabulary/06_cities_and_housing",
+   "section": "vocabulary",
+   "slug": "06_cities_and_housing",
+   "order": 6,
+   "title": "Cities & Housing",
+   "summary": "12 high-value words for cities & housing essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "cities",
+    "housing"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "07_vocabulary/07_government_and_society",
+   "section": "vocabulary",
+   "slug": "07_government_and_society",
+   "order": 7,
+   "title": "Government & Society",
+   "summary": "12 high-value words for government & society essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "government",
+    "society"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "07_vocabulary/08_media_and_advertising",
+   "section": "vocabulary",
+   "slug": "08_media_and_advertising",
+   "order": 8,
+   "title": "Media & Advertising",
+   "summary": "12 high-value words for media & advertising essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "media"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "07_vocabulary/09_science_and_research",
+   "section": "vocabulary",
+   "slug": "09_science_and_research",
+   "order": 9,
+   "title": "Science & Research",
+   "summary": "12 high-value words for science & research essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "science"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "07_vocabulary/10_travel_and_globalisation",
+   "section": "vocabulary",
+   "slug": "10_travel_and_globalisation",
+   "order": 10,
+   "title": "Travel & Globalisation",
+   "summary": "12 high-value words for travel & globalisation essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "tourism",
+    "globalisation"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "08_grammar/01_articles",
+   "section": "grammar",
+   "slug": "01_articles",
+   "order": 1,
+   "title": "Articles: a, an, the, Ø",
+   "summary": "When to use a/an, the, or no article — the most common error for many IELTS candidates.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 8,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "08_grammar/02_subject_verb_agreement",
+   "section": "grammar",
+   "slug": "02_subject_verb_agreement",
+   "order": 2,
+   "title": "Subject–Verb Agreement",
+   "summary": "Make verbs agree with their real subject, even in long noun phrases.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 8,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "08_grammar/03_relative_clauses",
+   "section": "grammar",
+   "slug": "03_relative_clauses",
+   "order": 3,
+   "title": "Relative Clauses & Complex Sentences",
+   "summary": "Combine ideas with who/which/that/where/whose to raise your Grammatical Range score.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 8,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "08_grammar/04_conditionals",
+   "section": "grammar",
+   "slug": "04_conditionals",
+   "order": 4,
+   "title": "Conditionals for Arguments",
+   "summary": "Use conditionals to suggest solutions and predict consequences in Task 2 and Speaking.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 8,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "08_grammar/05_passive_voice",
+   "section": "grammar",
+   "slug": "05_passive_voice",
+   "order": 5,
+   "title": "The Passive Voice",
+   "summary": "Essential for process diagrams, maps and formal academic style.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 8,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "08_grammar/06_comparisons_and_data",
+   "section": "grammar",
+   "slug": "06_comparisons_and_data",
+   "order": 6,
+   "title": "Comparing Data & Numbers",
+   "summary": "Accurate comparatives, superlatives, fractions and approximations for Task 1.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 8,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "08_grammar/07_tenses_for_writing",
+   "section": "grammar",
+   "slug": "07_tenses_for_writing",
+   "order": 7,
+   "title": "Tenses for Task 1 and Task 2",
+   "summary": "Choose the right tense for past data, present facts, changes up to now and future predictions.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 8,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "08_grammar/08_common_errors",
+   "section": "grammar",
+   "slug": "08_common_errors",
+   "order": 8,
+   "title": "Common Errors: Countable Nouns, Prepositions, Word Forms",
+   "summary": "Fix the small errors that pull Band 6 scripts down.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 8,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
+  }
+ ],
+ "totals": {
+  "items": 87,
+  "objective_questions": 349
+ }
+}

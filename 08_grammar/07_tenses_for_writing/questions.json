@@ -1,0 +1,172 @@
+{
+ "total": 8,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–8",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "In 2005, the figure ____ to 190,000.",
+     "options": [
+      {
+       "key": "A",
+       "text": "has risen"
+      },
+      {
+       "key": "B",
+       "text": "rose"
+      },
+      {
+       "key": "C",
+       "text": "rises"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Finished past time → past simple."
+    },
+    {
+     "n": 2,
+     "prompt": "By 2020, the number of users ____ fourfold.",
+     "options": [
+      {
+       "key": "A",
+       "text": "increased"
+      },
+      {
+       "key": "B",
+       "text": "has increased"
+      },
+      {
+       "key": "C",
+       "text": "had increased"
+      }
+     ],
+     "answer": "C",
+     "explanation": "'By + past year' → past perfect."
+    },
+    {
+     "n": 3,
+     "prompt": "Since 1995, the factory ____ into flats.",
+     "options": [
+      {
+       "key": "A",
+       "text": "was converted"
+      },
+      {
+       "key": "B",
+       "text": "has been converted"
+      },
+      {
+       "key": "C",
+       "text": "converts"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Since + up to now → present perfect."
+    },
+    {
+     "n": 4,
+     "prompt": "Sales ____ to reach 5 million by 2030.",
+     "options": [
+      {
+       "key": "A",
+       "text": "are predicted"
+      },
+      {
+       "key": "B",
+       "text": "predicted"
+      },
+      {
+       "key": "C",
+       "text": "had predicted"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Projection → passive 'are predicted to'."
+    },
+    {
+     "n": 5,
+     "prompt": "Over the past decade, online shopping ____ enormously.",
+     "options": [
+      {
+       "key": "A",
+       "text": "grew"
+      },
+      {
+       "key": "B",
+       "text": "has grown"
+      },
+      {
+       "key": "C",
+       "text": "had grown"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'Over the past decade' (until now) → present perfect."
+    },
+    {
+     "n": 6,
+     "prompt": "Once the leaves ____, they are dried.",
+     "options": [
+      {
+       "key": "A",
+       "text": "were picked"
+      },
+      {
+       "key": "B",
+       "text": "have been picked"
+      },
+      {
+       "key": "C",
+       "text": "had picked"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Process with 'once': present perfect passive works naturally."
+    },
+    {
+     "n": 7,
+     "prompt": "Nowadays, more young people ____ to live alone.",
+     "options": [
+      {
+       "key": "A",
+       "text": "are choosing"
+      },
+      {
+       "key": "B",
+       "text": "chose"
+      },
+      {
+       "key": "C",
+       "text": "had chosen"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Current trend → present continuous."
+    },
+    {
+     "n": 8,
+     "prompt": "In 1990, Germany ____ the leading destination.",
+     "options": [
+      {
+       "key": "A",
+       "text": "is"
+      },
+      {
+       "key": "B",
+       "text": "has been"
+      },
+      {
+       "key": "C",
+       "text": "was"
+      }
+     ],
+     "answer": "C",
+     "explanation": "Past year → past simple."
+    }
+   ]
+  }
+ ]
+}

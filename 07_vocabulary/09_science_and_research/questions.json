@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "The researchers ________ an experiment with 200 volunteers.",
+     "answer": [
+      "conducted"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'conducted'."
+    },
+    {
+     "n": 2,
+     "prompt": "Other scientists were unable to ________ the results.",
+     "answer": [
+      "replicate"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'replicate'."
+    },
+    {
+     "n": 3,
+     "prompt": "A ________ of 50 people is too small to draw conclusions.",
+     "answer": [
+      "sample"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'sample'."
+    },
+    {
+     "n": 4,
+     "prompt": "There is a strong ________ between smoking and lung disease.",
+     "answer": [
+      "correlation"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'correlation'."
+    },
+    {
+     "n": 5,
+     "prompt": "Northern lights are a natural ________.",
+     "answer": [
+      "phenomenon"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'phenomenon'."
+    },
+    {
+     "n": 6,
+     "prompt": "The theory is supported by ________ evidence from many experiments.",
+     "answer": [
+      "empirical"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'empirical'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "What is the plural of 'phenomenon'?",
+     "options": [
+      {
+       "key": "A",
+       "text": "phenomenons"
+      },
+      {
+       "key": "B",
+       "text": "phenomena"
+      },
+      {
+       "key": "C",
+       "text": "phenomenas"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Greek plural: phenomena."
+    },
+    {
+     "n": 8,
+     "prompt": "Choose the correct collocation:",
+     "options": [
+      {
+       "key": "A",
+       "text": "conduct research"
+      },
+      {
+       "key": "B",
+       "text": "make research"
+      },
+      {
+       "key": "C",
+       "text": "do a research"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Conduct / carry out research. 'Research' is uncountable — never 'a research'."
+    },
+    {
+     "n": 9,
+     "prompt": "'Correlation does not imply causation' means:",
+     "options": [
+      {
+       "key": "A",
+       "text": "two linked things may not cause each other"
+      },
+      {
+       "key": "B",
+       "text": "all research is wrong"
+      },
+      {
+       "key": "C",
+       "text": "experiments always fail"
+      }
+     ],
+     "answer": "A",
+     "explanation": "A connection is not proof of cause."
+    },
+    {
+     "n": 10,
+     "prompt": "A 'peer-reviewed' article has been:",
+     "options": [
+      {
+       "key": "A",
+       "text": "checked by other experts"
+      },
+      {
+       "key": "B",
+       "text": "written by students"
+      },
+      {
+       "key": "C",
+       "text": "paid for by companies"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Peer review = expert evaluation."
+    }
+   ]
+  }
+ ]
+}

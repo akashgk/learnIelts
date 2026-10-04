@@ -1,0 +1,26 @@
+{
+ "chart": "map",
+ "title": "University campus redevelopment",
+ "maps": [
+  {"title": "Present", "features": [
+   {"name": "Sports field", "position": "north-west"},
+   {"name": "Large car park", "position": "north-east"},
+   {"name": "Library", "position": "centre-west"},
+   {"name": "Lecture halls", "position": "centre"},
+   {"name": "Science building", "position": "centre-east"},
+   {"name": "Main gate (vehicle access)", "position": "south"},
+   {"name": "Bus stop", "position": "south"},
+   {"name": "Woodland", "position": "south-east"}]},
+  {"title": "Planned", "features": [
+   {"name": "Indoor sports centre and smaller field", "position": "north-west"},
+   {"name": "Student housing (replaces car park)", "position": "north-east"},
+   {"name": "Library (extended westwards)", "position": "centre-west"},
+   {"name": "Lecture halls", "position": "centre"},
+   {"name": "Science building with new laboratory", "position": "centre-east"},
+   {"name": "Main gate (pedestrians and cyclists only)", "position": "south"},
+   {"name": "Bus stop", "position": "south"},
+   {"name": "Café", "position": "south"},
+   {"name": "Underground car park", "position": "centre (beneath campus)"},
+   {"name": "Woodland", "position": "south-east"}]}
+ ]
+}

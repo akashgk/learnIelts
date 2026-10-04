@@ -1,0 +1,111 @@
+[
+ {
+  "word": "unemployment",
+  "pos": "n",
+  "meaning": "not having a job",
+  "example": "Youth unemployment remains high.",
+  "collocations": [
+   "unemployment rate",
+   "youth unemployment"
+  ]
+ },
+ {
+  "word": "job security",
+  "pos": "n",
+  "meaning": "confidence that you will keep your job",
+  "example": "Freelancers have little job security.",
+  "collocations": [
+   "lack of job security"
+  ]
+ },
+ {
+  "word": "work–life balance",
+  "pos": "n",
+  "meaning": "balance between work and personal life",
+  "example": "Flexible hours improve work–life balance.",
+  "collocations": [
+   "achieve / maintain a healthy work–life balance"
+  ]
+ },
+ {
+  "word": "remuneration",
+  "pos": "n",
+  "meaning": "payment for work (formal)",
+  "example": "Remuneration includes salary and bonuses.",
+  "collocations": [
+   "generous remuneration"
+  ]
+ },
+ {
+  "word": "productivity",
+  "pos": "n",
+  "meaning": "output per worker / hour",
+  "example": "Short breaks can boost productivity.",
+  "collocations": [
+   "boost / increase productivity"
+  ]
+ },
+ {
+  "word": "gig economy",
+  "pos": "n",
+  "meaning": "short-term, freelance work, often via apps",
+  "example": "Delivery riders are part of the gig economy.",
+  "collocations": [
+   "work in the gig economy"
+  ]
+ },
+ {
+  "word": "recession",
+  "pos": "n",
+  "meaning": "a period when the economy shrinks",
+  "example": "Thousands lost jobs during the recession.",
+  "collocations": [
+   "go into / enter a recession"
+  ]
+ },
+ {
+  "word": "entrepreneur",
+  "pos": "n",
+  "meaning": "someone who starts a business",
+  "example": "Young entrepreneurs need access to loans.",
+  "collocations": [
+   "aspiring entrepreneur"
+  ]
+ },
+ {
+  "word": "inflation",
+  "pos": "n",
+  "meaning": "general rise in prices",
+  "example": "Inflation reduces the value of savings.",
+  "collocations": [
+   "high / rising inflation"
+  ]
+ },
+ {
+  "word": "workforce",
+  "pos": "n",
+  "meaning": "all the workers in a company/country",
+  "example": "Women make up half the workforce.",
+  "collocations": [
+   "skilled workforce"
+  ]
+ },
+ {
+  "word": "promotion",
+  "pos": "n",
+  "meaning": "a move to a higher job",
+  "example": "She was given a promotion after a year.",
+  "collocations": [
+   "get / be given a promotion"
+  ]
+ },
+ {
+  "word": "outsource",
+  "pos": "v",
+  "meaning": "to pay another company to do work",
+  "example": "Many firms outsource customer service.",
+  "collocations": [
+   "outsource jobs / production"
+  ]
+ }
+]

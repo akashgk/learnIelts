@@ -1,0 +1,48 @@
+{
+ "total": 10,
+ "instructions": "SECTION 3 · You will hear two students, Lena and Omar, planning a presentation on urban cycling.",
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "21–24",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {"n": 21, "prompt": "What do the students agree their main argument should be?", "options": [
+      {"key": "A", "text": "Building bike lanes is the most important policy."}, {"key": "B", "text": "Cycling must be encouraged and car use discouraged."}, {"key": "C", "text": "Air pollution is the main reason to promote cycling."}],
+     "answer": "B", "explanation": "Omar: 'infrastructure on its own isn't enough — the cities that succeeded also made driving less convenient'; Lena agrees.", "trap": "A was Omar's FIRST idea, which he abandons ('at first I thought…')."},
+    {"n": 22, "prompt": "How will they begin the presentation?", "options": [
+      {"key": "A", "text": "with statistics"}, {"key": "B", "text": "with an audience poll"}, {"key": "C", "text": "with before-and-after images"}],
+     "answer": "C", "explanation": "Lena suggests 'a photo of the same street before and after'; Omar: 'Good idea'."},
+    {"n": 23, "prompt": "What audience participation do they decide on?", "options": [
+      {"key": "A", "text": "a question about how people travelled that day"}, {"key": "B", "text": "a question about what would encourage people to cycle"}, {"key": "C", "text": "two polls, at the beginning and end"}],
+     "answer": "B", "explanation": "'Let's just do the one at the end' — asking 'what would make them cycle more'."},
+    {"n": 24, "prompt": "How long will each student speak?", "options": [
+      {"key": "A", "text": "five minutes"}, {"key": "B", "text": "seven and a half minutes"}, {"key": "C", "text": "ten minutes"}],
+     "answer": "B", "explanation": "20 minutes minus 5 for questions = 15, divided by two."}
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "25–30",
+   "instructions": "What point do the students make about each city / their recommendation? Choose SIX answers from the list, A–H.",
+   "options": [
+    {"key": "A", "text": "aimed at people travelling long distances"},
+    {"key": "B", "text": "faced strong opposition"},
+    {"key": "C", "text": "links cycling with trains"},
+    {"key": "D", "text": "achieved change in a short time"},
+    {"key": "E", "text": "has low costs"},
+    {"key": "F", "text": "was designed mainly for tourists"},
+    {"key": "G", "text": "can easily be undone"},
+    {"key": "H", "text": "has the oldest cycle lanes in Europe"}
+   ],
+   "questions": [
+    {"n": 25, "prompt": "Copenhagen", "answer": "A", "explanation": "Superhighways 'target commuters who live too far away to cycle on ordinary roads'."},
+    {"n": 26, "prompt": "Bogotá", "answer": "E", "explanation": "'it costs very little, because it uses roads that already exist'."},
+    {"n": 27, "prompt": "Seville", "answer": "D", "explanation": "'built a whole network of separated lanes in just a few years'."},
+    {"n": 28, "prompt": "Paris", "answer": "B", "explanation": "'very controversial … huge protests from drivers and some businesses'."},
+    {"n": 29, "prompt": "Utrecht", "answer": "C", "explanation": "'combining cycling with public transport … cycle to the station and take the train'."},
+    {"n": 30, "prompt": "Their recommendation for their own city", "answer": "G", "explanation": "'It's cheap and it's easy to reverse if it doesn't work.' Both E and G are true of the trial, but E is already used for Bogotá, and 'easy to reverse' = 'can easily be undone'.", "trap": "Each option is used once in this task."}
+   ]
+  }
+ ]
+}

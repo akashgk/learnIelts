@@ -1,0 +1,172 @@
+{
+ "total": 8,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–8",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Australia, ____ attracted 330,000 students, was the top destination.",
+     "options": [
+      {
+       "key": "A",
+       "text": "that"
+      },
+      {
+       "key": "B",
+       "text": "which"
+      },
+      {
+       "key": "C",
+       "text": "who"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Non-defining clause (with commas) → 'which', never 'that'."
+    },
+    {
+     "n": 2,
+     "prompt": "People ____ exercise regularly tend to live longer.",
+     "options": [
+      {
+       "key": "A",
+       "text": "who"
+      },
+      {
+       "key": "B",
+       "text": "which"
+      },
+      {
+       "key": "C",
+       "text": "whose"
+      }
+     ],
+     "answer": "A",
+     "explanation": "People → who."
+    },
+    {
+     "n": 3,
+     "prompt": "The town ____ I grew up has changed a lot.",
+     "options": [
+      {
+       "key": "A",
+       "text": "which"
+      },
+      {
+       "key": "B",
+       "text": "where"
+      },
+      {
+       "key": "C",
+       "text": "when"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Place + clause with its own subject → where (= in which)."
+    },
+    {
+     "n": 4,
+     "prompt": "Children ____ parents read to them develop better language skills.",
+     "options": [
+      {
+       "key": "A",
+       "text": "who"
+      },
+      {
+       "key": "B",
+       "text": "whose"
+      },
+      {
+       "key": "C",
+       "text": "which"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Possession → whose."
+    },
+    {
+     "n": 5,
+     "prompt": "Many students work part-time, ____ reduces their study time.",
+     "options": [
+      {
+       "key": "A",
+       "text": "what"
+      },
+      {
+       "key": "B",
+       "text": "which"
+      },
+      {
+       "key": "C",
+       "text": "that"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'which' can refer to the whole previous clause."
+    },
+    {
+     "n": 6,
+     "prompt": "The year ____ the factory closed was 1998.",
+     "options": [
+      {
+       "key": "A",
+       "text": "when"
+      },
+      {
+       "key": "B",
+       "text": "where"
+      },
+      {
+       "key": "C",
+       "text": "which"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Time → when."
+    },
+    {
+     "n": 7,
+     "prompt": "The data ____ in the chart covers ten years. (reduced clause)",
+     "options": [
+      {
+       "key": "A",
+       "text": "showing"
+      },
+      {
+       "key": "B",
+       "text": "shown"
+      },
+      {
+       "key": "C",
+       "text": "shows"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Passive meaning (the data is shown) → past participle 'shown'."
+    },
+    {
+     "n": 8,
+     "prompt": "People ____ in rural areas often lack healthcare. (reduced clause)",
+     "options": [
+      {
+       "key": "A",
+       "text": "lived"
+      },
+      {
+       "key": "B",
+       "text": "living"
+      },
+      {
+       "key": "C",
+       "text": "live"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Active meaning (people who live) → present participle 'living'."
+    }
+   ]
+  }
+ ]
+}

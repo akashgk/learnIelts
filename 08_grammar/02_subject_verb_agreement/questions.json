@@ -1,0 +1,172 @@
+{
+ "total": 8,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–8",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "The number of international students ____ risen dramatically.",
+     "options": [
+      {
+       "key": "A",
+       "text": "have"
+      },
+      {
+       "key": "B",
+       "text": "has"
+      },
+      {
+       "key": "C",
+       "text": "having"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Head noun 'number' (with 'the') is singular."
+    },
+    {
+     "n": 2,
+     "prompt": "A number of problems ____ caused by traffic.",
+     "options": [
+      {
+       "key": "A",
+       "text": "is"
+      },
+      {
+       "key": "B",
+       "text": "are"
+      },
+      {
+       "key": "C",
+       "text": "was"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'A number of' = many → plural verb."
+    },
+    {
+     "n": 3,
+     "prompt": "One of the main reasons for obesity ____ poor diet.",
+     "options": [
+      {
+       "key": "A",
+       "text": "is"
+      },
+      {
+       "key": "B",
+       "text": "are"
+      },
+      {
+       "key": "C",
+       "text": "were"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Head noun = 'one'."
+    },
+    {
+     "n": 4,
+     "prompt": "The information on these websites ____ often unreliable.",
+     "options": [
+      {
+       "key": "A",
+       "text": "are"
+      },
+      {
+       "key": "B",
+       "text": "is"
+      },
+      {
+       "key": "C",
+       "text": "were"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'Information' is uncountable → singular."
+    },
+    {
+     "n": 5,
+     "prompt": "Each of the cities ____ its own transport system.",
+     "options": [
+      {
+       "key": "A",
+       "text": "have"
+      },
+      {
+       "key": "B",
+       "text": "has"
+      },
+      {
+       "key": "C",
+       "text": "are having"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'Each' is singular."
+    },
+    {
+     "n": 6,
+     "prompt": "Recent research ____ that sleep improves memory.",
+     "options": [
+      {
+       "key": "A",
+       "text": "shows"
+      },
+      {
+       "key": "B",
+       "text": "show"
+      },
+      {
+       "key": "C",
+       "text": "are showing"
+      }
+     ],
+     "answer": "A",
+     "explanation": "'Research' is uncountable → singular."
+    },
+    {
+     "n": 7,
+     "prompt": "The police ____ investigating the incident.",
+     "options": [
+      {
+       "key": "A",
+       "text": "is"
+      },
+      {
+       "key": "B",
+       "text": "are"
+      },
+      {
+       "key": "C",
+       "text": "has"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'Police' is always plural."
+    },
+    {
+     "n": 8,
+     "prompt": "The proportion of people who live alone ____ grown.",
+     "options": [
+      {
+       "key": "A",
+       "text": "have"
+      },
+      {
+       "key": "B",
+       "text": "has"
+      },
+      {
+       "key": "C",
+       "text": "are"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Head noun = 'proportion' (singular); 'who live alone' is a relative clause."
+    }
+   ]
+  }
+ ]
+}

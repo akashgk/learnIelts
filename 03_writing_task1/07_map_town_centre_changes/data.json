@@ -1,0 +1,27 @@
+{
+ "chart": "map",
+ "title": "Westbury town centre",
+ "maps": [
+  {"title": "1995", "features": [
+   {"name": "Factory", "position": "north-west"},
+   {"name": "Houses", "position": "north-east"},
+   {"name": "High Street (two-way traffic)", "position": "centre, west–east"},
+   {"name": "Post office", "position": "High Street, west"},
+   {"name": "Shops", "position": "High Street, centre"},
+   {"name": "Bank", "position": "High Street, east"},
+   {"name": "Car park", "position": "south-west"},
+   {"name": "Park", "position": "south-east"},
+   {"name": "Railway station", "position": "east"}]},
+  {"title": "Today", "features": [
+   {"name": "Apartments (converted factory)", "position": "north-west"},
+   {"name": "Houses", "position": "north-east"},
+   {"name": "High Street (pedestrian only)", "position": "centre, west–east"},
+   {"name": "Café (replaced post office)", "position": "High Street, west"},
+   {"name": "Shops", "position": "High Street, centre"},
+   {"name": "Restaurant (replaced bank)", "position": "High Street, east"},
+   {"name": "Bus station", "position": "south-west (former car park)"},
+   {"name": "Multi-storey car park", "position": "west edge"},
+   {"name": "Park (smaller) with playground", "position": "south-east"},
+   {"name": "Railway station", "position": "east"}]}
+ ]
+}

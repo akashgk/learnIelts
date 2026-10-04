@@ -1,0 +1,63 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–5",
+   "instructions": "Complete the flow-chart below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+   "strategy": "Flow-charts describe a process or sequence in order. Follow the arrows and keep track of where you are in the passage.",
+   "questions": [
+    {"n": 1, "prompt": "Location of the experiment: a ________ supermarket.", "answer": ["Californian"], "explanation": "'a Californian supermarket'. Copy the word exactly as it appears — you may not change 'Californian' into 'California'."},
+    {"n": 2, "prompt": "A stand offered either six or ________ kinds of jam.", "answer": ["24", "twenty-four"], "explanation": "'24 varieties of jam'."},
+    {"n": 3, "prompt": "The larger display caused more people to stop and ________.", "answer": ["taste"], "explanation": "'attracted more passers-by to stop and taste'."},
+    {"n": 4, "prompt": "Result: about ________ of people who saw the small display bought jam.", "answer": ["30 per cent", "30 percent", "30%"], "explanation": "'around 30 per cent of shoppers who had seen the small selection'."},
+    {"n": 5, "prompt": "Conclusion: too many options can reduce people's ________ to choose.", "answer": ["motivation"], "explanation": "'could reduce people's motivation to choose at all'."}
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "6–9",
+   "instructions": "Classify the following statements as referring to A — maximisers, B — satisficers, C — both maximisers and satisficers.",
+   "options": [
+    {"key": "A", "text": "maximisers"}, {"key": "B", "text": "satisficers"}, {"key": "C", "text": "both maximisers and satisficers"}
+   ],
+   "questions": [
+    {"n": 6, "prompt": "They choose the first option that is good enough.", "answer": "B", "explanation": "'satisficers … are content to select the first option that meets their requirements'."},
+    {"n": 7, "prompt": "They tend to achieve better results in objective terms.", "answer": "A", "explanation": "'maximisers often make objectively better choices'."},
+    {"n": 8, "prompt": "They are more satisfied with their decisions.", "answer": "B", "explanation": "Maximisers 'report feeling less satisfied … than satisficers do'."},
+    {"n": 9, "prompt": "They feel the need to consider every alternative.", "answer": "A", "explanation": "Maximisers 'feel they must examine every possibility'."}
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "10–13",
+   "instructions": "Choose the correct letter, A, B, C or D.",
+   "questions": [
+    {"n": 10, "prompt": "What did the statistical review find?", "options": [
+      {"key": "A", "text": "The original jam study had been carried out incorrectly."},
+      {"key": "B", "text": "On average across studies, choice overload had almost no effect."},
+      {"key": "C", "text": "Large assortments always increase purchasing."},
+      {"key": "D", "text": "Choice overload is stronger in supermarkets than elsewhere."}],
+     "answer": "B", "explanation": "'the average effect of choice overload across all of them was close to zero'.", "trap": "A — the writer says 'This does not necessarily mean the original finding was wrong.'"},
+    {"n": 11, "prompt": "Which condition makes choice overload MORE likely?", "options": [
+      {"key": "A", "text": "the chooser already knows what they want"},
+      {"key": "B", "text": "the options are grouped into categories"},
+      {"key": "C", "text": "there is little time to decide"},
+      {"key": "D", "text": "a default option is provided"}],
+     "answer": "C", "explanation": "'when the choice must be made quickly'. A, B and D all reduce overload."},
+    {"n": 12, "prompt": "The writer mentions a wine enthusiast and a novice to show that", "options": [
+      {"key": "A", "text": "experts make better decisions than beginners."},
+      {"key": "B", "text": "the same choice can affect people differently."},
+      {"key": "C", "text": "shops should stock fewer types of wine."},
+      {"key": "D", "text": "variety is always enjoyable."}],
+     "answer": "B", "explanation": "One 'may enjoy the variety'; the other 'may find the same shelf paralysing'."},
+    {"n": 13, "prompt": "What is the writer's overall view?", "options": [
+      {"key": "A", "text": "Classical economists were right about choice."},
+      {"key": "B", "text": "Choice overload has been disproved."},
+      {"key": "C", "text": "Offering fewer options is the best policy."},
+      {"key": "D", "text": "The presentation of choices matters as much as their number."}],
+     "answer": "D", "explanation": "Final paragraph: 'the question is not simply \"how many options?\" but \"how can people be helped to navigate them?\"'"}
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "matching",
+   "range": "1–5",
+   "instructions": "The passage has six paragraphs, A–F. Choose the correct heading for paragraphs B–F from the list below. Write the correct number, i–viii.",
+   "options": [
+    {"key": "i", "text": "Practical advice for learners"},
+    {"key": "ii", "text": "Experimental methods of strengthening memory during sleep"},
+    {"key": "iii", "text": "The structure of a night's sleep"},
+    {"key": "iv", "text": "How a change in scientific thinking came about"},
+    {"key": "v", "text": "Evidence from animal research"},
+    {"key": "vi", "text": "Linking types of sleep to types of memory"},
+    {"key": "vii", "text": "The dangers of sleeping pills"},
+    {"key": "viii", "text": "Why dreams are meaningless"}
+   ],
+   "questions": [
+    {"n": 1, "prompt": "Paragraph B", "answer": "iii", "explanation": "Describes the stages of sleep and the 90-minute cycle — the structure of a night's sleep."},
+    {"n": 2, "prompt": "Paragraph C", "answer": "vi", "explanation": "Slow-wave sleep → facts and events; REM → procedural skills and emotions.", "evidence": "Different stages appear to support different kinds of memory."},
+    {"n": 3, "prompt": "Paragraph D", "answer": "v", "explanation": "The whole paragraph describes experiments on rats."},
+    {"n": 4, "prompt": "Paragraph E", "answer": "ii", "explanation": "Targeted memory reactivation and sound pulses are 'experimental' ways to improve memory by manipulating sleep."},
+    {"n": 5, "prompt": "Paragraph F", "answer": "i", "explanation": "Advice for students: avoid all-nighters, spread study over several days.", "trap": "iv may look tempting for A, but A is not asked; vii and viii are never discussed."}
+   ]
+  },
+  {
+   "type": "ynng",
+   "range": "6–9",
+   "instructions": "Do the following statements agree with the claims of the writer? Write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+   "strategy": "YES/NO/NOT GIVEN tests opinions and claims, not just facts. Look for the writer's evaluative language: 'clearly', 'remarkably', 'it is not yet clear'.",
+   "questions": [
+    {"n": 6, "prompt": "Going to bed late and getting up early reduces REM sleep more than slow-wave sleep.", "answer": "YES", "explanation": "Paragraph B: such a person 'loses a disproportionate amount of REM sleep', because REM periods are longer towards the morning."},
+    {"n": 7, "prompt": "Memory for facts is mainly linked to REM sleep.", "answer": "NO", "explanation": "Paragraph C links memory for facts to slow-wave sleep; REM is linked to procedural skills and emotions."},
+    {"n": 8, "prompt": "Targeted memory reactivation has been shown to work well in everyday life.", "answer": "NO", "explanation": "Paragraph E: 'Such methods remain experimental … it is not yet clear whether they would bring meaningful benefits outside the laboratory.'", "trap": "Some students choose NOT GIVEN, but the writer explicitly says the benefit outside the lab is unproven — that contradicts 'shown to work well'."},
+    {"n": 9, "prompt": "Students who take short naps during the day perform better in exams.", "answer": "NOT GIVEN", "explanation": "Daytime naps are never mentioned."}
+   ]
+  },
+  {
+   "type": "gap",
+   "range": "10–13",
+   "instructions": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+   "questions": [
+    {"n": 10, "prompt": "Memories of facts and events depend on the ________, a small curved structure deep in the brain.", "answer": ["hippocampus"], "explanation": "Paragraph C."},
+    {"n": 11, "prompt": "During slow-wave sleep, new information is replayed and moved to the ________ for long-term storage.", "answer": ["cortex"], "explanation": "Paragraph C: 'transferred to the outer layer of the brain, the cortex'."},
+    {"n": 12, "prompt": "In rats, cells fire in a sequence matching the animal's ________ in a maze.", "answer": ["location"], "explanation": "Paragraph D: 'a specific sequence that corresponds to its location'."},
+    {"n": 13, "prompt": "For exam preparation, ________ study over several days with full nights of sleep is better than staying up all night.", "answer": ["spreading"], "explanation": "Paragraph F: 'Spreading study over several days, with a full night's sleep in between, appears to be a far more effective strategy.' The gap needs a gerund (-ing form) acting as the subject."}
+   ]
+  }
+ ]
+}

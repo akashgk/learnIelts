@@ -1,0 +1,24 @@
+{
+ "total": 10,
+ "instructions": "SECTION 4 · You will hear part of a lecture about bioluminescence.",
+ "groups": [
+  {
+   "type": "gap",
+   "range": "31–40",
+   "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+   "strategy": "Section 4 is a monologue with no break. Use the headings in the notes as signposts — the lecturer will say 'Now, where…', 'So what is it used for?' Answers are usually nouns. Check spelling and singular/plural.",
+   "questions": [
+    {"n": 31, "prompt": "Chemistry: luciferin reacts with ________ with the help of the enzyme luciferase.", "answer": ["oxygen"], "explanation": "'When luciferin reacts with oxygen, with the help of luciferase'."},
+    {"n": 32, "prompt": "Called 'cold light' because very little ________ is produced.", "answer": ["heat"], "explanation": "'almost no heat is produced at all'."},
+    {"n": 33, "prompt": "Deep sea off California: about three-quarters of ________ observed produced light.", "answer": ["animals"], "explanation": "'roughly three-quarters of the animals observed'. Plural needed."},
+    {"n": 34, "prompt": "Most marine light is blue or green because these colours travel furthest through ________.", "answer": ["seawater", "water"], "explanation": "'these wavelengths travel furthest through seawater'."},
+    {"n": 35, "prompt": "Finding food: the anglerfish uses a glowing ________ to attract prey.", "answer": ["lure"], "explanation": "'a glowing lure that hangs in front of its mouth'."},
+    {"n": 36, "prompt": "Defence — counter-illumination hides an animal's ________ from predators below.", "answer": ["shadow"], "explanation": "'this hides their shadow'."},
+    {"n": 37, "prompt": "Communication: each firefly species has its own ________ of flashes.", "answer": ["pattern"], "explanation": "'each species has its own pattern of flashes'."},
+    {"n": 38, "prompt": "Bobtail squid: gives its bacteria ________ and a safe home.", "answer": ["sugar"], "explanation": "'The squid provides the bacteria with sugar and a safe place to live'."},
+    {"n": 39, "prompt": "GFP was first found in a ________.", "answer": ["jellyfish"], "explanation": "'researchers studying a jellyfish discovered a protein'."},
+    {"n": 40, "prompt": "Glowing bacteria are used to detect ________ in water.", "answer": ["pollution"], "explanation": "'glowing bacteria are already used in tests for water pollution'."}
+   ]
+  }
+ ]
+}

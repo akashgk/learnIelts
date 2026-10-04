@@ -1,0 +1,111 @@
+[
+ {
+  "word": "hypothesis",
+  "pos": "n",
+  "meaning": "an idea to be tested",
+  "example": "The experiment tested the hypothesis that sleep improves memory.",
+  "collocations": [
+   "test / support a hypothesis"
+  ]
+ },
+ {
+  "word": "empirical",
+  "pos": "adj",
+  "meaning": "based on observation or experiment",
+  "example": "There is little empirical evidence for the claim.",
+  "collocations": [
+   "empirical evidence / data"
+  ]
+ },
+ {
+  "word": "conduct",
+  "pos": "v",
+  "meaning": "to carry out (research)",
+  "example": "Researchers conducted a study of 500 patients.",
+  "collocations": [
+   "conduct research / an experiment"
+  ]
+ },
+ {
+  "word": "findings",
+  "pos": "n",
+  "meaning": "results of research",
+  "example": "The findings were published last year.",
+  "collocations": [
+   "research findings"
+  ]
+ },
+ {
+  "word": "peer review",
+  "pos": "n",
+  "meaning": "evaluation by other experts before publication",
+  "example": "All papers go through peer review.",
+  "collocations": [
+   "peer-reviewed journal"
+  ]
+ },
+ {
+  "word": "replicate",
+  "pos": "v",
+  "meaning": "repeat an experiment and get the same result",
+  "example": "Other teams failed to replicate the results.",
+  "collocations": [
+   "replicate a study / findings"
+  ]
+ },
+ {
+  "word": "sample",
+  "pos": "n",
+  "meaning": "a group chosen for study",
+  "example": "The sample was too small to be reliable.",
+  "collocations": [
+   "representative / large sample"
+  ]
+ },
+ {
+  "word": "variable",
+  "pos": "n",
+  "meaning": "a factor that can change",
+  "example": "Age is an important variable.",
+  "collocations": [
+   "control for variables"
+  ]
+ },
+ {
+  "word": "correlation",
+  "pos": "n",
+  "meaning": "a connection between two things",
+  "example": "There is a correlation between income and health.",
+  "collocations": [
+   "strong correlation",
+   "correlation does not imply causation"
+  ]
+ },
+ {
+  "word": "phenomenon",
+  "pos": "n (pl. phenomena)",
+  "meaning": "something that exists or happens, often unusual",
+  "example": "Bioluminescence is a fascinating phenomenon.",
+  "collocations": [
+   "natural phenomenon"
+  ]
+ },
+ {
+  "word": "breakthrough",
+  "pos": "n",
+  "meaning": "important discovery",
+  "example": "A breakthrough in gene editing.",
+  "collocations": [
+   "scientific breakthrough"
+  ]
+ },
+ {
+  "word": "funding",
+  "pos": "n",
+  "meaning": "money for a purpose",
+  "example": "Research depends on government funding.",
+  "collocations": [
+   "secure / cut funding"
+  ]
+ }
+]

@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Delivery apps are a typical example of the ________ economy.",
+     "answer": [
+      "gig"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'gig'."
+    },
+    {
+     "n": 2,
+     "prompt": "When prices rise quickly, ________ is high.",
+     "answer": [
+      "inflation"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'inflation'."
+    },
+    {
+     "n": 3,
+     "prompt": "Many companies ________ their IT support to other countries.",
+     "answer": [
+      "outsource"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'outsource'."
+    },
+    {
+     "n": 4,
+     "prompt": "Working from home may improve ________ because there are fewer interruptions.",
+     "answer": [
+      "productivity"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'productivity'."
+    },
+    {
+     "n": 5,
+     "prompt": "Temporary contracts offer little job ________.",
+     "answer": [
+      "security"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'security'."
+    },
+    {
+     "n": 6,
+     "prompt": "The country went into ________ after two years of falling output.",
+     "answer": [
+      "recession"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'recession'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Choose the correct collocation:",
+     "options": [
+      {
+       "key": "A",
+       "text": "boost productivity"
+      },
+      {
+       "key": "B",
+       "text": "lift productivity up"
+      },
+      {
+       "key": "C",
+       "text": "make productivity"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Boost / increase / raise productivity."
+    },
+    {
+     "n": 8,
+     "prompt": "Which word means 'payment for work' in a formal register?",
+     "options": [
+      {
+       "key": "A",
+       "text": "remuneration"
+      },
+      {
+       "key": "B",
+       "text": "remedy"
+      },
+      {
+       "key": "C",
+       "text": "renovation"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Remuneration = pay (formal)."
+    },
+    {
+     "n": 9,
+     "prompt": "Choose the correct phrase:",
+     "options": [
+      {
+       "key": "A",
+       "text": "get a promotion"
+      },
+      {
+       "key": "B",
+       "text": "take a promotion"
+      },
+      {
+       "key": "C",
+       "text": "do a promotion"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Get / be given / earn a promotion."
+    },
+    {
+     "n": 10,
+     "prompt": "A person who starts a new business is an:",
+     "options": [
+      {
+       "key": "A",
+       "text": "entertainer"
+      },
+      {
+       "key": "B",
+       "text": "entrepreneur"
+      },
+      {
+       "key": "C",
+       "text": "employee"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Entrepreneur."
+    }
+   ]
+  }
+ ]
+}

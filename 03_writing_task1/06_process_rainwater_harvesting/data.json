@@ -1,0 +1,17 @@
+{
+ "chart": "process",
+ "title": "Domestic rainwater harvesting",
+ "cyclic": false,
+ "steps": [
+  {"label": "Collection", "text": "Rain falls on the roof"},
+  {"label": "Channelling", "text": "Water flows through gutters and a downpipe"},
+  {"label": "Leaf filter", "text": "Leaves and debris removed"},
+  {"label": "First-flush diverter", "text": "First, dirtiest water diverted to drain"},
+  {"label": "Storage", "text": "Water stored in underground tank; overflow pipe to garden soakaway"},
+  {"label": "Pumping", "text": "Pump sends water into the house"}
+ ],
+ "branches": [
+  {"label": "Non-drinking use", "text": "Untreated water used for toilets, washing machine and garden"},
+  {"label": "Drinking water", "text": "Passed through fine filter and UV lamp, then supplied to kitchen tap"}
+ ]
+}

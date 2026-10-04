@@ -1,0 +1,47 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–5",
+   "instructions": "Complete the notes below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+   "strategy": "Notes follow passage order. 'A NUMBER' means digits count separately from words: '15' is one number, so '15 degrees' = one number + one word = allowed.",
+   "questions": [
+    {"n": 1, "prompt": "Latitude could be calculated from the sun at midday or the ________ at night.", "answer": ["Pole Star"], "explanation": "Paragraph 1: 'the position of the Pole Star at night'."},
+    {"n": 2, "prompt": "One hour of time difference = ________ of longitude.", "answer": ["15 degrees", "fifteen degrees"], "explanation": "Paragraph 1: 'each hour of difference … corresponds to 15 degrees of longitude'."},
+    {"n": 3, "prompt": "On ships, temperature and ________ affected the accuracy of clocks.", "answer": ["humidity"], "explanation": "Paragraph 1: 'changes in temperature and humidity caused metal parts to expand'."},
+    {"n": 4, "prompt": "Many sailors on long voyages died of ________.", "answer": ["scurvy"], "explanation": "Paragraph 2: 'while their crews died of scurvy'."},
+    {"n": 5, "prompt": "Longitude Act: prize of £20,000; method had to be accurate to within half a ________.", "answer": ["degree"], "explanation": "Paragraph 2: 'to within half a degree'. Notice the note already gives 'half a', so you only need one word — copying 'half a degree' into the gap would make the sentence wrong."}
+   ]
+  },
+  {
+   "type": "tfng",
+   "range": "6–9",
+   "instructions": "Do the following statements agree with the information given in the passage? Write TRUE, FALSE or NOT GIVEN.",
+   "questions": [
+    {"n": 6, "prompt": "The disaster off the Scilly Isles was the only reason the Longitude Act was passed.", "answer": "FALSE", "explanation": "The Act was passed 'partly in response to such disasters' — 'partly' contradicts 'the only reason'.", "trap": "Watch absolute words in statements: only, always, never, all."},
+    {"n": 7, "prompt": "The lunar distance method was based on incorrect scientific principles.", "answer": "FALSE", "explanation": "Paragraph 3: 'The method was sound in principle'. The difficulty was practical (tables, calculation time)."},
+    {"n": 8, "prompt": "Harrison's earliest clocks were made mainly of wood.", "answer": "TRUE", "explanation": "Paragraph 4: 'building his first clocks almost entirely from wood'."},
+    {"n": 9, "prompt": "Harrison's fourth timekeeper was copied by watchmakers in France.", "answer": "NOT GIVEN", "explanation": "France is never mentioned. The passage mentions later chronometers 'based on Harrison's principles' but nothing about French copies."}
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "10–13",
+   "instructions": "Look at the following statements and the list of people/groups below. Match each statement with the correct person or group, A–D.",
+   "strategy": "Scan for each name and read the sentences around EVERY mention — the information about one person is often spread across paragraphs.",
+   "options": [
+    {"key": "A", "text": "John Harrison"},
+    {"key": "B", "text": "the Board of Longitude"},
+    {"key": "C", "text": "Nevil Maskelyne"},
+    {"key": "D", "text": "King George III"}
+   ],
+   "questions": [
+    {"n": 10, "prompt": "produced a publication that reduced the time needed for a rival method", "answer": "C", "explanation": "Maskelyne 'published a nautical almanac that made lunar calculations considerably quicker'."},
+    {"n": 11, "prompt": "checked the performance of a timekeeper himself", "answer": "D", "explanation": "'King George III, who personally tested one of Harrison's watches'."},
+    {"n": 12, "prompt": "questioned whether a success could be repeated", "answer": "B", "explanation": "The Board 'doubted whether a single successful watch proved that the method could be reproduced'.", "trap": "Maskelyne was a member of the Board, but the passage attributes this doubt to the Board as a whole."},
+    {"n": 13, "prompt": "developed a device to deal with the effects of heat and cold", "answer": "A", "explanation": "Harrison introduced 'a strip made from two different metals that compensated for changes in temperature'."}
+   ]
+  }
+ ]
+}

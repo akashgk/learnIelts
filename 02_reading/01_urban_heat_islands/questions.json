@@ -1,0 +1,54 @@
+{
+ "total": 13,
+ "instructions": "You should spend about 20 minutes on Questions 1–13, which are based on the passage.",
+ "groups": [
+  {
+   "type": "matching",
+   "range": "1–6",
+   "instructions": "The passage has seven paragraphs, A–G. Choose the correct heading for paragraphs B–G from the list of headings below. Write the correct number, i–ix. Example: Paragraph A — ix.",
+   "strategy": "Read the paragraph first, decide its main idea in your own words, then look for the heading. Headings summarise the WHOLE paragraph, not one detail in it. Cross out headings as you use them.",
+   "options": [
+    {"key": "i", "text": "A solution that may create new problems for road users"},
+    {"key": "ii", "text": "Why built-up areas are slow to cool down"},
+    {"key": "iii", "text": "Treating heat as a matter of health and fairness"},
+    {"key": "iv", "text": "A natural process and what happens when it is lost"},
+    {"key": "v", "text": "Wider effects on health, energy and air quality"},
+    {"key": "vi", "text": "The advantages and disadvantages of using plants"},
+    {"key": "vii", "text": "The rising cost of air-conditioning"},
+    {"key": "viii", "text": "Why rural areas are becoming warmer"},
+    {"key": "ix", "text": "An early observation and its mistaken explanation"}
+   ],
+   "questions": [
+    {"n": 1, "prompt": "Paragraph B", "answer": "ii", "explanation": "The whole paragraph explains that building materials absorb heat and release it slowly, and that urban canyons trap heat, so cities 'cool far more slowly at night'.", "evidence": "The result is that cities cool far more slowly at night than rural areas"},
+    {"n": 2, "prompt": "Paragraph C", "answer": "iv", "explanation": "The paragraph describes evapotranspiration (a natural cooling process) and what happens when forests and fields are replaced by roads.", "evidence": "When forests and fields are replaced by roads and car parks, this natural cooling mechanism disappears.", "trap": "Air-conditioning is mentioned, but only as a comparison — heading vii is a distractor."},
+    {"n": 3, "prompt": "Paragraph D", "answer": "v", "explanation": "The paragraph lists consequences: mortality (health), electricity demand (energy) and ground-level ozone (air quality).", "evidence": "The consequences extend well beyond discomfort."},
+    {"n": 4, "prompt": "Paragraph E", "answer": "i", "explanation": "Cool roofs and light paving are the solution; the final sentence notes that reflective road surfaces 'can create glare for drivers'.", "evidence": "reflective road surfaces can create glare for drivers"},
+    {"n": 5, "prompt": "Paragraph F", "answer": "vi", "explanation": "Green infrastructure is presented with its benefits (evapotranspiration, shade) and then its drawbacks ('not without drawbacks').", "evidence": "However, green infrastructure is not without drawbacks."},
+    {"n": 6, "prompt": "Paragraph G", "answer": "iii", "explanation": "Researchers argue heat should be treated 'as a public health issue' and the paragraph ends by calling it 'a question of social fairness'.", "evidence": "not only an environmental challenge but also a question of social fairness"}
+   ]
+  },
+  {
+   "type": "tfng",
+   "range": "7–10",
+   "instructions": "Do the following statements agree with the information given in the passage? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+   "strategy": "FALSE means the passage says the opposite. NOT GIVEN means the passage simply does not tell you. Never use your own knowledge.",
+   "questions": [
+    {"n": 7, "prompt": "Luke Howard correctly identified the main cause of the urban heat island.", "answer": "FALSE", "explanation": "Howard blamed the burning of fuel, but paragraph B says 'the main culprit is the material from which cities are built', and paragraph C says waste heat contributes less than surfaces.", "evidence": "Howard attributed the difference to the burning of fuel, but later research has shown that the explanation is considerably more complex."},
+    {"n": 8, "prompt": "The urban heat island effect is usually strongest at night.", "answer": "TRUE", "explanation": "Paragraph B directly states this. 'Strongest after dark' = 'strongest at night'.", "evidence": "the heat island effect is typically strongest after dark rather than at midday"},
+    {"n": 9, "prompt": "In most cities, waste heat from vehicles and machines is the largest cause of higher temperatures.", "answer": "FALSE", "explanation": "Paragraph C says waste heat contributes LESS than surfaces and loss of greenery.", "evidence": "in most cities this contributes less than the properties of surfaces and the loss of greenery"},
+    {"n": 10, "prompt": "The 2003 heatwave led Paris to introduce new building regulations.", "answer": "NOT GIVEN", "explanation": "Paragraph D discusses mortality in Paris in 2003 but says nothing about any regulations introduced afterwards.", "trap": "The topic (Paris, 2003) is in the passage, which tempts you to answer TRUE or FALSE — but the specific claim is never addressed."}
+   ]
+  },
+  {
+   "type": "gap",
+   "range": "11–13",
+   "instructions": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+   "strategy": "Predict the word class (noun? adjective?) before you scan. The summary follows the order of the passage, so these answers are all in paragraph F.",
+   "questions": [
+    {"n": 11, "prompt": "Singapore requires developers who remove greenery at ground level to add planting on balconies, terraces or ________.", "answer": ["rooftops"], "explanation": "Paragraph F: 'with planting on balconies, terraces or rooftops'."},
+    {"n": 12, "prompt": "One disadvantage of trees is that they need years to reach ________.", "answer": ["maturity"], "explanation": "Paragraph F: 'Trees require years to reach maturity'. A noun is needed after 'reach'."},
+    {"n": 13, "prompt": "In very humid places, the water released by plants can make the air feel more ________.", "answer": ["oppressive"], "explanation": "Paragraph F: 'may make conditions feel more oppressive rather than less'. An adjective is needed after 'more'."}
+   ]
+  }
+ ]
+}

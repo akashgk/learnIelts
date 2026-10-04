@@ -1,0 +1,15 @@
+{
+ "chart": "process",
+ "title": "How plastic bottles are recycled",
+ "cyclic": false,
+ "steps": [
+  {"label": "Disposal", "text": "Used bottles placed in recycling bins"},
+  {"label": "Collection", "text": "Collected by truck and taken to recycling plant"},
+  {"label": "Sorting", "text": "Sorted by type and colour"},
+  {"label": "Crushing & shredding", "text": "Crushed into bales, then shredded into small flakes"},
+  {"label": "Washing", "text": "Flakes washed to remove labels and glue"},
+  {"label": "Melting", "text": "Clean, dry flakes melted and formed into pellets"},
+  {"label": "Distribution", "text": "Pellets transported to factories"},
+  {"label": "Manufacturing", "text": "Made into new bottles, clothing fibres, carpets and packaging"}
+ ]
+}

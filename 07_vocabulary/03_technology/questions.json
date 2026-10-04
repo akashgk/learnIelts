@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Smartphones have made many older devices ________.",
+     "answer": [
+      "obsolete"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'obsolete'."
+    },
+    {
+     "n": 2,
+     "prompt": "Free laptops for poor families could help close the digital ________.",
+     "answer": [
+      "divide"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'divide'."
+    },
+    {
+     "n": 3,
+     "prompt": "Researchers have made a ________ in cancer treatment.",
+     "answer": [
+      "breakthrough"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'breakthrough'."
+    },
+    {
+     "n": 4,
+     "prompt": "Parents worry about how much ________ time their children have.",
+     "answer": [
+      "screen"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'screen'."
+    },
+    {
+     "n": 5,
+     "prompt": "The website is not very ________-friendly; it's confusing.",
+     "answer": [
+      "user"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'user'."
+    },
+    {
+     "n": 6,
+     "prompt": "Robots and ________ have reduced the need for manual workers.",
+     "answer": [
+      "automation"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'automation'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Choose the correct collocation:",
+     "options": [
+      {
+       "key": "A",
+       "text": "make a breakthrough"
+      },
+      {
+       "key": "B",
+       "text": "do a breakthrough"
+      },
+      {
+       "key": "C",
+       "text": "take a breakthrough"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Make / achieve a breakthrough."
+    },
+    {
+     "n": 8,
+     "prompt": "'Cutting-edge' is closest in meaning to:",
+     "options": [
+      {
+       "key": "A",
+       "text": "dangerous"
+      },
+      {
+       "key": "B",
+       "text": "very advanced"
+      },
+      {
+       "key": "C",
+       "text": "old-fashioned"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Cutting-edge = the newest and most advanced."
+    },
+    {
+     "n": 9,
+     "prompt": "Which phrase means unwanted access to personal data?",
+     "options": [
+      {
+       "key": "A",
+       "text": "invasion of privacy"
+      },
+      {
+       "key": "B",
+       "text": "attack of privacy"
+      },
+      {
+       "key": "C",
+       "text": "entry of privacy"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Invasion of privacy is the set phrase."
+    },
+    {
+     "n": 10,
+     "prompt": "Choose the best word: 'Social media can be highly ____.'",
+     "options": [
+      {
+       "key": "A",
+       "text": "addicted"
+      },
+      {
+       "key": "B",
+       "text": "addiction"
+      },
+      {
+       "key": "C",
+       "text": "addictive"
+      }
+     ],
+     "answer": "C",
+     "explanation": "Addictive (adj) describes the thing; addicted describes the person."
+    }
+   ]
+  }
+ ]
+}

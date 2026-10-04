@@ -1,0 +1,113 @@
+[
+ {
+  "word": "emissions",
+  "pos": "n",
+  "meaning": "gases released into the air, especially CO2",
+  "example": "Aviation accounts for a growing share of carbon emissions.",
+  "collocations": [
+   "reduce / cut emissions",
+   "greenhouse gas emissions"
+  ]
+ },
+ {
+  "word": "renewable",
+  "pos": "adj",
+  "meaning": "(energy) from sources that are not used up, e.g. wind, solar",
+  "example": "Renewable energy now supplies a fifth of the country's electricity.",
+  "collocations": [
+   "renewable energy / sources"
+  ]
+ },
+ {
+  "word": "deforestation",
+  "pos": "n",
+  "meaning": "cutting down forests on a large scale",
+  "example": "Deforestation destroys habitats and releases stored carbon.",
+  "collocations": [
+   "tackle / halt deforestation"
+  ]
+ },
+ {
+  "word": "biodiversity",
+  "pos": "n",
+  "meaning": "the variety of plant and animal life in an area",
+  "example": "Wetlands support remarkable biodiversity.",
+  "collocations": [
+   "loss of biodiversity",
+   "protect biodiversity"
+  ]
+ },
+ {
+  "word": "sustainable",
+  "pos": "adj",
+  "meaning": "able to continue without damaging the environment",
+  "example": "We need more sustainable forms of transport.",
+  "collocations": [
+   "sustainable development / practices"
+  ]
+ },
+ {
+  "word": "mitigate",
+  "pos": "v",
+  "meaning": "to make something bad less severe",
+  "example": "Planting trees can help mitigate the effects of urban heat.",
+  "collocations": [
+   "mitigate the impact / effects / risk"
+  ]
+ },
+ {
+  "word": "degradation",
+  "pos": "n",
+  "meaning": "the process of becoming worse in quality",
+  "example": "Overgrazing has caused severe land degradation.",
+  "collocations": [
+   "environmental / land degradation"
+  ]
+ },
+ {
+  "word": "fossil fuels",
+  "pos": "n",
+  "meaning": "coal, oil and gas",
+  "example": "Many countries still depend heavily on fossil fuels.",
+  "collocations": [
+   "burn / phase out fossil fuels"
+  ]
+ },
+ {
+  "word": "conservation",
+  "pos": "n",
+  "meaning": "protection of nature and wildlife",
+  "example": "Tourist fees help fund conservation projects.",
+  "collocations": [
+   "wildlife / marine conservation"
+  ]
+ },
+ {
+  "word": "pollutant",
+  "pos": "n",
+  "meaning": "a substance that pollutes",
+  "example": "Ozone is a pollutant that aggravates asthma.",
+  "collocations": [
+   "air / harmful pollutants"
+  ]
+ },
+ {
+  "word": "carbon footprint",
+  "pos": "n",
+  "meaning": "the amount of CO2 produced by a person or activity",
+  "example": "Eating less meat can reduce your carbon footprint.",
+  "collocations": [
+   "reduce / offset your carbon footprint"
+  ]
+ },
+ {
+  "word": "endangered",
+  "pos": "adj",
+  "meaning": "at risk of extinction",
+  "example": "The tiger remains an endangered species.",
+  "collocations": [
+   "endangered species",
+   "critically endangered"
+  ]
+ }
+]

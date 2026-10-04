@@ -1,0 +1,111 @@
+[
+ {
+  "word": "urbanisation",
+  "pos": "n",
+  "meaning": "the growth of cities as people move from the countryside",
+  "example": "Rapid urbanisation strains infrastructure.",
+  "collocations": [
+   "rapid urbanisation"
+  ]
+ },
+ {
+  "word": "infrastructure",
+  "pos": "n",
+  "meaning": "basic systems: roads, water, power",
+  "example": "The city must invest in infrastructure.",
+  "collocations": [
+   "transport / public infrastructure"
+  ]
+ },
+ {
+  "word": "congestion",
+  "pos": "n",
+  "meaning": "too much traffic",
+  "example": "Congestion costs the economy billions.",
+  "collocations": [
+   "traffic congestion",
+   "congestion charge"
+  ]
+ },
+ {
+  "word": "affordable housing",
+  "pos": "n",
+  "meaning": "homes that people on average incomes can afford",
+  "example": "There is a shortage of affordable housing.",
+  "collocations": [
+   "build / provide affordable housing"
+  ]
+ },
+ {
+  "word": "urban sprawl",
+  "pos": "n",
+  "meaning": "uncontrolled spread of a city into countryside",
+  "example": "Urban sprawl increases car dependency.",
+  "collocations": [
+   "limit urban sprawl"
+  ]
+ },
+ {
+  "word": "amenities",
+  "pos": "n",
+  "meaning": "useful facilities: shops, parks, sports centres",
+  "example": "The area lacks basic amenities.",
+  "collocations": [
+   "local amenities"
+  ]
+ },
+ {
+  "word": "overcrowding",
+  "pos": "n",
+  "meaning": "too many people in a space",
+  "example": "Overcrowding in flats spreads disease.",
+  "collocations": [
+   "severe overcrowding"
+  ]
+ },
+ {
+  "word": "regenerate",
+  "pos": "v",
+  "meaning": "to improve a run-down area",
+  "example": "The old docks have been regenerated.",
+  "collocations": [
+   "regenerate an area"
+  ]
+ },
+ {
+  "word": "pedestrianise",
+  "pos": "v",
+  "meaning": "close a street to vehicles",
+  "example": "The high street was pedestrianised in 2010.",
+  "collocations": [
+   "pedestrianised zone"
+  ]
+ },
+ {
+  "word": "commute",
+  "pos": "v/n",
+  "meaning": "to travel regularly to work",
+  "example": "Many people commute over an hour each way.",
+  "collocations": [
+   "daily commute"
+  ]
+ },
+ {
+  "word": "high-rise",
+  "pos": "adj/n",
+  "meaning": "a tall building with many floors",
+  "example": "High-rise flats save land.",
+  "collocations": [
+   "high-rise apartments"
+  ]
+ },
+ {
+  "word": "suburbs",
+  "pos": "n",
+  "meaning": "residential areas on the edge of a city",
+  "example": "Families often move to the suburbs.",
+  "collocations": [
+   "live in the suburbs"
+  ]
+ }
+]

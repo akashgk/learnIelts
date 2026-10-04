@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "The government plans to ________ out coal power stations by 2035.",
+     "answer": [
+      "phase"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'phase'."
+    },
+    {
+     "n": 2,
+     "prompt": "Wind and solar are ________ sources of energy.",
+     "answer": [
+      "renewable"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'renewable'."
+    },
+    {
+     "n": 3,
+     "prompt": "Clearing land for cattle farming is a major cause of ________.",
+     "answer": [
+      "deforestation"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'deforestation'."
+    },
+    {
+     "n": 4,
+     "prompt": "Coral reefs support an extraordinary level of ________.",
+     "answer": [
+      "biodiversity"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'biodiversity'."
+    },
+    {
+     "n": 5,
+     "prompt": "Sea walls can ________ the risk of coastal flooding.",
+     "answer": [
+      "mitigate"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'mitigate'."
+    },
+    {
+     "n": 6,
+     "prompt": "Flying less is one way to reduce your carbon ________.",
+     "answer": [
+      "footprint"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'footprint'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Which collocation is correct?",
+     "options": [
+      {
+       "key": "A",
+       "text": "make emissions"
+      },
+      {
+       "key": "B",
+       "text": "cut emissions"
+      },
+      {
+       "key": "C",
+       "text": "do emissions"
+      }
+     ],
+     "answer": "B",
+     "explanation": "We cut / reduce emissions."
+    },
+    {
+     "n": 8,
+     "prompt": "Choose the best word: 'Pandas are an ____ species.'",
+     "options": [
+      {
+       "key": "A",
+       "text": "endangering"
+      },
+      {
+       "key": "B",
+       "text": "endangered"
+      },
+      {
+       "key": "C",
+       "text": "endanger"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Endangered = at risk (adjective, passive meaning)."
+    },
+    {
+     "n": 9,
+     "prompt": "Which word means 'make less severe'?",
+     "options": [
+      {
+       "key": "A",
+       "text": "mitigate"
+      },
+      {
+       "key": "B",
+       "text": "migrate"
+      },
+      {
+       "key": "C",
+       "text": "motivate"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Mitigate the effects / impact."
+    },
+    {
+     "n": 10,
+     "prompt": "Choose the correct phrase:",
+     "options": [
+      {
+       "key": "A",
+       "text": "sustainable development"
+      },
+      {
+       "key": "B",
+       "text": "sustained development"
+      },
+      {
+       "key": "C",
+       "text": "sustaining development"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Sustainable development is the fixed expression."
+    }
+   ]
+  }
+ ]
+}

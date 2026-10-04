@@ -1,0 +1,172 @@
+{
+ "total": 8,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–8",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "First, the cocoa beans ____ from the trees.",
+     "options": [
+      {
+       "key": "A",
+       "text": "pick"
+      },
+      {
+       "key": "B",
+       "text": "are picked"
+      },
+      {
+       "key": "C",
+       "text": "are picking"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Process → present simple passive."
+    },
+    {
+     "n": 2,
+     "prompt": "Since 2000, the old station ____ into a museum.",
+     "options": [
+      {
+       "key": "A",
+       "text": "has converted"
+      },
+      {
+       "key": "B",
+       "text": "has been converted"
+      },
+      {
+       "key": "C",
+       "text": "was converting"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Map change up to now → present perfect passive."
+    },
+    {
+     "n": 3,
+     "prompt": "A new hospital ____ next year.",
+     "options": [
+      {
+       "key": "A",
+       "text": "will be built"
+      },
+      {
+       "key": "B",
+       "text": "will build"
+      },
+      {
+       "key": "C",
+       "text": "is building"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Planned future → will be + past participle."
+    },
+    {
+     "n": 4,
+     "prompt": "Unemployment ____ sharply in 2009.",
+     "options": [
+      {
+       "key": "A",
+       "text": "was risen"
+      },
+      {
+       "key": "B",
+       "text": "rose"
+      },
+      {
+       "key": "C",
+       "text": "was rose"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'rise' is intransitive — no passive."
+    },
+    {
+     "n": 5,
+     "prompt": "It ____ that technology will replace many jobs.",
+     "options": [
+      {
+       "key": "A",
+       "text": "is often argued"
+      },
+      {
+       "key": "B",
+       "text": "often argues"
+      },
+      {
+       "key": "C",
+       "text": "is often arguing"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Impersonal passive: It is argued that…"
+    },
+    {
+     "n": 6,
+     "prompt": "The data ____ by a government agency last year.",
+     "options": [
+      {
+       "key": "A",
+       "text": "collected"
+      },
+      {
+       "key": "B",
+       "text": "was collected"
+      },
+      {
+       "key": "C",
+       "text": "has collected"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Past simple passive."
+    },
+    {
+     "n": 7,
+     "prompt": "The bottles are crushed and then ____ into flakes.",
+     "options": [
+      {
+       "key": "A",
+       "text": "shred"
+      },
+      {
+       "key": "B",
+       "text": "shredded"
+      },
+      {
+       "key": "C",
+       "text": "shredding"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Parallel passive: are crushed and (are) shredded."
+    },
+    {
+     "n": 8,
+     "prompt": "More money should ____ on education.",
+     "options": [
+      {
+       "key": "A",
+       "text": "spend"
+      },
+      {
+       "key": "B",
+       "text": "be spent"
+      },
+      {
+       "key": "C",
+       "text": "been spent"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Modal passive: should be + past participle."
+    }
+   ]
+  }
+ ]
+}

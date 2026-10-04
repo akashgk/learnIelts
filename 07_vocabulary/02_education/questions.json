@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Many students ________ out of university because of financial problems.",
+     "answer": [
+      "drop"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'drop'."
+    },
+    {
+     "n": 2,
+     "prompt": "Learning dates by repetition is an example of ________ learning.",
+     "answer": [
+      "rote"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'rote'."
+    },
+    {
+     "n": 3,
+     "prompt": "Plumbing and hairdressing are taught on ________ courses.",
+     "answer": [
+      "vocational"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'vocational'."
+    },
+    {
+     "n": 4,
+     "prompt": "The adult ________ rate measures how many adults can read and write.",
+     "answer": [
+      "literacy"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'literacy'."
+    },
+    {
+     "n": 5,
+     "prompt": "Drama and chess clubs are ________ activities.",
+     "answer": [
+      "extracurricular"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'extracurricular'."
+    },
+    {
+     "n": 6,
+     "prompt": "Exams are not the only form of ________.",
+     "answer": [
+      "assessment"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'assessment'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Which verb collocates with 'skills'?",
+     "options": [
+      {
+       "key": "A",
+       "text": "acquire"
+      },
+      {
+       "key": "B",
+       "text": "earn"
+      },
+      {
+       "key": "C",
+       "text": "win"
+      }
+     ],
+     "answer": "A",
+     "explanation": "We acquire / develop / gain skills."
+    },
+    {
+     "n": 8,
+     "prompt": "'Tertiary education' refers to:",
+     "options": [
+      {
+       "key": "A",
+       "text": "primary school"
+      },
+      {
+       "key": "B",
+       "text": "secondary school"
+      },
+      {
+       "key": "C",
+       "text": "university and college"
+      }
+     ],
+     "answer": "C",
+     "explanation": "Primary → secondary → tertiary."
+    },
+    {
+     "n": 9,
+     "prompt": "Choose the correct phrase:",
+     "options": [
+      {
+       "key": "A",
+       "text": "develop critical thinking"
+      },
+      {
+       "key": "B",
+       "text": "make critical thinking"
+      },
+      {
+       "key": "C",
+       "text": "do critical thinking"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Develop / encourage / foster critical thinking."
+    },
+    {
+     "n": 10,
+     "prompt": "Choose the correct phrase:",
+     "options": [
+      {
+       "key": "A",
+       "text": "pay tuition fees"
+      },
+      {
+       "key": "B",
+       "text": "give tuition fees"
+      },
+      {
+       "key": "C",
+       "text": "make tuition fees"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Students pay tuition fees."
+    }
+   ]
+  }
+ ]
+}

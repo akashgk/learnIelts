@@ -1,0 +1,24 @@
+{
+ "title": "Part 2 & 3 · An Interesting Book",
+ "summary": "Describe a book you read that you found interesting.",
+ "difficulty": "Band 7–8 models",
+ "topics": [
+  "books",
+  "culture"
+ ],
+ "minutes": 10,
+ "cue_card": {
+  "task": "Describe a book you read that you found interesting.",
+  "bullets": [
+   "what the book is",
+   "when you read it",
+   "what it is about",
+   "and explain why you found it interesting"
+  ]
+ },
+ "part3_questions": [
+  "Why do some people prefer reading books to watching films?",
+  "Do you think e-books will completely replace printed books?",
+  "How can parents encourage children to read more?"
+ ]
+}

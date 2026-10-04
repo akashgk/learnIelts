@@ -1,0 +1,24 @@
+{
+ "total": 10,
+ "instructions": "SECTION 1 · You will hear a woman reporting a lost bag to a transport office.",
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–10",
+   "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+   "strategy": "Dates and self-corrections are common in Section 1. Write the date in any clear form (13th, 13 or thirteenth).",
+   "questions": [
+    {"n": 1, "prompt": "Name: Sophie ________", "answer": ["Ashworth"], "explanation": "Spelled A-S-H-W-O-R-T-H."},
+    {"n": 2, "prompt": "Date of loss: Wednesday ________", "answer": ["13th", "13", "thirteenth", "the 13th"], "explanation": "She first says 'Thursday the fourteenth' then corrects: 'It was Wednesday, the thirteenth'.", "trap": "14th is today's date."},
+    {"n": 3, "prompt": "Location on train: front carriage, on the ________", "answer": ["luggage rack"], "explanation": "'I put the bag on the luggage rack above my seat'."},
+    {"n": 4, "prompt": "Description: small dark green rucksack made of ________", "answer": ["canvas"], "explanation": "'made of canvas'. Leather is only the straps.", "trap": "'Leather' is heard, but it describes the straps, not the bag."},
+    {"n": 5, "prompt": "Feature: badge of a ________ on front pocket", "answer": ["penguin"], "explanation": "'it's a picture of a penguin'."},
+    {"n": 6, "prompt": "Contents: laptop, purse (about £20), library books, ________", "answer": ["umbrella", "an umbrella"], "explanation": "'And an umbrella.'", "trap": "Cards are mentioned — but she keeps them separately."},
+    {"n": 7, "prompt": "Laptop has a ________ with owner's email address", "answer": ["sticker"], "explanation": "'a sticker on the bottom with my email address'."},
+    {"n": 8, "prompt": "Phone: ________", "answer": ["01614960387", "0161 496 0387"], "explanation": "Said once — numbers in groups help you write quickly."},
+    {"n": 9, "prompt": "Reference number: ________", "answer": ["LP 2296", "LP2296"], "explanation": "'Your reference number is LP 2296', repeated by the woman."},
+    {"n": 10, "prompt": "To collect: go to office on Market Street; bring ________", "answer": ["identification", "ID", "passport", "driving licence"], "explanation": "'You'll need to bring some form of identification — a passport or a driving licence.' Any of these fits the gap."}
+   ]
+  }
+ ]
+}

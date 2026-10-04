@@ -1,0 +1,12 @@
+{
+ "chart": "table",
+ "title": "Public transport in five cities",
+ "columns": ["City", "Commuters using public transport (%)", "Average one-way commute (minutes)", "Monthly pass (US$)"],
+ "rows": [
+  ["Tokyo", 68, 48, 95],
+  ["New York", 55, 52, 132],
+  ["London", 45, 46, 210],
+  ["Berlin", 40, 38, 60],
+  ["Sydney", 25, 42, 150]
+ ]
+}

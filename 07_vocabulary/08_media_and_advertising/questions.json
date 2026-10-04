@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Fake news is a type of ________.",
+     "answer": [
+      "misinformation"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'misinformation'."
+    },
+    {
+     "n": 2,
+     "prompt": "Sports stars are often paid to ________ products.",
+     "answer": [
+      "endorse"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'endorse'."
+    },
+    {
+     "n": 3,
+     "prompt": "The advert's ________ audience is young mothers.",
+     "answer": [
+      "target"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'target'."
+    },
+    {
+     "n": 4,
+     "prompt": "The newspaper was accused of political ________.",
+     "answer": [
+      "bias"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'bias'."
+    },
+    {
+     "n": 5,
+     "prompt": "Young children are ________ and believe what adverts say.",
+     "answer": [
+      "gullible"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'gullible'."
+    },
+    {
+     "n": 6,
+     "prompt": "Exaggerated headlines are an example of ________.",
+     "answer": [
+      "sensationalism"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'sensationalism'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Choose the correct collocation:",
+     "options": [
+      {
+       "key": "A",
+       "text": "spread misinformation"
+      },
+      {
+       "key": "B",
+       "text": "make misinformation"
+      },
+      {
+       "key": "C",
+       "text": "throw misinformation"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Spread misinformation / rumours."
+    },
+    {
+     "n": 8,
+     "prompt": "'Coverage' in the news means:",
+     "options": [
+      {
+       "key": "A",
+       "text": "reporting"
+      },
+      {
+       "key": "B",
+       "text": "advertising"
+      },
+      {
+       "key": "C",
+       "text": "printing errors"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Media coverage = how much reporting."
+    },
+    {
+     "n": 9,
+     "prompt": "Choose the correct word: 'Advertising encourages ____.'",
+     "options": [
+      {
+       "key": "A",
+       "text": "consumerism"
+      },
+      {
+       "key": "B",
+       "text": "consumable"
+      },
+      {
+       "key": "C",
+       "text": "consumed"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Consumerism (noun)."
+    },
+    {
+     "n": 10,
+     "prompt": "A person who promotes products to online followers is an:",
+     "options": [
+      {
+       "key": "A",
+       "text": "influencer"
+      },
+      {
+       "key": "B",
+       "text": "inspector"
+      },
+      {
+       "key": "C",
+       "text": "investor"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Influencer."
+    }
+   ]
+  }
+ ]
+}

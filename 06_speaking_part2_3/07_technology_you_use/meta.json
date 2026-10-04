@@ -1,0 +1,23 @@
+{
+ "title": "Part 2 & 3 · A Piece of Technology You Use",
+ "summary": "Describe a piece of technology (not a phone) that you use often.",
+ "difficulty": "Band 7–8 models",
+ "topics": [
+  "technology"
+ ],
+ "minutes": 10,
+ "cue_card": {
+  "task": "Describe a piece of technology (not a phone) that you use often.",
+  "bullets": [
+   "what it is",
+   "when you got it",
+   "what you use it for",
+   "and explain how it has changed your life"
+  ]
+ },
+ "part3_questions": [
+  "How has technology changed the way people work?",
+  "Do you think older people find it hard to keep up with technology?",
+  "Are there any disadvantages of relying too much on technology?"
+ ]
+}

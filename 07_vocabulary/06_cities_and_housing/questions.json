@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Roads, bridges and water pipes are all types of ________.",
+     "answer": [
+      "infrastructure"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'infrastructure'."
+    },
+    {
+     "n": 2,
+     "prompt": "The council plans to ________ the old industrial district.",
+     "answer": [
+      "regenerate"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'regenerate'."
+    },
+    {
+     "n": 3,
+     "prompt": "The area has excellent local ________ such as parks and libraries.",
+     "answer": [
+      "amenities"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'amenities'."
+    },
+    {
+     "n": 4,
+     "prompt": "Uncontrolled urban ________ destroys farmland.",
+     "answer": [
+      "sprawl"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'sprawl'."
+    },
+    {
+     "n": 5,
+     "prompt": "The city introduced a ________ charge to reduce traffic.",
+     "answer": [
+      "congestion"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'congestion'."
+    },
+    {
+     "n": 6,
+     "prompt": "Young families often move out to the ________.",
+     "answer": [
+      "suburbs"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'suburbs'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Choose the correct phrase:",
+     "options": [
+      {
+       "key": "A",
+       "text": "affordable housing"
+      },
+      {
+       "key": "B",
+       "text": "cheapable housing"
+      },
+      {
+       "key": "C",
+       "text": "costable housing"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Affordable housing."
+    },
+    {
+     "n": 8,
+     "prompt": "'Pedestrianise' means:",
+     "options": [
+      {
+       "key": "A",
+       "text": "build a bridge"
+      },
+      {
+       "key": "B",
+       "text": "close a street to traffic"
+      },
+      {
+       "key": "C",
+       "text": "widen a road"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Make an area for pedestrians only."
+    },
+    {
+     "n": 9,
+     "prompt": "Choose the correct collocation:",
+     "options": [
+      {
+       "key": "A",
+       "text": "rapid urbanisation"
+      },
+      {
+       "key": "B",
+       "text": "fast urbanisation process making"
+      },
+      {
+       "key": "C",
+       "text": "quick urbanise"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Rapid urbanisation is natural."
+    },
+    {
+     "n": 10,
+     "prompt": "Which word means too many people in a space?",
+     "options": [
+      {
+       "key": "A",
+       "text": "overcrowding"
+      },
+      {
+       "key": "B",
+       "text": "overlooking"
+      },
+      {
+       "key": "C",
+       "text": "overtaking"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Overcrowding."
+    }
+   ]
+  }
+ ]
+}

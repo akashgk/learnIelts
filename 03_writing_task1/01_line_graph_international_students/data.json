@@ -1,0 +1,11 @@
+{
+ "chart": "line",
+ "title": "International university students, 2000–2020",
+ "unit": "thousands of students",
+ "x": [2000, 2005, 2010, 2015, 2020],
+ "series": [
+  {"name": "Australia", "values": [105, 165, 240, 270, 330]},
+  {"name": "Canada", "values": [60, 75, 95, 170, 255]},
+  {"name": "Germany", "values": [175, 190, 180, 235, 300]}
+ ]
+}

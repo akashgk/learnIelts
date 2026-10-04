@@ -1,0 +1,172 @@
+{
+ "total": 8,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–8",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "____ number of tourists increased sharply.",
+     "options": [
+      {
+       "key": "A",
+       "text": "A"
+      },
+      {
+       "key": "B",
+       "text": "The"
+      },
+      {
+       "key": "C",
+       "text": "Ø"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'The number of' is a fixed pattern."
+    },
+    {
+     "n": 2,
+     "prompt": "Many people believe that ____ technology makes life easier.",
+     "options": [
+      {
+       "key": "A",
+       "text": "the"
+      },
+      {
+       "key": "B",
+       "text": "a"
+      },
+      {
+       "key": "C",
+       "text": "Ø"
+      }
+     ],
+     "answer": "C",
+     "explanation": "General statement with an uncountable noun → no article."
+    },
+    {
+     "n": 3,
+     "prompt": "Germany had ____ highest proportion of students.",
+     "options": [
+      {
+       "key": "A",
+       "text": "a"
+      },
+      {
+       "key": "B",
+       "text": "the"
+      },
+      {
+       "key": "C",
+       "text": "Ø"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Superlatives take 'the'."
+    },
+    {
+     "n": 4,
+     "prompt": "Governments should do more to help ____ elderly.",
+     "options": [
+      {
+       "key": "A",
+       "text": "the"
+      },
+      {
+       "key": "B",
+       "text": "an"
+      },
+      {
+       "key": "C",
+       "text": "Ø"
+      }
+     ],
+     "answer": "A",
+     "explanation": "'The elderly' = a group of people (the + adjective)."
+    },
+    {
+     "n": 5,
+     "prompt": "She works as ____ engineer.",
+     "options": [
+      {
+       "key": "A",
+       "text": "a"
+      },
+      {
+       "key": "B",
+       "text": "an"
+      },
+      {
+       "key": "C",
+       "text": "the"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Jobs take a/an; 'engineer' starts with a vowel sound → an."
+    },
+    {
+     "n": 6,
+     "prompt": "Prices rose steadily in ____ 1990s.",
+     "options": [
+      {
+       "key": "A",
+       "text": "the"
+      },
+      {
+       "key": "B",
+       "text": "a"
+      },
+      {
+       "key": "C",
+       "text": "Ø"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Decades take 'the'."
+    },
+    {
+     "n": 7,
+     "prompt": "____ university education is becoming more expensive.",
+     "options": [
+      {
+       "key": "A",
+       "text": "The"
+      },
+      {
+       "key": "B",
+       "text": "A"
+      },
+      {
+       "key": "C",
+       "text": "Ø"
+      }
+     ],
+     "answer": "C",
+     "explanation": "General statement — no article."
+    },
+    {
+     "n": 8,
+     "prompt": "He spent a year in ____ United Kingdom.",
+     "options": [
+      {
+       "key": "A",
+       "text": "Ø"
+      },
+      {
+       "key": "B",
+       "text": "the"
+      },
+      {
+       "key": "C",
+       "text": "a"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Countries with 'Kingdom', 'States', 'Republic' take 'the'."
+    }
+   ]
+  }
+ ]
+}

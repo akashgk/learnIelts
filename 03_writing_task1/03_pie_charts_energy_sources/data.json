@@ -1,0 +1,13 @@
+{
+ "chart": "pie",
+ "title": "Sources of electricity",
+ "unit": "%",
+ "charts": [
+  {"title": "2000", "slices": [
+   {"label": "Coal", "value": 45}, {"label": "Natural gas", "value": 25}, {"label": "Nuclear", "value": 15},
+   {"label": "Hydroelectric", "value": 10}, {"label": "Wind & solar", "value": 2}, {"label": "Oil", "value": 3}]},
+  {"title": "2020", "slices": [
+   {"label": "Coal", "value": 18}, {"label": "Natural gas", "value": 32}, {"label": "Nuclear", "value": 14},
+   {"label": "Hydroelectric", "value": 11}, {"label": "Wind & solar", "value": 22}, {"label": "Oil", "value": 3}]}
+ ]
+}

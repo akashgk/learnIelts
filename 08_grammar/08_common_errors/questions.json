@@ -1,0 +1,172 @@
+{
+ "total": 8,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–8",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Can you give me some ____ about the exam?",
+     "options": [
+      {
+       "key": "A",
+       "text": "advices"
+      },
+      {
+       "key": "B",
+       "text": "advice"
+      },
+      {
+       "key": "C",
+       "text": "an advice"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'advice' is uncountable."
+    },
+    {
+     "n": 2,
+     "prompt": "Smartphones have a negative effect ____ sleep.",
+     "options": [
+      {
+       "key": "A",
+       "text": "on"
+      },
+      {
+       "key": "B",
+       "text": "to"
+      },
+      {
+       "key": "C",
+       "text": "for"
+      }
+     ],
+     "answer": "A",
+     "explanation": "effect ON."
+    },
+    {
+     "n": 3,
+     "prompt": "Parents are responsible ____ their children's safety.",
+     "options": [
+      {
+       "key": "A",
+       "text": "of"
+      },
+      {
+       "key": "B",
+       "text": "for"
+      },
+      {
+       "key": "C",
+       "text": "about"
+      }
+     ],
+     "answer": "B",
+     "explanation": "responsible FOR."
+    },
+    {
+     "n": 4,
+     "prompt": "The essay discusses ____ the causes of crime.",
+     "options": [
+      {
+       "key": "A",
+       "text": "about"
+      },
+      {
+       "key": "B",
+       "text": "on"
+      },
+      {
+       "key": "C",
+       "text": "Ø (no word)"
+      }
+     ],
+     "answer": "C",
+     "explanation": "'discuss' takes a direct object — no preposition."
+    },
+    {
+     "n": 5,
+     "prompt": "Pollution can ____ people's health.",
+     "options": [
+      {
+       "key": "A",
+       "text": "effect"
+      },
+      {
+       "key": "B",
+       "text": "affect"
+      },
+      {
+       "key": "C",
+       "text": "affection"
+      }
+     ],
+     "answer": "B",
+     "explanation": "affect (verb) / effect (noun)."
+    },
+    {
+     "n": 6,
+     "prompt": "The country is going through an ____ crisis.",
+     "options": [
+      {
+       "key": "A",
+       "text": "economical"
+      },
+      {
+       "key": "B",
+       "text": "economic"
+      },
+      {
+       "key": "C",
+       "text": "economy"
+      }
+     ],
+     "answer": "B",
+     "explanation": "economic = related to the economy."
+    },
+    {
+     "n": 7,
+     "prompt": "There was a sharp increase ____ unemployment.",
+     "options": [
+      {
+       "key": "A",
+       "text": "of"
+      },
+      {
+       "key": "B",
+       "text": "in"
+      },
+      {
+       "key": "C",
+       "text": "on"
+      }
+     ],
+     "answer": "B",
+     "explanation": "an increase IN something."
+    },
+    {
+     "n": 8,
+     "prompt": "Exercise is ____ for mental health.",
+     "options": [
+      {
+       "key": "A",
+       "text": "benefit"
+      },
+      {
+       "key": "B",
+       "text": "beneficial"
+      },
+      {
+       "key": "C",
+       "text": "benefited"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Adjective needed after 'is'."
+    }
+   ]
+  }
+ ]
+}

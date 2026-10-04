@@ -1,0 +1,111 @@
+[
+ {
+  "word": "globalisation",
+  "pos": "n",
+  "meaning": "the increasing connection of the world's economies and cultures",
+  "example": "Globalisation has lowered prices of goods.",
+  "collocations": [
+   "effects of globalisation"
+  ]
+ },
+ {
+  "word": "multicultural",
+  "pos": "adj",
+  "meaning": "including many cultures",
+  "example": "London is a multicultural city.",
+  "collocations": [
+   "multicultural society"
+  ]
+ },
+ {
+  "word": "mass tourism",
+  "pos": "n",
+  "meaning": "tourism by very large numbers of people",
+  "example": "Mass tourism damages fragile sites.",
+  "collocations": [
+   "impact of mass tourism"
+  ]
+ },
+ {
+  "word": "eco-tourism",
+  "pos": "n",
+  "meaning": "responsible travel to natural areas",
+  "example": "Eco-tourism funds rainforest protection.",
+  "collocations": [
+   "promote eco-tourism"
+  ]
+ },
+ {
+  "word": "homogenisation",
+  "pos": "n",
+  "meaning": "becoming the same",
+  "example": "Critics fear the homogenisation of culture.",
+  "collocations": [
+   "cultural homogenisation"
+  ]
+ },
+ {
+  "word": "heritage",
+  "pos": "n",
+  "meaning": "traditions and buildings from the past",
+  "example": "The old town is a World Heritage Site.",
+  "collocations": [
+   "cultural heritage",
+   "heritage site"
+  ]
+ },
+ {
+  "word": "broaden horizons",
+  "pos": "phrase",
+  "meaning": "to experience new things and ideas",
+  "example": "Travel broadens your horizons.",
+  "collocations": [
+   "broaden your horizons"
+  ]
+ },
+ {
+  "word": "culture shock",
+  "pos": "n",
+  "meaning": "confusion when living in a new culture",
+  "example": "Many students experience culture shock.",
+  "collocations": [
+   "suffer / experience culture shock"
+  ]
+ },
+ {
+  "word": "expatriate",
+  "pos": "n",
+  "meaning": "a person living outside their home country",
+  "example": "Dubai has a large expatriate community.",
+  "collocations": [
+   "expatriate workers"
+  ]
+ },
+ {
+  "word": "off the beaten track",
+  "pos": "phrase",
+  "meaning": "away from popular places",
+  "example": "We stayed in a village off the beaten track.",
+  "collocations": [
+   "go off the beaten track"
+  ]
+ },
+ {
+  "word": "multinational",
+  "pos": "adj/n",
+  "meaning": "operating in many countries",
+  "example": "Multinational companies dominate the market.",
+  "collocations": [
+   "multinational corporation"
+  ]
+ },
+ {
+  "word": "influx",
+  "pos": "n",
+  "meaning": "a large arrival of people/things",
+  "example": "The island faces an influx of tourists every summer.",
+  "collocations": [
+   "an influx of visitors / migrants"
+  ]
+ }
+]

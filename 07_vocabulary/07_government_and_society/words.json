@@ -1,0 +1,110 @@
+[
+ {
+  "word": "legislation",
+  "pos": "n",
+  "meaning": "laws",
+  "example": "New legislation bans single-use plastics.",
+  "collocations": [
+   "introduce / pass legislation"
+  ]
+ },
+ {
+  "word": "taxpayer",
+  "pos": "n",
+  "meaning": "a person who pays tax",
+  "example": "The project was funded by the taxpayer.",
+  "collocations": [
+   "at the taxpayer's expense"
+  ]
+ },
+ {
+  "word": "welfare",
+  "pos": "n",
+  "meaning": "state help for people in need",
+  "example": "Welfare spending has increased.",
+  "collocations": [
+   "welfare state / benefits"
+  ]
+ },
+ {
+  "word": "inequality",
+  "pos": "n",
+  "meaning": "unfair difference between groups",
+  "example": "Income inequality is growing.",
+  "collocations": [
+   "social / income inequality"
+  ]
+ },
+ {
+  "word": "subsidise",
+  "pos": "v",
+  "meaning": "to pay part of the cost",
+  "example": "The government subsidises public transport.",
+  "collocations": [
+   "heavily subsidised"
+  ]
+ },
+ {
+  "word": "regulate",
+  "pos": "v",
+  "meaning": "control with rules",
+  "example": "Governments must regulate social media.",
+  "collocations": [
+   "strictly regulated"
+  ]
+ },
+ {
+  "word": "public services",
+  "pos": "n",
+  "meaning": "services provided by the state",
+  "example": "Taxes fund public services like healthcare.",
+  "collocations": [
+   "invest in public services"
+  ]
+ },
+ {
+  "word": "deterrent",
+  "pos": "n",
+  "meaning": "something that discourages action",
+  "example": "Fines act as a deterrent to speeding.",
+  "collocations": [
+   "act as / serve as a deterrent"
+  ]
+ },
+ {
+  "word": "rehabilitation",
+  "pos": "n",
+  "meaning": "helping offenders return to normal life",
+  "example": "Prisons should focus on rehabilitation.",
+  "collocations": [
+   "rehabilitation programmes"
+  ]
+ },
+ {
+  "word": "censorship",
+  "pos": "n",
+  "meaning": "controlling what can be published",
+  "example": "Internet censorship limits free speech.",
+  "collocations": [
+   "state censorship"
+  ]
+ },
+ {
+  "word": "social mobility",
+  "pos": "n",
+  "meaning": "ability to move to a higher social class",
+  "example": "Free education promotes social mobility.",
+  "collocations": [
+   "improve social mobility"
+  ]
+ },
+ {
+  "word": "allocate",
+  "pos": "v",
+  "meaning": "give resources for a purpose",
+  "example": "More funding should be allocated to schools.",
+  "collocations": [
+   "allocate funds / resources"
+  ]
+ }
+]

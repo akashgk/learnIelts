@@ -1,0 +1,111 @@
+[
+ {
+  "word": "curriculum",
+  "pos": "n",
+  "meaning": "the subjects studied in a school or course",
+  "example": "Coding has been added to the national curriculum.",
+  "collocations": [
+   "broad / national curriculum"
+  ]
+ },
+ {
+  "word": "tuition fees",
+  "pos": "n",
+  "meaning": "money paid for teaching at a university/college",
+  "example": "Tuition fees have tripled in a decade.",
+  "collocations": [
+   "pay / abolish tuition fees"
+  ]
+ },
+ {
+  "word": "rote learning",
+  "pos": "n",
+  "meaning": "learning by repetition without understanding",
+  "example": "Critics say the system relies too much on rote learning.",
+  "collocations": [
+   "rely on rote learning"
+  ]
+ },
+ {
+  "word": "critical thinking",
+  "pos": "n",
+  "meaning": "analysing information objectively before judging",
+  "example": "Debates help develop critical thinking.",
+  "collocations": [
+   "develop / encourage critical thinking"
+  ]
+ },
+ {
+  "word": "vocational",
+  "pos": "adj",
+  "meaning": "related to skills for a specific job",
+  "example": "Vocational courses train students as electricians or chefs.",
+  "collocations": [
+   "vocational training / qualifications"
+  ]
+ },
+ {
+  "word": "literacy",
+  "pos": "n",
+  "meaning": "the ability to read and write",
+  "example": "Adult literacy rates have risen sharply.",
+  "collocations": [
+   "literacy rate",
+   "digital literacy"
+  ]
+ },
+ {
+  "word": "academic performance",
+  "pos": "n",
+  "meaning": "how well a student does in study",
+  "example": "Sleep strongly affects academic performance.",
+  "collocations": [
+   "improve academic performance"
+  ]
+ },
+ {
+  "word": "extracurricular",
+  "pos": "adj",
+  "meaning": "outside the normal curriculum",
+  "example": "Extracurricular activities include sport and drama clubs.",
+  "collocations": [
+   "extracurricular activities"
+  ]
+ },
+ {
+  "word": "tertiary education",
+  "pos": "n",
+  "meaning": "university / college level",
+  "example": "More women than men now enter tertiary education.",
+  "collocations": [
+   "access to tertiary education"
+  ]
+ },
+ {
+  "word": "acquire",
+  "pos": "v",
+  "meaning": "to gain knowledge or skills",
+  "example": "Children acquire languages quickly.",
+  "collocations": [
+   "acquire skills / knowledge"
+  ]
+ },
+ {
+  "word": "assessment",
+  "pos": "n",
+  "meaning": "judging a student's work/ability",
+  "example": "Continuous assessment reduces exam stress.",
+  "collocations": [
+   "continuous / formal assessment"
+  ]
+ },
+ {
+  "word": "drop out",
+  "pos": "phr v",
+  "meaning": "leave school/course before finishing",
+  "example": "Financial pressure causes many students to drop out.",
+  "collocations": [
+   "drop out of school / university"
+  ]
+ }
+]

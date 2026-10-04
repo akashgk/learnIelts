@@ -1,0 +1,65 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "matching",
+   "range": "1–4",
+   "instructions": "The passage has six paragraphs, A–F. Which paragraph contains the following information? Write the correct letter, A–F. You may use any letter more than once.",
+   "strategy": "'Matching information' questions are NOT in passage order. Underline the key noun in each statement (e.g. 'reason', 'example', 'reference'), then skim paragraph by paragraph.",
+   "options": [
+    {"key": "A", "text": "Paragraph A"}, {"key": "B", "text": "Paragraph B"}, {"key": "C", "text": "Paragraph C"},
+    {"key": "D", "text": "Paragraph D"}, {"key": "E", "text": "Paragraph E"}, {"key": "F", "text": "Paragraph F"}
+   ],
+   "questions": [
+    {"n": 1, "prompt": "a reason why it is hard to prove what caused a change in the park", "answer": "E", "explanation": "Paragraph E ends by explaining there was no 'control' Yellowstone for comparison.", "evidence": "there was no 'control' Yellowstone without wolves with which the real park could be compared"},
+    {"n": 2, "prompt": "a description of an earlier method of managing animal numbers", "answer": "A", "explanation": "Rangers culled elk to control their numbers before abandoning the practice.", "evidence": "Park rangers attempted to control elk numbers by culling"},
+    {"n": 3, "prompt": "a reference to how the story reached a non-scientific audience", "answer": "D", "explanation": "'documentaries and popular videos watched by millions' = a non-scientific audience.", "evidence": "featuring in documentaries and popular videos watched by millions of people"},
+    {"n": 4, "prompt": "mention of opposition to the reintroduction plan", "answer": "B", "explanation": "'legal challenges from farming organisations' = opposition.", "evidence": "legal challenges from farming organisations"}
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "5–8",
+   "instructions": "Choose the correct letter, A, B, C or D.",
+   "strategy": "Locate the part of the passage, then eliminate options: one is usually true but irrelevant, one is the opposite, one mixes two details.",
+   "questions": [
+    {"n": 5, "prompt": "According to paragraph C, the original account claimed that wolves", "options": [
+      {"key": "A", "text": "killed most of the elk living near rivers."},
+      {"key": "B", "text": "altered where and how elk fed."},
+      {"key": "C", "text": "directly increased the number of beavers."},
+      {"key": "D", "text": "prevented trees from growing along riverbanks."}],
+     "answer": "B", "explanation": "'did not just reduce the number of elk; they also changed the elk's behaviour' — avoiding valleys and grazing less in one place.", "trap": "C — beavers increased INDIRECTLY via trees, not directly because of wolves."},
+    {"n": 6, "prompt": "What is a 'trophic cascade'?", "options": [
+      {"key": "A", "text": "a series of indirect effects passing through an ecosystem"},
+      {"key": "B", "text": "the sudden collapse of a predator population"},
+      {"key": "C", "text": "a type of wetland created by beavers"},
+      {"key": "D", "text": "the movement of animals away from rivers"}],
+     "answer": "A", "explanation": "Definition at the end of paragraph C: 'a chain of indirect effects'.", "evidence": "Ecologists call such a chain of indirect effects a 'trophic cascade'."},
+    {"n": 7, "prompt": "Some researchers believe willows failed to recover in many places because", "options": [
+      {"key": "A", "text": "elk continued to eat them during the day."},
+      {"key": "B", "text": "beavers used them to build dams."},
+      {"key": "C", "text": "the trees could no longer reach underground water."},
+      {"key": "D", "text": "the climate had become too dry for them."}],
+     "answer": "C", "explanation": "Overgrazing lowered the water table, 'leaving roots unable to reach moisture'.", "trap": "A — the passage says elk can graze in risky areas at midday, but this explains why elk did not change behaviour, not why willows stayed short."},
+    {"n": 8, "prompt": "What is the writer's main conclusion in paragraph F?", "options": [
+      {"key": "A", "text": "The reintroduction of wolves was unsuccessful."},
+      {"key": "B", "text": "Scavengers have benefited more than any other species."},
+      {"key": "C", "text": "Ecological change usually has several interacting causes."},
+      {"key": "D", "text": "More predators should be returned to national parks."}],
+     "answer": "C", "explanation": "'natural systems rarely have a single cause and effect'.", "trap": "A is directly contradicted: 'None of this means that the reintroduction was a failure.'"}
+   ]
+  },
+  {
+   "type": "gap",
+   "range": "9–13",
+   "instructions": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+   "questions": [
+    {"n": 9, "prompt": "In the early twentieth century, wolves were seen as ________ that endangered farm animals.", "answer": ["pests"], "explanation": "Paragraph A: 'wolves were regarded as dangerous pests that threatened livestock'."},
+    {"n": 10, "prompt": "The wolves released in 1995 had been captured in ________.", "answer": ["Canada"], "explanation": "Paragraph B: '14 wolves captured in Canada'."},
+    {"n": 11, "prompt": "Wolves tend to hunt at dawn and at ________.", "answer": ["dusk"], "explanation": "Paragraph D: 'wolves hunt mainly at dawn and dusk'."},
+    {"n": 12, "prompt": "Grizzly bears are especially good at hunting young elk, known as ________.", "answer": ["calves"], "explanation": "Paragraph E: 'efficient predators of elk calves'."},
+    {"n": 13, "prompt": "Birds such as ravens and eagles feed on the ________ that wolves leave.", "answer": ["carcasses"], "explanation": "Paragraph F: 'benefit from the carcasses they leave behind'."}
+   ]
+  }
+ ]
+}

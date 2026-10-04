@@ -1,0 +1,46 @@
+{
+ "total": 10,
+ "instructions": "SECTION 2 · You will hear a guide talking to visitors at a museum.",
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "11–15",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "strategy": "In Section 2 MCQs, all three options are usually mentioned. Underline the key idea in the question stem and listen for the speaker's FINAL position on it.",
+   "questions": [
+    {"n": 11, "prompt": "The museum building was first used to", "options": [
+      {"key": "A", "text": "build boats."}, {"key": "B", "text": "store cotton."}, {"key": "C", "text": "display industrial machines."}],
+     "answer": "B", "explanation": "'originally a warehouse, built in 1868 to store cotton'."},
+    {"n": 12, "prompt": "Visitors are not allowed to take photographs", "options": [
+      {"key": "A", "text": "in the textile gallery."}, {"key": "B", "text": "in the special exhibitions."}, {"key": "C", "text": "anywhere without paying."}],
+     "answer": "A", "explanation": "'Photography is allowed everywhere except in the textile gallery'.", "trap": "Special exhibitions are mentioned — but in connection with a charge, not photography."},
+    {"n": 13, "prompt": "Money from the audio guides is used for", "options": [
+      {"key": "A", "text": "translating the guides into more languages."}, {"key": "B", "text": "paying volunteers."}, {"key": "C", "text": "repairing the building."}],
+     "answer": "C", "explanation": "'goes towards the restoration of the building' — restoration = repairing."},
+    {"n": 14, "prompt": "The museum particularly needs volunteers to", "options": [
+      {"key": "A", "text": "do historical research."}, {"key": "B", "text": "work with children."}, {"key": "C", "text": "guide tours on weekdays."}],
+     "answer": "B", "explanation": "'what we're most short of … are people to help children with our hands-on activities at weekends'.", "trap": "A — 'People often assume we need historians, but…'"},
+    {"n": 15, "prompt": "Today the museum will close early because", "options": [
+      {"key": "A", "text": "of staff shortages."}, {"key": "B", "text": "an event is being prepared."}, {"key": "C", "text": "of building work."}],
+     "answer": "B", "explanation": "'we're setting up for an evening event'.", "trap": "C — refurbishment is mentioned later, for a room, not the closing time."}
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "16–20",
+   "instructions": "Label the map (see map.md). Write the correct letter, A–H, next to Questions 16–20.",
+   "strategy": "Locate the entrance and 'you are here' first. Follow the speaker's directions with your pencil: 'on your right', 'opposite', 'in the north-east corner', 'between'.",
+   "options": [
+    {"key": "A", "text": "A"}, {"key": "B", "text": "B"}, {"key": "C", "text": "C"}, {"key": "D", "text": "D"},
+    {"key": "E", "text": "E"}, {"key": "F", "text": "F"}, {"key": "G", "text": "G"}, {"key": "H", "text": "H"}
+   ],
+   "questions": [
+    {"n": 16, "prompt": "Café", "answer": "H", "explanation": "'immediately on your right, in the south-east corner' — entering from the south, right = east."},
+    {"n": 17, "prompt": "Shop", "answer": "F", "explanation": "'directly opposite the café, on the other side of the entrance — the room on your left' = south-west."},
+    {"n": 18, "prompt": "Boat Gallery", "answer": "B", "explanation": "'three rooms along the north wall. The one in the middle'."},
+    {"n": 19, "prompt": "Children's discovery room", "answer": "C", "explanation": "'on the right, in the north-east corner'."},
+    {"n": 20, "prompt": "Lift, stairs and toilets", "answer": "E", "explanation": "'on the east side of the main hall, between the café and the discovery room'.", "trap": "D (west side) is the room closed for refurbishment."}
+   ]
+  }
+ ]
+}

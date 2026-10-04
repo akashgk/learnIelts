@@ -1,0 +1,19 @@
+# Farming Upwards
+
+**A**
+By 2050, the United Nations estimates, around two-thirds of the world's population will live in cities. Feeding them will require not only more food but also new ways of getting it to urban consumers. Today, much of the fresh produce eaten in cities travels hundreds or even thousands of kilometres from farm to plate, losing freshness and nutritional value on the way and generating transport emissions. One proposed solution is to bring farms into the city itself — not by converting parks into fields, but by stacking crops vertically inside buildings.
+
+**B**
+The basic principle of a vertical farm is simple. Plants are grown in trays arranged on shelves that may rise ten or more levels high, inside a warehouse or purpose-built tower. Instead of soil, most vertical farms use hydroponics, in which roots sit in a nutrient-rich water solution, or aeroponics, in which roots hang in the air and are sprayed with a fine mist. Sunlight is replaced by LED lamps tuned to the wavelengths that plants use most efficiently for photosynthesis, mainly red and blue. Temperature, humidity and carbon dioxide levels are controlled by computer, so that crops can be grown all year round regardless of the weather outside.
+
+**C**
+Supporters point to several advantages. Because the environment is sealed, there is little need for pesticides, and crops are protected from droughts, floods and storms, which are becoming more frequent as the climate changes. Water is recirculated rather than lost to the ground, so a vertical farm may use up to 95 per cent less water than a conventional field to produce the same quantity of lettuce. Yields per square metre of floor space can be many times higher than in open fields, since several layers are stacked on top of each other and harvests continue throughout the year. And because the farms can be located close to supermarkets and restaurants, produce can be sold within hours of being picked.
+
+**D**
+The greatest obstacle is energy. In a field, sunlight is free; in a vertical farm, every photon must be produced by electricity. Lighting, heating, cooling and ventilation together make energy the largest single operating cost for most facilities, and if that electricity comes from fossil fuels, the carbon footprint of a vertically farmed lettuce can actually exceed that of one grown in a field and transported a long distance. High construction costs add to the challenge. Several well-funded vertical farming companies in Europe and North America have gone out of business in recent years, after rising energy prices made their operations unprofitable.
+
+**E**
+There are also limits to what can be grown. Leafy greens such as lettuce, spinach and herbs are ideal: they grow quickly, are compact, and almost the whole plant can be sold. Staple crops such as wheat, rice and maize, by contrast, are poorly suited to indoor cultivation. They take months to mature, need large amounts of light, and are worth relatively little per kilogram. One analysis calculated that producing a single loaf of bread from wheat grown under LED lights would cost several times its usual price in electricity alone. Vertical farms, in other words, are unlikely to replace conventional agriculture as the main source of the world's calories.
+
+**F**
+Nevertheless, the technology may find valuable niches. In places where farmland is scarce or the climate is extreme — desert states in the Middle East, northern regions with long, dark winters, or densely populated islands such as Singapore — the cost of importing fresh vegetables is already high, making local indoor production more competitive. Improvements in LED efficiency and the falling price of solar and wind power may also gradually narrow the cost gap. Rather than a revolution, then, vertical farming is perhaps best understood as one tool among many for making urban food supplies more secure.

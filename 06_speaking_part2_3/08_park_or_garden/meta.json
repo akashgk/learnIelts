@@ -1,0 +1,25 @@
+{
+ "title": "Part 2 & 3 · A Park or Garden You Like",
+ "summary": "Describe a park or garden that you like to visit.",
+ "difficulty": "Band 7–8 models",
+ "topics": [
+  "places",
+  "nature",
+  "cities"
+ ],
+ "minutes": 10,
+ "cue_card": {
+  "task": "Describe a park or garden that you like to visit.",
+  "bullets": [
+   "where it is",
+   "what it looks like",
+   "what people do there",
+   "and explain why you like to visit it"
+  ]
+ },
+ "part3_questions": [
+  "Why are parks important in cities?",
+  "Should city land be used for parks or for housing?",
+  "How do people's leisure activities in parks differ between generations?"
+ ]
+}

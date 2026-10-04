@@ -1,0 +1,22 @@
+# Cooling the Concrete Jungle
+
+**A**
+On a still summer evening, the centre of a large city can be as much as 7°C warmer than the farmland that surrounds it. This phenomenon, known as the urban heat island, was first described in the early nineteenth century by the amateur meteorologist Luke Howard, who noticed that thermometers in central London consistently recorded higher readings than those in the nearby countryside. Howard attributed the difference to the burning of fuel, but later research has shown that the explanation is considerably more complex.
+
+**B**
+The main culprit is the material from which cities are built. Asphalt, brick and concrete absorb a large proportion of the sunlight that falls on them during the day and release it slowly as heat after sunset. A dark road surface may reflect as little as 5% of incoming solar radiation, whereas a field of grass reflects closer to 25%. Moreover, tall buildings arranged along narrow streets create what climatologists call 'urban canyons', in which heat radiated from one wall is simply absorbed by the wall opposite rather than escaping to the sky. The result is that cities cool far more slowly at night than rural areas, which explains why the heat island effect is typically strongest after dark rather than at midday.
+
+**C**
+Vegetation plays an equally important role. Plants release water vapour through their leaves in a process called evapotranspiration, which uses energy that would otherwise warm the air. A single mature tree can transpire several hundred litres of water on a hot day, producing a cooling effect comparable to that of a domestic air-conditioning unit running for many hours. When forests and fields are replaced by roads and car parks, this natural cooling mechanism disappears. Waste heat from vehicles, factories and air-conditioners adds to the problem, although studies suggest that in most cities this contributes less than the properties of surfaces and the loss of greenery.
+
+**D**
+The consequences extend well beyond discomfort. During the European heatwave of 2003, mortality rates in Paris were significantly higher in districts with little vegetation and a high density of buildings. Elderly residents living in top-floor apartments with poor ventilation were found to be at particular risk. Higher temperatures also increase demand for electricity, as residents switch on fans and air-conditioners, which in turn generates more waste heat and, where power stations burn fossil fuels, more greenhouse gas emissions. In addition, warm air accelerates the chemical reactions that produce ground-level ozone, a pollutant that aggravates asthma and other respiratory conditions.
+
+**E**
+Several strategies have been proposed to counter these effects. One of the simplest is the 'cool roof': coating rooftops with reflective white paint or materials that bounce sunlight back into the atmosphere. Experiments in New York found that a white roof could be up to 24°C cooler than a black one on a summer afternoon. Some cities have experimented with lighter-coloured paving as well, although critics point out that reflective road surfaces can create glare for drivers and may simply redirect heat onto nearby walls and pedestrians.
+
+**F**
+Green infrastructure offers a second approach. Planting street trees, creating parks and installing 'green roofs' covered with soil and vegetation all restore evapotranspiration and provide shade. Singapore, which has pursued the goal of becoming a 'city in a garden' since the 1960s, requires developers to replace any greenery lost at ground level with planting on balconies, terraces or rooftops. However, green infrastructure is not without drawbacks. Trees require years to reach maturity, need regular watering during droughts, and their roots can damage pipes and pavements. In very humid climates, the moisture released by plants may make conditions feel more oppressive rather than less.
+
+**G**
+Perhaps the most significant change, however, concerns the way cities are planned. Researchers increasingly argue that urban heat should be treated as a public health issue rather than a matter of comfort, and that planners should map temperature variations street by street. Such maps frequently reveal that the hottest neighbourhoods are also the poorest, since wealthier districts tend to have more parks and tree-lined avenues. Addressing the urban heat island, therefore, is not only an environmental challenge but also a question of social fairness.

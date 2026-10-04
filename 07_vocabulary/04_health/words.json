@@ -1,0 +1,112 @@
+[
+ {
+  "word": "sedentary",
+  "pos": "adj",
+  "meaning": "involving a lot of sitting, little exercise",
+  "example": "Office workers often have sedentary lifestyles.",
+  "collocations": [
+   "sedentary lifestyle / job"
+  ]
+ },
+ {
+  "word": "obesity",
+  "pos": "n",
+  "meaning": "being very overweight",
+  "example": "Childhood obesity has doubled in thirty years.",
+  "collocations": [
+   "childhood obesity",
+   "obesity rates"
+  ]
+ },
+ {
+  "word": "life expectancy",
+  "pos": "n",
+  "meaning": "how long people are expected to live",
+  "example": "Life expectancy has risen to over 80.",
+  "collocations": [
+   "average life expectancy"
+  ]
+ },
+ {
+  "word": "well-being",
+  "pos": "n",
+  "meaning": "being healthy and happy",
+  "example": "Green spaces improve mental well-being.",
+  "collocations": [
+   "mental / physical well-being"
+  ]
+ },
+ {
+  "word": "preventable",
+  "pos": "adj",
+  "meaning": "can be stopped from happening",
+  "example": "Many deaths from heart disease are preventable.",
+  "collocations": [
+   "preventable disease"
+  ]
+ },
+ {
+  "word": "balanced diet",
+  "pos": "n",
+  "meaning": "food with the right mix of nutrients",
+  "example": "A balanced diet includes fruit and vegetables.",
+  "collocations": [
+   "eat / maintain a balanced diet"
+  ]
+ },
+ {
+  "word": "chronic",
+  "pos": "adj",
+  "meaning": "lasting a long time (illness)",
+  "example": "Diabetes is a chronic condition.",
+  "collocations": [
+   "chronic disease / pain"
+  ]
+ },
+ {
+  "word": "vaccination",
+  "pos": "n",
+  "meaning": "giving a vaccine to protect against disease",
+  "example": "Vaccination has eliminated smallpox.",
+  "collocations": [
+   "vaccination programme / rates"
+  ]
+ },
+ {
+  "word": "healthcare",
+  "pos": "n",
+  "meaning": "medical services",
+  "example": "Universal healthcare is funded by taxes.",
+  "collocations": [
+   "access to healthcare",
+   "healthcare system"
+  ]
+ },
+ {
+  "word": "burnout",
+  "pos": "n",
+  "meaning": "exhaustion from long-term stress",
+  "example": "Long hours lead to burnout among nurses.",
+  "collocations": [
+   "suffer from burnout"
+  ]
+ },
+ {
+  "word": "epidemic",
+  "pos": "n",
+  "meaning": "a disease spreading widely in a community",
+  "example": "Health officials warn of an obesity epidemic.",
+  "collocations": [
+   "outbreak of an epidemic"
+  ]
+ },
+ {
+  "word": "detrimental",
+  "pos": "adj",
+  "meaning": "harmful",
+  "example": "Lack of sleep is detrimental to health.",
+  "collocations": [
+   "detrimental effect on"
+  ]
+ }
+]

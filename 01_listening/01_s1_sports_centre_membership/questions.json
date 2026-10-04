@@ -1,0 +1,101 @@
+{
+ "total": 10,
+ "instructions": "SECTION 1 · You will hear a man phoning a leisure centre. First, you have some time to look at questions 1–10.",
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–10",
+   "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+   "strategy": "Section 1 tests spelling and numbers. Before the audio starts, predict each gap: a name? a number? a day? Listen for corrections ('no, sorry…') — the first thing you hear is often a distractor.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Name: Daniel ________",
+     "answer": [
+      "Kowalski"
+     ],
+     "explanation": "Spelled out letter by letter: K-O-W-A-L-S-K-I. Spelling must be exact."
+    },
+    {
+     "n": 2,
+     "prompt": "Address: 42 ________ Road",
+     "answer": [
+      "Thornbury"
+     ],
+     "explanation": "Spelled out: T-H-O-R-N-B-U-R-Y."
+    },
+    {
+     "n": 3,
+     "prompt": "Mobile: ________",
+     "answer": [
+      "07723580914",
+      "07723 580 914"
+     ],
+     "explanation": "The number is said and then repeated by the receptionist — use the repetition to check."
+    },
+    {
+     "n": 4,
+     "prompt": "Type of membership: ________",
+     "answer": [
+      "Standard"
+     ],
+     "explanation": "Off-Peak is rejected (he works in the day) and Premium is rejected (no sauna or classes).",
+     "trap": "All three types are mentioned; wait for his final decision."
+    },
+    {
+     "n": 5,
+     "prompt": "Joining fee this month: £________",
+     "answer": [
+      "15",
+      "fifteen"
+     ],
+     "explanation": "'normally twenty-five pounds, but this month we've reduced it to fifteen'.",
+     "trap": "25 is the normal fee — a classic distractor."
+    },
+    {
+     "n": 6,
+     "prompt": "Heard about the centre from: a ________",
+     "answer": [
+      "friend"
+     ],
+     "explanation": "He first says 'a poster at the library' then corrects himself: 'It was a friend from work'.",
+     "trap": "Self-correction — 'poster' is wrong."
+    },
+    {
+     "n": 7,
+     "prompt": "Pool lanes reserved for the club on ________ evenings",
+     "answer": [
+      "Tuesday",
+      "Tuesdays"
+     ],
+     "explanation": "'lanes are reserved for the swimming club on Tuesday evenings'. Days need a capital letter in the real test."
+    },
+    {
+     "n": 8,
+     "prompt": "Free parking: must register car's ________ number",
+     "answer": [
+      "registration"
+     ],
+     "explanation": "'register your car's registration number at reception'."
+    },
+    {
+     "n": 9,
+     "prompt": "Must attend an ________ session (45 minutes)",
+     "answer": [
+      "induction"
+     ],
+     "explanation": "'all new members have to attend an induction session'."
+    },
+    {
+     "n": 10,
+     "prompt": "On first visit, bring a ________",
+     "answer": [
+      "photo",
+      "photograph"
+     ],
+     "explanation": "'please bring a photo for your membership card'."
+    }
+   ]
+  }
+ ]
+}

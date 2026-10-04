@@ -1,0 +1,66 @@
+{
+ "total": 14,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–4",
+   "instructions": "Choose the correct letter, A, B, C or D.",
+   "questions": [
+    {"n": 1, "prompt": "According to the first paragraph, linguists consider a language most at risk when", "options": [
+      {"key": "A", "text": "it has fewer than a few thousand speakers."},
+      {"key": "B", "text": "children no longer learn it."},
+      {"key": "C", "text": "it is spoken only by adults in rural areas."},
+      {"key": "D", "text": "it is not one of the world's hundred largest languages."}],
+     "answer": "B", "explanation": "'Many of these smaller languages are not being learned by children, which linguists regard as the clearest sign that a language is in danger.'", "trap": "A — small size is mentioned, but it is not called 'the clearest sign'."},
+    {"n": 2, "prompt": "What does the writer say about language loss in the past?", "options": [
+      {"key": "A", "text": "It happened mainly as a result of war."},
+      {"key": "B", "text": "It was faster than it is today."},
+      {"key": "C", "text": "It is not a new phenomenon, but its speed now is unusual."},
+      {"key": "D", "text": "It has been fully recorded by historians."}],
+     "answer": "C", "explanation": "'Languages have always died … What is unprecedented … is the current rate of loss.'", "trap": "D — the writer mentions 'countless unrecorded tongues', the opposite."},
+    {"n": 3, "prompt": "The examples of 'left' and 'right' and of witnessing events are used to show", "options": [
+      {"key": "A", "text": "how difficult small languages are to learn."},
+      {"key": "B", "text": "the variety of ways languages can be structured."},
+      {"key": "C", "text": "that some languages are more logical than others."},
+      {"key": "D", "text": "why translation between languages is impossible."}],
+     "answer": "B", "explanation": "They illustrate the scientific argument: each language is 'a distinct solution', showing the 'full range of possible grammatical structures'."},
+    {"n": 4, "prompt": "What do the examples in the final paragraph have in common?", "options": [
+      {"key": "A", "text": "They involved languages used only in religious settings."},
+      {"key": "B", "text": "They were achieved mainly through government funding."},
+      {"key": "C", "text": "They required determined effort by the speakers' communities."},
+      {"key": "D", "text": "They have restored their languages to their former size."}],
+     "answer": "C", "explanation": "'each depended on strong commitment from the communities themselves'."}
+   ]
+  },
+  {
+   "type": "ynng",
+   "range": "5–9",
+   "instructions": "Do the following statements agree with the claims of the writer? Write YES, NO or NOT GIVEN.",
+   "questions": [
+    {"n": 5, "prompt": "Parents who choose to raise their children in a majority language are acting irrationally.", "answer": "NO", "explanation": "The writer says they do so 'often for entirely understandable reasons'."},
+    {"n": 6, "prompt": "Traditional knowledge is usually fully translated before a language disappears.", "answer": "NO", "explanation": "'it is rarely translated in full'."},
+    {"n": 7, "prompt": "The economists' concerns about linguistic diversity deserve to be taken seriously.", "answer": "YES", "explanation": "'These are serious points.' The writer then disagrees with their assumption, but accepts they are serious."},
+    {"n": 8, "prompt": "Being bilingual has been common throughout human history.", "answer": "YES", "explanation": "'bilingualism is the historical norm for most of humanity'."},
+    {"n": 9, "prompt": "Welsh is now spoken by more people than at any time in the past.", "answer": "NOT GIVEN", "explanation": "Welsh has 'stabilised'; nothing is said about current versus historical numbers.", "trap": "'Stabilised' ≠ 'grown to a record level'."}
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "10–14",
+   "instructions": "Complete the summary using the list of words, A–H, below.",
+   "strategy": "With a word box, decide the grammar of the gap first (noun, adjective, plural?) — this usually eliminates half the options.",
+   "options": [
+    {"key": "A", "text": "identity"}, {"key": "B", "text": "trade"}, {"key": "C", "text": "environment"},
+    {"key": "D", "text": "inevitable"}, {"key": "E", "text": "preschools"}, {"key": "F", "text": "ancestors"},
+    {"key": "G", "text": "reversible"}, {"key": "H", "text": "universities"}
+   ],
+   "questions": [
+    {"n": 10, "prompt": "Indigenous communities often hold detailed knowledge of their local ________.", "answer": "C", "explanation": "'detailed understanding of local plants, animals, weather and medicine' = environment."},
+    {"n": 11, "prompt": "For many speakers, language is closely tied to their sense of ________.", "answer": "A", "explanation": "'A third argument … concerns identity.'"},
+    {"n": 12, "prompt": "Some economists argue that fewer languages would make ________ cheaper.", "answer": "B", "explanation": "'a shared language reduces the costs of trade and communication'."},
+    {"n": 13, "prompt": "In New Zealand, Māori is being passed on through special ________.", "answer": "E", "explanation": "'language nests' — preschools.", "trap": "H — universities are not mentioned."},
+    {"n": 14, "prompt": "The writer concludes that language decline is not ________.", "answer": "D", "explanation": "'the decline of a language is not an inevitable process'.", "trap": "G 'reversible' would reverse the meaning: the writer believes decline IS reversible."}
+   ]
+  }
+ ]
+}

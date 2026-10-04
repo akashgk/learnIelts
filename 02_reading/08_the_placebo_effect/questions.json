@@ -1,0 +1,142 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "matching",
+   "range": "1–5",
+   "instructions": "The passage has six paragraphs, A–F. Which paragraph contains the following information? You may use any letter more than once.",
+   "options": [
+    {
+     "key": "A",
+     "text": "Paragraph A"
+    },
+    {
+     "key": "B",
+     "text": "Paragraph B"
+    },
+    {
+     "key": "C",
+     "text": "Paragraph C"
+    },
+    {
+     "key": "D",
+     "text": "Paragraph D"
+    },
+    {
+     "key": "E",
+     "text": "Paragraph E"
+    },
+    {
+     "key": "F",
+     "text": "Paragraph F"
+    }
+   ],
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "an explanation of the origin of a word",
+     "answer": "A",
+     "explanation": "'The word \"placebo\" comes from Latin and means \"I shall please\".'"
+    },
+    {
+     "n": 2,
+     "prompt": "a biological explanation of how a placebo can reduce pain",
+     "answer": "D",
+     "explanation": "Endorphins — 'natural painkilling chemicals' — are released."
+    },
+    {
+     "n": 3,
+     "prompt": "a reason why some improvements may be wrongly attributed to placebos",
+     "answer": "C",
+     "explanation": "Natural cycles and 'regression to the mean' 'can easily be mistaken for a placebo response'."
+    },
+    {
+     "n": 4,
+     "prompt": "an example showing the influence of a practitioner's manner",
+     "answer": "E",
+     "explanation": "'warm, attentive practitioner' vs 'polite but brief'."
+    },
+    {
+     "n": 5,
+     "prompt": "a description of how new medicines are tested",
+     "answer": "B",
+     "explanation": "The controlled trial procedure is described step by step."
+    }
+   ]
+  },
+  {
+   "type": "tfng",
+   "range": "6–9",
+   "instructions": "Do the following statements agree with the information given in the passage? Write TRUE, FALSE or NOT GIVEN.",
+   "questions": [
+    {
+     "n": 6,
+     "prompt": "Placebos have been shown to shrink tumours.",
+     "answer": "FALSE",
+     "explanation": "Paragraph C: the effect is 'largely confined to symptoms that patients report themselves … rather than to measurable conditions such as tumour size'."
+    },
+    {
+     "n": 7,
+     "prompt": "Blocking endorphins weakens the placebo effect on pain.",
+     "answer": "TRUE",
+     "explanation": "Paragraph D: 'the placebo effect is significantly reduced'."
+    },
+    {
+     "n": 8,
+     "prompt": "The nocebo effect is more common in older patients.",
+     "answer": "NOT GIVEN",
+     "explanation": "Age is never mentioned."
+    },
+    {
+     "n": 9,
+     "prompt": "Pills in plain packaging tend to have a weaker placebo effect than branded ones.",
+     "answer": "TRUE",
+     "explanation": "Paragraph E: 'branded tablets outperform those in plain packaging' — the same idea expressed the other way round.",
+     "trap": "Paraphrase reversal: 'A outperforms B' = 'B is weaker than A'."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "range": "10–13",
+   "instructions": "Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+   "questions": [
+    {
+     "n": 10,
+     "prompt": "In which year did Henry Beecher publish his paper?",
+     "answer": [
+      "1955"
+     ],
+     "explanation": "Paragraph B."
+    },
+    {
+     "n": 11,
+     "prompt": "What fraction of patients did Beecher say responded to placebos?",
+     "answer": [
+      "a third",
+      "around a third",
+      "one third"
+     ],
+     "explanation": "Paragraph B: 'around a third of patients'."
+    },
+    {
+     "n": 12,
+     "prompt": "According to the passage, what do illnesses such as colds follow, which explains some improvement without treatment?",
+     "answer": [
+      "natural cycles"
+     ],
+     "explanation": "Paragraph C: 'illnesses follow natural cycles'. Note that 'regression to the mean' (four words) would break the three-word limit — always count."
+    },
+    {
+     "n": 13,
+     "prompt": "What name is given to placebos that patients know are inactive?",
+     "answer": [
+      "open-label",
+      "open-label placebos"
+     ],
+     "explanation": "Paragraph F: 'these \"open-label\" results'. Hyphenated words count as one word."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "total": 10,
+ "instructions": "SECTION 3 · You will hear two students, Maya and Tom, discussing their research project on food waste with their tutor.",
+ "groups": [
+  {
+   "type": "mcq_multi",
+   "range": "21–22",
+   "instructions": "Choose TWO letters, A–E. Which TWO limitations of their research do the students need to discuss?",
+   "strategy": "Section 3 has three speakers who agree, disagree and change their minds. An option only counts if it is CONFIRMED, not just mentioned.",
+   "options": [
+    {"key": "A", "text": "the small number of halls studied"},
+    {"key": "B", "text": "the type of students who answered the questionnaire"},
+    {"key": "C", "text": "the time of year the research took place"},
+    {"key": "D", "text": "some waste not being collected in the correct place"},
+    {"key": "E", "text": "errors in the weighing equipment"}
+   ],
+   "questions": [
+    {"n": [21, 22], "prompt": "Which TWO limitations?", "answer": ["B", "D"], "explanation": "B: replies 'may be the ones who already care about the issue'. D: 'some students didn't use the special bins'. The tutor confirms: 'those are both limitations'. C is raised but rejected — 'the figures were pretty consistent'."}
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "23–26",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {"n": 23, "prompt": "What did Tom find most surprising?", "options": [
+      {"key": "A", "text": "Most waste was food that had never been eaten."}, {"key": "B", "text": "Students threw away large amounts of cooked meals."}, {"key": "C", "text": "Bread was rarely wasted."}],
+     "answer": "A", "explanation": "'It was things like bread and fruit that had gone off before anyone ate them.'"},
+    {"n": 24, "prompt": "When asked to estimate their waste, students", "options": [
+      {"key": "A", "text": "gave accurate figures."}, {"key": "B", "text": "guessed about twice the real amount."}, {"key": "C", "text": "guessed about half the real amount."}],
+     "answer": "C", "explanation": "'the average guess was about half of what we actually measured'.", "trap": "B reverses the relationship."},
+    {"n": 25, "prompt": "The tutor recommends showing the comparison between halls over time in", "options": [
+      {"key": "A", "text": "a table."}, {"key": "B", "text": "a line graph."}, {"key": "C", "text": "a bar chart."}],
+     "answer": "B", "explanation": "'a line graph would be much clearer, because you're showing change over time'."},
+    {"n": 26, "prompt": "Why does the tutor reject a pie chart for food types?", "options": [
+      {"key": "A", "text": "There are too many categories."}, {"key": "B", "text": "It would not show change over time."}, {"key": "C", "text": "It belongs in the appendix."}],
+     "answer": "A", "explanation": "Pie charts are 'hard to read with more than five or six categories'; they have nine."}
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "27–30",
+   "instructions": "Who will write each section of the report? Write A for Maya, B for Tom, C for both Maya and Tom.",
+   "options": [
+    {"key": "A", "text": "Maya"}, {"key": "B", "text": "Tom"}, {"key": "C", "text": "both Maya and Tom"}
+   ],
+   "questions": [
+    {"n": 27, "prompt": "Introduction", "answer": "B", "explanation": "Tom: 'I'm going to write the introduction'."},
+    {"n": 28, "prompt": "Methodology", "answer": "A", "explanation": "Maya: 'I'll do the methodology section'."},
+    {"n": 29, "prompt": "Discussion", "answer": "C", "explanation": "Tutor: 'write the discussion together' and they agree."},
+    {"n": 30, "prompt": "Recommendations", "answer": "B", "explanation": "Tom: 'I could take those'; the tutor approves."}
+   ]
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Travelling abroad can broaden your ________.",
+     "answer": [
+      "horizons"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'horizons'."
+    },
+    {
+     "n": 2,
+     "prompt": "Many students experience culture ________ when they first move abroad.",
+     "answer": [
+      "shock"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'shock'."
+    },
+    {
+     "n": 3,
+     "prompt": "The town struggles to cope with the summer ________ of visitors.",
+     "answer": [
+      "influx"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'influx'."
+    },
+    {
+     "n": 4,
+     "prompt": "Fast-food chains everywhere contribute to cultural ________.",
+     "answer": [
+      "homogenisation"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'homogenisation'."
+    },
+    {
+     "n": 5,
+     "prompt": "The temple is protected as a World ________ Site.",
+     "answer": [
+      "Heritage"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'Heritage'."
+    },
+    {
+     "n": 6,
+     "prompt": "We avoided the crowds by staying somewhere off the beaten ________.",
+     "answer": [
+      "track"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'track'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Choose the correct phrase:",
+     "options": [
+      {
+       "key": "A",
+       "text": "broaden your horizons"
+      },
+      {
+       "key": "B",
+       "text": "widen your horizon lines"
+      },
+      {
+       "key": "C",
+       "text": "enlarge horizons up"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Broaden your horizons."
+    },
+    {
+     "n": 8,
+     "prompt": "A person working abroad long-term is an:",
+     "options": [
+      {
+       "key": "A",
+       "text": "expatriate"
+      },
+      {
+       "key": "B",
+       "text": "expiration"
+      },
+      {
+       "key": "C",
+       "text": "exporter"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Expatriate (expat)."
+    },
+    {
+     "n": 9,
+     "prompt": "Choose the best word: 'Responsible travel to natural areas' is:",
+     "options": [
+      {
+       "key": "A",
+       "text": "eco-tourism"
+      },
+      {
+       "key": "B",
+       "text": "mass tourism"
+      },
+      {
+       "key": "C",
+       "text": "domestic tourism"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Eco-tourism."
+    },
+    {
+     "n": 10,
+     "prompt": "Choose the correct collocation:",
+     "options": [
+      {
+       "key": "A",
+       "text": "an influx of tourists"
+      },
+      {
+       "key": "B",
+       "text": "an inflow on tourists"
+      },
+      {
+       "key": "C",
+       "text": "an influence of tourists"
+      }
+     ],
+     "answer": "A",
+     "explanation": "An influx of + people."
+    }
+   ]
+  }
+ ]
+}

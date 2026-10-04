@@ -1,0 +1,50 @@
+{
+ "total": 10,
+ "instructions": "SECTION 2 · You will hear a coordinator briefing volunteers at a community festival.",
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "11–15",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {"n": 11, "prompt": "More visitors are expected this year mainly because", "options": [
+      {"key": "A", "text": "the weather will be good."}, {"key": "B", "text": "the festival has a new location."}, {"key": "C", "text": "there will be more music."}],
+     "answer": "B", "explanation": "'partly because the weather forecast is good, but mainly because we've moved to the larger site'.", "trap": "'partly … but mainly' — the question asks for the MAIN reason."},
+    {"n": 12, "prompt": "What is different about this year's festival?", "options": [
+      {"key": "A", "text": "It focuses on environmental issues."}, {"key": "B", "text": "It lasts for a whole weekend."}, {"key": "C", "text": "It is free for the first time."}],
+     "answer": "A", "explanation": "'this time the theme is sustainability' — recycling, local food, energy saving."},
+    {"n": 13, "prompt": "Volunteers should sign in at", "options": [
+      {"key": "A", "text": "the main entrance."}, {"key": "B", "text": "the information tent."}, {"key": "C", "text": "the volunteer tent."}],
+     "answer": "C", "explanation": "'Please come to the volunteer tent, not the main entrance'."},
+    {"n": 14, "prompt": "When they sign in, volunteers will receive", "options": [
+      {"key": "A", "text": "a T-shirt and a meal voucher."}, {"key": "B", "text": "a T-shirt and a water bottle."}, {"key": "C", "text": "a radio and a map."}],
+     "answer": "A", "explanation": "'you'll be given a T-shirt … We'll also give you a voucher for a free lunch'."},
+    {"n": 15, "prompt": "In an emergency, volunteers should", "options": [
+      {"key": "A", "text": "call the emergency services."}, {"key": "B", "text": "find a steward."}, {"key": "C", "text": "go to the information tent."}],
+     "answer": "B", "explanation": "'Contact the nearest steward'."}
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "16–20",
+   "instructions": "What does the coordinator say about each team? Choose FIVE answers from the list, A–G.",
+   "strategy": "Two options are extra. Each team is described in order; listen for the specific responsibility, not general words that appear in several descriptions.",
+   "options": [
+    {"key": "A", "text": "will be responsible for money"},
+    {"key": "B", "text": "must have technical knowledge"},
+    {"key": "C", "text": "will collect information for funding"},
+    {"key": "D", "text": "will not be in sole charge of young people"},
+    {"key": "E", "text": "will need appropriate footwear"},
+    {"key": "F", "text": "will work only in the morning"},
+    {"key": "G", "text": "aim to correct a problem from the previous year"}
+   ],
+   "questions": [
+    {"n": 16, "prompt": "Welcome team", "answer": "C", "explanation": "Counting visitors 'because we need accurate figures for our funding applications'."},
+    {"n": 17, "prompt": "Waste team", "answer": "G", "explanation": "'last year a lot of recycling was rejected because it was contaminated'."},
+    {"n": 18, "prompt": "Children's area team", "answer": "D", "explanation": "'You won't be responsible for supervising children on your own'."},
+    {"n": 19, "prompt": "Stage team", "answer": "E", "explanation": "'please wear sensible shoes'.", "trap": "B — 'You don't need technical skills'."},
+    {"n": 20, "prompt": "Information tent team", "answer": "A", "explanation": "'You'll be handling money … collect a cash box'."}
+   ]
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+# The Power of Belief
+
+**A**
+The word 'placebo' comes from Latin and means 'I shall please'. For centuries, doctors used the term to describe treatments given more to comfort patients than to cure them — sugar pills, coloured water, or harmless powders. Such remedies were widely regarded as a kind of benevolent deception. It was not until the middle of the twentieth century, when the randomised controlled trial became the standard method for testing new drugs, that the placebo began to be taken seriously as a scientific phenomenon in its own right.
+
+**B**
+In a controlled trial, patients are randomly divided into two groups: one receives the drug being tested, and the other receives an identical-looking inactive pill. Ideally, neither the patients nor the doctors know who is receiving which, so that their expectations cannot influence the results. If the drug group improves significantly more than the placebo group, the drug is judged effective. What researchers repeatedly observed, however, was that patients in the placebo group also improved — sometimes dramatically. In a much-quoted paper published in 1955, the American anaesthetist Henry Beecher claimed that around a third of patients across a range of conditions responded to placebos.
+
+**C**
+Later analysts have argued that Beecher overstated the case. Many patients improve over time simply because illnesses follow natural cycles: a cold gets better after a week whether or not it is treated, and people tend to seek help when their symptoms are at their worst, so that some improvement afterwards is statistically likely. This tendency, known as 'regression to the mean', can easily be mistaken for a placebo response. Studies that compared placebo groups with groups receiving no treatment at all have generally found that the genuine placebo effect is smaller than Beecher suggested, and that it is largely confined to symptoms that patients report themselves, such as pain, nausea and fatigue, rather than to measurable conditions such as tumour size or blood sugar levels.
+
+**D**
+Within those limits, however, the effect is real and can be measured in the brain. Brain-imaging studies have shown that when people who expect pain relief receive a placebo, their brains release natural painkilling chemicals called endorphins. When these participants are given a drug that blocks endorphins, the placebo effect is significantly reduced. Expectations can also work in the opposite direction. In what is called the 'nocebo' effect, patients who are warned about possible side effects of a treatment are more likely to report experiencing them, even when the treatment they receive is inactive.
+
+**E**
+The context in which a treatment is delivered appears to matter enormously. Studies have found that two placebo pills tend to be more effective than one, that injections produce stronger effects than pills, and that branded tablets outperform those in plain packaging. The behaviour of the doctor matters too. In one experiment involving patients with a painful digestive disorder, those who received placebo treatment from a warm, attentive practitioner reported considerably greater improvement than those treated by a practitioner who was polite but brief.
+
+**F**
+Perhaps most surprisingly, deception may not even be necessary. In several trials, patients were given pills openly described as placebos — 'sugar pills with no active ingredient' — and told that such pills have sometimes produced improvements through mind–body processes. Many still reported feeling better than patients who received no pills. Researchers are cautious about these 'open-label' results, which come from relatively small studies, but they raise an ethical possibility that would have seemed absurd a few decades ago: that doctors might one day prescribe placebos honestly.

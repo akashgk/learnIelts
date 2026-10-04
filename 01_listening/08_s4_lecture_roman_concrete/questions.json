@@ -1,0 +1,24 @@
+{
+ "total": 10,
+ "instructions": "SECTION 4 · You will hear part of a lecture about Roman concrete.",
+ "groups": [
+  {
+   "type": "gap",
+   "range": "31–40",
+   "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+   "strategy": "Look at the words just before and after each gap: they are usually paraphrased, not repeated exactly. E.g. note 'weak at first' ← lecturer 'much weaker … when it's first made'.",
+   "questions": [
+    {"n": 31, "prompt": "Ingredients: lime + volcanic ash from near Pozzuoli, close to the city of ________.", "answer": ["Naples"], "explanation": "'the town of Pozzuoli, near Naples'."},
+    {"n": 32, "prompt": "Bulk made up of chunks of rock or broken ________.", "answer": ["brick", "bricks"], "explanation": "'chunks of rock or broken brick'."},
+    {"n": 33, "prompt": "Pantheon dome: world's largest ________ concrete dome.", "answer": ["unreinforced"], "explanation": "'the largest unreinforced concrete dome in the world'. Hyphen-free single word."},
+    {"n": 34, "prompt": "Lighter rock called ________ used near the top.", "answer": ["pumice"], "explanation": "'they used lighter volcanic rock, called pumice'."},
+    {"n": 35, "prompt": "Marine concrete: seawater reacted with ash to form ________ that strengthen it.", "answer": ["crystals", "minerals"], "explanation": "'form new minerals, including rare crystals that grow in the gaps and reinforce the material'."},
+    {"n": 36, "prompt": "White lumps result from mixing lime while it is ________.", "answer": ["hot"], "explanation": "'mixing the lime while it was still hot'."},
+    {"n": 37, "prompt": "Lime fills cracks, so the concrete can ________ itself.", "answer": ["repair", "heal"], "explanation": "'The concrete, in effect, repairs itself.' Note the base form is needed after 'can'."},
+    {"n": 38, "prompt": "Disadvantage: takes a long time to reach full ________.", "answer": ["strength"], "explanation": "'it takes a long time to reach full strength'."},
+    {"n": 39, "prompt": "Roman lime made at lower ________, so less energy needed.", "answer": ["temperatures", "temperature"], "explanation": "'produced at significantly lower temperatures'."},
+    {"n": 40, "prompt": "Self-healing mixtures being tested for sea ________.", "answer": ["walls"], "explanation": "'for use in sea walls'."}
+   ]
+  }
+ ]
+}

@@ -1,0 +1,172 @@
+{
+ "total": 8,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–8",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "London's pass was ____ expensive than Berlin's.",
+     "options": [
+      {
+       "key": "A",
+       "text": "more"
+      },
+      {
+       "key": "B",
+       "text": "much more"
+      },
+      {
+       "key": "C",
+       "text": "most"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'much' intensifies comparatives: much more expensive."
+    },
+    {
+     "n": 2,
+     "prompt": "Tokyo had ____ highest rate of use.",
+     "options": [
+      {
+       "key": "A",
+       "text": "the"
+      },
+      {
+       "key": "B",
+       "text": "a"
+      },
+      {
+       "key": "C",
+       "text": "more"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Superlatives need 'the'."
+    },
+    {
+     "n": 3,
+     "prompt": "There were ____ visitors in 2020 than in 2018.",
+     "options": [
+      {
+       "key": "A",
+       "text": "less"
+      },
+      {
+       "key": "B",
+       "text": "fewer"
+      },
+      {
+       "key": "C",
+       "text": "lower"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Visitors are countable → fewer."
+    },
+    {
+     "n": 4,
+     "prompt": "The ____ of tourists fell.",
+     "options": [
+      {
+       "key": "A",
+       "text": "amount"
+      },
+      {
+       "key": "B",
+       "text": "number"
+      },
+      {
+       "key": "C",
+       "text": "quantity of much"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Countable → number."
+    },
+    {
+     "n": 5,
+     "prompt": "Sales in 2020 were three times ____ high as in 2000.",
+     "options": [
+      {
+       "key": "A",
+       "text": "as"
+      },
+      {
+       "key": "B",
+       "text": "than"
+      },
+      {
+       "key": "C",
+       "text": "so"
+      }
+     ],
+     "answer": "A",
+     "explanation": "'three times as high as'."
+    },
+    {
+     "n": 6,
+     "prompt": "49% is best described as:",
+     "options": [
+      {
+       "key": "A",
+       "text": "just over half"
+      },
+      {
+       "key": "B",
+       "text": "just under half"
+      },
+      {
+       "key": "C",
+       "text": "a quarter"
+      }
+     ],
+     "answer": "B",
+     "explanation": "49% is just under half."
+    },
+    {
+     "n": 7,
+     "prompt": "Spending on health rose from 4% to 8%. It ____.",
+     "options": [
+      {
+       "key": "A",
+       "text": "doubled"
+      },
+      {
+       "key": "B",
+       "text": "tripled"
+      },
+      {
+       "key": "C",
+       "text": "halved"
+      }
+     ],
+     "answer": "A",
+     "explanation": "4 → 8 = doubled."
+    },
+    {
+     "n": 8,
+     "prompt": "Coal was ____ the largest source of energy.",
+     "options": [
+      {
+       "key": "A",
+       "text": "by far"
+      },
+      {
+       "key": "B",
+       "text": "very"
+      },
+      {
+       "key": "C",
+       "text": "more"
+      }
+     ],
+     "answer": "A",
+     "explanation": "'by far' intensifies superlatives."
+    }
+   ]
+  }
+ ]
+}

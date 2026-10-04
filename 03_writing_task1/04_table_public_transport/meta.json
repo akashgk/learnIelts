@@ -1,0 +1,9 @@
+{
+ "title": "Table · Public Transport in Five Cities",
+ "summary": "Select key features from a table with three variables; compare by column.",
+ "difficulty": "Band 6.5–7.5 target",
+ "topics": ["transport", "cities"],
+ "chart": "table",
+ "minutes": 20,
+ "min_words": 150
+}

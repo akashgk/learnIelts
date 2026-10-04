@@ -1,0 +1,172 @@
+{
+ "total": 8,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–8",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "If governments ____ public transport, fewer people would drive.",
+     "options": [
+      {
+       "key": "A",
+       "text": "improve"
+      },
+      {
+       "key": "B",
+       "text": "improved"
+      },
+      {
+       "key": "C",
+       "text": "will improve"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Second conditional: if + past, would."
+    },
+    {
+     "n": 2,
+     "prompt": "If the city builds more bike lanes, cycling ____ increase.",
+     "options": [
+      {
+       "key": "A",
+       "text": "would"
+      },
+      {
+       "key": "B",
+       "text": "will"
+      },
+      {
+       "key": "C",
+       "text": "had"
+      }
+     ],
+     "answer": "B",
+     "explanation": "First conditional: if + present, will."
+    },
+    {
+     "n": 3,
+     "prompt": "If I ____ harder, I would have passed the exam.",
+     "options": [
+      {
+       "key": "A",
+       "text": "studied"
+      },
+      {
+       "key": "B",
+       "text": "had studied"
+      },
+      {
+       "key": "C",
+       "text": "have studied"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Third conditional: if + past perfect."
+    },
+    {
+     "n": 4,
+     "prompt": "Pollution will continue to rise ____ action is taken.",
+     "options": [
+      {
+       "key": "A",
+       "text": "unless"
+      },
+      {
+       "key": "B",
+       "text": "if"
+      },
+      {
+       "key": "C",
+       "text": "provided"
+      }
+     ],
+     "answer": "A",
+     "explanation": "'unless' = if not."
+    },
+    {
+     "n": 5,
+     "prompt": "If public transport ____ free, more people would use it.",
+     "options": [
+      {
+       "key": "A",
+       "text": "is"
+      },
+      {
+       "key": "B",
+       "text": "were"
+      },
+      {
+       "key": "C",
+       "text": "will be"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Formal second conditional uses 'were' for all persons."
+    },
+    {
+     "n": 6,
+     "prompt": "____ the government to raise taxes, people would spend less. (formal inversion)",
+     "options": [
+      {
+       "key": "A",
+       "text": "Were"
+      },
+      {
+       "key": "B",
+       "text": "Was"
+      },
+      {
+       "key": "C",
+       "text": "If"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Inversion: 'Were the government to…' = If the government were to…"
+    },
+    {
+     "n": 7,
+     "prompt": "You can join the course ____ you have a B2 level.",
+     "options": [
+      {
+       "key": "A",
+       "text": "unless"
+      },
+      {
+       "key": "B",
+       "text": "provided that"
+      },
+      {
+       "key": "C",
+       "text": "otherwise"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'provided that' = only if."
+    },
+    {
+     "n": 8,
+     "prompt": "If water ____ to 100°C, it boils.",
+     "options": [
+      {
+       "key": "A",
+       "text": "is heated"
+      },
+      {
+       "key": "B",
+       "text": "would be heated"
+      },
+      {
+       "key": "C",
+       "text": "will heat"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Zero conditional, scientific fact; passive."
+    }
+   ]
+  }
+ ]
+}

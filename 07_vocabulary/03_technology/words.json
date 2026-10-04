@@ -1,0 +1,111 @@
+[
+ {
+  "word": "cutting-edge",
+  "pos": "adj",
+  "meaning": "the most advanced",
+  "example": "The lab uses cutting-edge equipment.",
+  "collocations": [
+   "cutting-edge technology / research"
+  ]
+ },
+ {
+  "word": "obsolete",
+  "pos": "adj",
+  "meaning": "no longer used because something newer exists",
+  "example": "Fax machines are largely obsolete.",
+  "collocations": [
+   "become / render obsolete"
+  ]
+ },
+ {
+  "word": "automation",
+  "pos": "n",
+  "meaning": "using machines instead of people",
+  "example": "Automation has replaced many factory jobs.",
+  "collocations": [
+   "increased automation"
+  ]
+ },
+ {
+  "word": "breakthrough",
+  "pos": "n",
+  "meaning": "an important discovery",
+  "example": "Scientists made a major breakthrough in battery design.",
+  "collocations": [
+   "make / achieve a breakthrough"
+  ]
+ },
+ {
+  "word": "innovation",
+  "pos": "n",
+  "meaning": "a new idea or method",
+  "example": "Innovation drives economic growth.",
+  "collocations": [
+   "encourage / foster innovation"
+  ]
+ },
+ {
+  "word": "user-friendly",
+  "pos": "adj",
+  "meaning": "easy to use",
+  "example": "The app is very user-friendly.",
+  "collocations": [
+   "user-friendly design / interface"
+  ]
+ },
+ {
+  "word": "privacy",
+  "pos": "n",
+  "meaning": "freedom from others knowing your personal information",
+  "example": "Social networks raise serious privacy concerns.",
+  "collocations": [
+   "invasion of privacy",
+   "privacy concerns"
+  ]
+ },
+ {
+  "word": "screen time",
+  "pos": "n",
+  "meaning": "time spent using a device with a screen",
+  "example": "Doctors recommend limiting children's screen time.",
+  "collocations": [
+   "limit / reduce screen time"
+  ]
+ },
+ {
+  "word": "digital divide",
+  "pos": "n",
+  "meaning": "gap between those with and without access to technology",
+  "example": "Rural schools are on the wrong side of the digital divide.",
+  "collocations": [
+   "bridge / close the digital divide"
+  ]
+ },
+ {
+  "word": "artificial intelligence",
+  "pos": "n",
+  "meaning": "computer systems that perform tasks needing human intelligence",
+  "example": "Artificial intelligence is transforming medicine.",
+  "collocations": [
+   "advances in artificial intelligence"
+  ]
+ },
+ {
+  "word": "addictive",
+  "pos": "adj",
+  "meaning": "making people want more and unable to stop",
+  "example": "Many apps are deliberately addictive.",
+  "collocations": [
+   "highly addictive"
+  ]
+ },
+ {
+  "word": "connectivity",
+  "pos": "n",
+  "meaning": "being connected to the internet / networks",
+  "example": "Connectivity in remote areas has improved.",
+  "collocations": [
+   "internet / mobile connectivity"
+  ]
+ }
+]

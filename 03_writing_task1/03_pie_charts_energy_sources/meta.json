@@ -1,0 +1,9 @@
+{
+ "title": "Pie Charts · Electricity Sources 2000 vs 2020",
+ "summary": "Compare two pie charts; describe a shift from coal to gas and renewables.",
+ "difficulty": "Band 6–7 target",
+ "topics": ["energy", "environment"],
+ "chart": "pie",
+ "minutes": 20,
+ "min_words": 150
+}
