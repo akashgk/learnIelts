@@ -1,6 +1,6 @@
 # Speaking Part 1
 
-Twelve common Part 1 topics. Each has 5 examiner-style questions and natural model answers.
+Twelve common Part 1 topics with 5 examiner-style questions and natural model answers each, plus a **question bank** (`99_question_bank`) of 30 more topics and 92 questions (`question_bank.json` for flashcards).
 
 **Each folder contains** `questions.md` (practise with these first) · `model_answer.md` (answers + useful phrases) · `meta.json` (includes the `questions` array for flashcard or interview modes).
 
@@ -24,3 +24,4 @@ Twelve common Part 1 topics. Each has 5 examiner-style questions and natural mod
 | 10 | **Part 1 · Transport & Travel**<br>5 Part 1 questions on transport & travel with natural model answers. | Band 6–8 models | transport, travel | [questions](10_transport_and_travel/questions.md) · [model_answer](10_transport_and_travel/model_answer.md) |
 | 11 | **Part 1 · Sleep & Daily Routine**<br>5 Part 1 questions on sleep & daily routine with natural model answers. | Band 6–8 models | health, everyday life | [questions](11_sleep_and_daily_routine/questions.md) · [model_answer](11_sleep_and_daily_routine/model_answer.md) |
 | 12 | **Part 1 · Friends**<br>5 Part 1 questions on friends with natural model answers. | Band 6–8 models | people, relationships | [questions](12_friends/questions.md) · [model_answer](12_friends/model_answer.md) |
+| 99 | **Part 1 Question Bank (92 questions)**<br>30 more Part 1 topics with 92 practice questions for flashcards or mock interviews. | All levels | speaking | [questions](99_question_bank/questions.md) |

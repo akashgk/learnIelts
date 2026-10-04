@@ -1,0 +1,212 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Nominalise: 'Unemployment fell sharply.' → 'There was a sharp ____ in unemployment.'",
+     "options": [
+      {
+       "key": "A",
+       "text": "fall"
+      },
+      {
+       "key": "B",
+       "text": "falling"
+      },
+      {
+       "key": "C",
+       "text": "fell"
+      }
+     ],
+     "answer": "A",
+     "explanation": "fall (noun)."
+    },
+    {
+     "n": 2,
+     "prompt": "'reduce' → noun:",
+     "options": [
+      {
+       "key": "A",
+       "text": "reducement"
+      },
+      {
+       "key": "B",
+       "text": "reduction"
+      },
+      {
+       "key": "C",
+       "text": "reducing"
+      }
+     ],
+     "answer": "B",
+     "explanation": "reduction."
+    },
+    {
+     "n": 3,
+     "prompt": "'expand' → noun:",
+     "options": [
+      {
+       "key": "A",
+       "text": "expansion"
+      },
+      {
+       "key": "B",
+       "text": "expandment"
+      },
+      {
+       "key": "C",
+       "text": "expanse"
+      }
+     ],
+     "answer": "A",
+     "explanation": "expansion."
+    },
+    {
+     "n": 4,
+     "prompt": "'available' → noun:",
+     "options": [
+      {
+       "key": "A",
+       "text": "availableness"
+      },
+      {
+       "key": "B",
+       "text": "availability"
+      },
+      {
+       "key": "C",
+       "text": "avail"
+      }
+     ],
+     "answer": "B",
+     "explanation": "availability."
+    },
+    {
+     "n": 5,
+     "prompt": "Which sentence is most academic?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Because cities grew fast, there were problems."
+      },
+      {
+       "key": "B",
+       "text": "Rapid urban growth created a range of problems."
+      },
+      {
+       "key": "C",
+       "text": "Cities grew fast and it was a problem."
+      }
+     ],
+     "answer": "B",
+     "explanation": "Nominalised and concise."
+    },
+    {
+     "n": 6,
+     "prompt": "'important' → noun:",
+     "options": [
+      {
+       "key": "A",
+       "text": "importance"
+      },
+      {
+       "key": "B",
+       "text": "importancy"
+      },
+      {
+       "key": "C",
+       "text": "importantness"
+      }
+     ],
+     "answer": "A",
+     "explanation": "importance."
+    },
+    {
+     "n": 7,
+     "prompt": "Complete: 'The ____ of renewable energy has reduced emissions.' (develop)",
+     "options": [
+      {
+       "key": "A",
+       "text": "develop"
+      },
+      {
+       "key": "B",
+       "text": "developing"
+      },
+      {
+       "key": "C",
+       "text": "development"
+      }
+     ],
+     "answer": "C",
+     "explanation": "development."
+    },
+    {
+     "n": 8,
+     "prompt": "'fail' → noun:",
+     "options": [
+      {
+       "key": "A",
+       "text": "failment"
+      },
+      {
+       "key": "B",
+       "text": "failure"
+      },
+      {
+       "key": "C",
+       "text": "failing"
+      }
+     ],
+     "answer": "B",
+     "explanation": "failure."
+    },
+    {
+     "n": 9,
+     "prompt": "Complete: 'There is growing ____ of climate change.' (aware)",
+     "options": [
+      {
+       "key": "A",
+       "text": "aware"
+      },
+      {
+       "key": "B",
+       "text": "awareness"
+      },
+      {
+       "key": "C",
+       "text": "awarely"
+      }
+     ],
+     "answer": "B",
+     "explanation": "awareness."
+    },
+    {
+     "n": 10,
+     "prompt": "Which noun phrase is correctly formed?",
+     "options": [
+      {
+       "key": "A",
+       "text": "the rapid growth of online shopping"
+      },
+      {
+       "key": "B",
+       "text": "the rapidly growth of online shopping"
+      },
+      {
+       "key": "C",
+       "text": "the rapid grow of online shopping"
+      }
+     ],
+     "answer": "A",
+     "explanation": "adjective + noun + of-phrase."
+    }
+   ]
+  }
+ ]
+}

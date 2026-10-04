@@ -1,0 +1,185 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "tfng",
+   "range": "1–5",
+   "instructions": "Do the following statements agree with the information given in the text? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Most of the world's main food crops rely to some extent on animal pollination.",
+     "answer": "TRUE",
+     "explanation": "Paragraph A: 'Roughly three-quarters … depend, at least in part, on animals to carry pollen'."
+    },
+    {
+     "n": 2,
+     "prompt": "Most bee species live in large colonies.",
+     "answer": "FALSE",
+     "explanation": "Paragraph B: 'The majority of bee species … are wild and solitary'."
+    },
+    {
+     "n": 3,
+     "prompt": "The global number of managed honeybee colonies has fallen since the early 2000s.",
+     "answer": "FALSE",
+     "explanation": "Paragraph C: the total 'has actually risen over the same period'.",
+     "trap": "The heavy winter losses tempt you to say TRUE — but they were replaced."
+    },
+    {
+     "n": 4,
+     "prompt": "Neonicotinoids were banned for outdoor use in the European Union.",
+     "answer": "TRUE",
+     "explanation": "Paragraph D: 'led the European Union to ban their outdoor use in 2018'."
+    },
+    {
+     "n": 5,
+     "prompt": "The Varroa mite originated in North America.",
+     "answer": "NOT GIVEN",
+     "explanation": "The passage says it 'spread around the world', but not where it came from."
+    }
+   ]
+  },
+  {
+   "type": "gap",
+   "range": "6–9",
+   "instructions": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+   "questions": [
+    {
+     "n": 6,
+     "prompt": "Solitary bees often build nests in the ground or in hollow plant ________.",
+     "answer": [
+      "stems"
+     ],
+     "explanation": "Paragraph B: 'in hollow plant stems'."
+    },
+    {
+     "n": 7,
+     "prompt": "Beekeepers replace lost colonies by ________ healthy ones.",
+     "answer": [
+      "splitting"
+     ],
+     "explanation": "Paragraph C: 'by splitting healthy ones'."
+    },
+    {
+     "n": 8,
+     "prompt": "Climate change can cause plants to ________ before bees appear.",
+     "answer": [
+      "bloom"
+     ],
+     "explanation": "Paragraph D: 'some plants now bloom before the bees … have emerged'."
+    },
+    {
+     "n": 9,
+     "prompt": "Leaving strips of ________ beside fields can raise bee numbers and yields.",
+     "answer": [
+      "wildflowers"
+     ],
+     "explanation": "Paragraph F: 'strips of wildflowers along the edges of their fields'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "10–13",
+   "instructions": "Choose the correct letter.",
+   "questions": [
+    {
+     "n": 10,
+     "prompt": "According to paragraph B, recent research suggests that wild bees",
+     "options": [
+      {
+       "key": "A",
+       "text": "are more numerous than honeybees in cities"
+      },
+      {
+       "key": "B",
+       "text": "pollinate more crops than previously thought"
+      },
+      {
+       "key": "C",
+       "text": "are easier to manage than honeybees"
+      },
+      {
+       "key": "D",
+       "text": "are more resistant to disease"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'responsible for a much larger share of crop pollination than was once believed'."
+    },
+    {
+     "n": 11,
+     "prompt": "Why is the situation for wild bees described as more worrying?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They cannot be replaced by people."
+      },
+      {
+       "key": "B",
+       "text": "They are more affected by pesticides."
+      },
+      {
+       "key": "C",
+       "text": "They live in colder climates."
+      },
+      {
+       "key": "D",
+       "text": "They produce no honey."
+      }
+     ],
+     "answer": "A",
+     "explanation": "Paragraph C: 'since nobody is available to replace them'."
+    },
+    {
+     "n": 12,
+     "prompt": "What point does the writer make in paragraph E?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Pesticides are the main cause of decline."
+      },
+      {
+       "key": "B",
+       "text": "Different pressures make each other worse."
+      },
+      {
+       "key": "C",
+       "text": "Disease affects only well-fed bees."
+      },
+      {
+       "key": "D",
+       "text": "The problem has now been solved."
+      }
+     ],
+     "answer": "B",
+     "explanation": "A poorly fed bee is 'more vulnerable to disease' — stresses combine."
+    },
+    {
+     "n": 13,
+     "prompt": "What concern do some experts have about urban beekeeping?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Hives are often damaged in cities."
+      },
+      {
+       "key": "B",
+       "text": "Honeybees may compete with wild bees for food."
+      },
+      {
+       "key": "C",
+       "text": "City honey is of poor quality."
+      },
+      {
+       "key": "D",
+       "text": "Urban bees spread disease to farms."
+      }
+     ],
+     "answer": "B",
+     "explanation": "Paragraph F: hives 'can compete with wild bees for the limited flowers available'."
+    }
+   ]
+  }
+ ]
+}

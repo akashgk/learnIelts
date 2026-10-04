@@ -1,0 +1,212 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Which sentence is correct?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Prices rose, people bought less."
+      },
+      {
+       "key": "B",
+       "text": "Prices rose, so people bought less."
+      },
+      {
+       "key": "C",
+       "text": "Prices rose so, people bought less."
+      }
+     ],
+     "answer": "B",
+     "explanation": "Join two clauses with a conjunction (so), not just a comma."
+    },
+    {
+     "n": 2,
+     "prompt": "Which is a sentence fragment?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Because the rent was too high."
+      },
+      {
+       "key": "B",
+       "text": "They moved because the rent was too high."
+      },
+      {
+       "key": "C",
+       "text": "The rent was too high."
+      }
+     ],
+     "answer": "A",
+     "explanation": "A 'because' clause alone is incomplete."
+    },
+    {
+     "n": 3,
+     "prompt": "Choose the correctly punctuated sentence:",
+     "options": [
+      {
+       "key": "A",
+       "text": "The plan was expensive; however, it was approved."
+      },
+      {
+       "key": "B",
+       "text": "The plan was expensive, however it was approved."
+      },
+      {
+       "key": "C",
+       "text": "The plan was expensive however, it was approved."
+      }
+     ],
+     "answer": "A",
+     "explanation": "Semicolon before mid-sentence 'however', comma after it."
+    },
+    {
+     "n": 4,
+     "prompt": "Choose the correct sentence:",
+     "options": [
+      {
+       "key": "A",
+       "text": "There are three reasons: cost, time and safety."
+      },
+      {
+       "key": "B",
+       "text": "There are three reasons; cost, time and safety."
+      },
+      {
+       "key": "C",
+       "text": "There are three reasons, cost: time and safety."
+      }
+     ],
+     "answer": "A",
+     "explanation": "Colon introduces a list."
+    },
+    {
+     "n": 5,
+     "prompt": "Which needs NO comma?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Students who study abroad gain confidence."
+      },
+      {
+       "key": "B",
+       "text": "My sister, who studies abroad, is confident."
+      },
+      {
+       "key": "C",
+       "text": "However, studying abroad is expensive."
+      }
+     ],
+     "answer": "A",
+     "explanation": "Defining relative clause → no commas."
+    },
+    {
+     "n": 6,
+     "prompt": "Correct the comma splice: 'Cities are growing, housing is scarce.'",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cities are growing, and housing is scarce."
+      },
+      {
+       "key": "B",
+       "text": "Cities are growing housing is scarce."
+      },
+      {
+       "key": "C",
+       "text": "Cities are growing, housing, is scarce."
+      }
+     ],
+     "answer": "A",
+     "explanation": "Add a conjunction (and)."
+    },
+    {
+     "n": 7,
+     "prompt": "Choose the correct sentence:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Although it rained, the match continued."
+      },
+      {
+       "key": "B",
+       "text": "Although it rained the match, continued."
+      },
+      {
+       "key": "C",
+       "text": "Although, it rained the match continued."
+      }
+     ],
+     "answer": "A",
+     "explanation": "Comma after the introductory clause."
+    },
+    {
+     "n": 8,
+     "prompt": "Which is correct?",
+     "options": [
+      {
+       "key": "A",
+       "text": "He argued, that taxes should rise."
+      },
+      {
+       "key": "B",
+       "text": "He argued that taxes should rise."
+      },
+      {
+       "key": "C",
+       "text": "He argued that, taxes should rise."
+      }
+     ],
+     "answer": "B",
+     "explanation": "No comma before a that-clause."
+    },
+    {
+     "n": 9,
+     "prompt": "Which sentence is a run-on (no punctuation between clauses)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Fees rose students protested."
+      },
+      {
+       "key": "B",
+       "text": "Fees rose, and students protested."
+      },
+      {
+       "key": "C",
+       "text": "When fees rose, students protested."
+      }
+     ],
+     "answer": "A",
+     "explanation": "Two clauses with no linker or punctuation."
+    },
+    {
+     "n": 10,
+     "prompt": "Choose the best punctuation: 'Two factors matter most ___ price and location.'",
+     "options": [
+      {
+       "key": "A",
+       "text": ":"
+      },
+      {
+       "key": "B",
+       "text": ";"
+      },
+      {
+       "key": "C",
+       "text": ","
+      }
+     ],
+     "answer": "A",
+     "explanation": "Colon introduces an explanation/list."
+    }
+   ]
+  }
+ ]
+}

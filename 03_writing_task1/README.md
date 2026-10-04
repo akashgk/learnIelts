@@ -1,6 +1,6 @@
 # Writing Task 1
 
-Ten Task 1 prompts covering every visual type: line graph, bar chart, pie charts, table, process (man-made and natural/system), maps (past→present and planned) and mixed charts.
+Fourteen Task 1 prompts covering every visual type: line graph, bar chart, pie charts, table, process (man-made and natural/system), maps (past→present and planned) and mixed charts.
 
 **Each folder contains**
 | File | Purpose |
@@ -28,3 +28,7 @@ Ten Task 1 prompts covering every visual type: line graph, bar chart, pie charts
 | 08 | **Mixed Charts · Tourism Arrivals and Purpose of Visit**<br>Combine a line graph and bar chart; describe a peak, a collapse and a recovery. | Band 7–8 target | tourism, economy | [prompt](08_mixed_line_and_bar_tourism/prompt.md) · [model_answer](08_mixed_line_and_bar_tourism/model_answer.md) |
 | 09 | **Bar Chart · Time Online by Age Group**<br>Describe absolute vs proportional change across five age groups. | Band 7–8 target | technology, society, age | [prompt](09_bar_chart_internet_use_by_age/prompt.md) · [model_answer](09_bar_chart_internet_use_by_age/model_answer.md) |
 | 10 | **Maps · Planned Campus Redevelopment**<br>Describe planned changes using future passive forms. | Band 7–8 target | education, urban planning | [prompt](10_map_campus_redevelopment/prompt.md) · [model_answer](10_map_campus_redevelopment/model_answer.md) |
+| 11 | **Line Graph · House Prices in Three Cities**<br>Describe diverging trends, a peak and a dip; practise approximation language. | Band 6.5–7.5 target | housing, economy, cities | [prompt](11_line_graph_house_prices/prompt.md) · [model_answer](11_line_graph_house_prices/model_answer.md) |
+| 12 | **Process · Life Cycle of a Butterfly**<br>Describe a natural cycle using active verbs and stage vocabulary. | Band 6–7 target | nature, science | [prompt](12_process_butterfly_life_cycle/prompt.md) · [model_answer](12_process_butterfly_life_cycle/model_answer.md) |
+| 13 | **Table · Waste Management in Four Countries**<br>Compare percentages across categories and countries; find the key contrasts. | Band 7–8 target | environment, government | [prompt](13_table_waste_management/prompt.md) · [model_answer](13_table_waste_management/model_answer.md) |
+| 14 | **Bar Chart · Regular Exercise by Age and Gender**<br>Compare two groups across five categories; describe a reversal. | Band 7–8 target | health, society, age | [prompt](14_bar_chart_exercise_by_age_gender/prompt.md) · [model_answer](14_bar_chart_exercise_by_age_gender/model_answer.md) |

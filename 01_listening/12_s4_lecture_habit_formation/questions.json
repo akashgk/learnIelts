@@ -1,0 +1,97 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "31–40",
+   "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+   "questions": [
+    {
+     "n": 31,
+     "prompt": "About ________ per cent of daily actions may be habitual.",
+     "answer": [
+      "40",
+      "forty"
+     ],
+     "explanation": "'perhaps around forty per cent'."
+    },
+    {
+     "n": 32,
+     "prompt": "Habit loop: cue → routine → ________",
+     "answer": [
+      "reward"
+     ],
+     "explanation": "'And finally there's the reward'."
+    },
+    {
+     "n": 33,
+     "prompt": "With habits, control moves to the ________ ganglia.",
+     "answer": [
+      "basal"
+     ],
+     "explanation": "'deeper structures … called the basal ganglia'."
+    },
+    {
+     "n": 34,
+     "prompt": "UCL study: average of ________ days to become automatic.",
+     "answer": [
+      "66",
+      "sixty-six"
+     ],
+     "explanation": "'it took sixty-six days'.",
+     "trap": "21 days is the myth."
+    },
+    {
+     "n": 35,
+     "prompt": "Missing one ________ did not significantly harm progress.",
+     "answer": [
+      "day"
+     ],
+     "explanation": "'missing a single day didn't significantly affect the process'."
+    },
+    {
+     "n": 36,
+     "prompt": "Linking a new behaviour to an old one is called habit ________.",
+     "answer": [
+      "stacking"
+     ],
+     "explanation": "'habit stacking'."
+    },
+    {
+     "n": 37,
+     "prompt": "Keep fruit on the table so it is more ________.",
+     "answer": [
+      "visible"
+     ],
+     "explanation": "'makes it more visible'."
+    },
+    {
+     "n": 38,
+     "prompt": "To break a habit, keep the cue and reward but change the ________.",
+     "answer": [
+      "routine"
+     ],
+     "explanation": "'substitute a different routine'."
+    },
+    {
+     "n": 39,
+     "prompt": "People who had just moved were more likely to use public ________.",
+     "answer": [
+      "transport"
+     ],
+     "explanation": "'start using public transport'."
+    },
+    {
+     "n": 40,
+     "prompt": "Governments should target messages at people in ________.",
+     "answer": [
+      "transitions",
+      "transition"
+     ],
+     "explanation": "'targeting messages at people going through these transitions'."
+    }
+   ],
+   "strategy": "Lectures follow a clear structure. Notice signposts like 'So how can we…', 'Another strategy…', 'Finally…' to keep your place."
+  }
+ ]
+}

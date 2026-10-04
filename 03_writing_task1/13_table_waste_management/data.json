@@ -1,0 +1,41 @@
+{
+ "chart": "table",
+ "title": "Household waste management, 2022 (%)",
+ "columns": [
+  "Country",
+  "Recycled (%)",
+  "Composted (%)",
+  "Incinerated (%)",
+  "Landfill (%)"
+ ],
+ "rows": [
+  [
+   "Country A",
+   48,
+   18,
+   32,
+   2
+  ],
+  [
+   "Country B",
+   27,
+   9,
+   14,
+   50
+  ],
+  [
+   "Country C",
+   35,
+   15,
+   45,
+   5
+  ],
+  [
+   "Country D",
+   12,
+   3,
+   5,
+   80
+  ]
+ ]
+}

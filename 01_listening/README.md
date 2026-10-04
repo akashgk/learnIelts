@@ -1,6 +1,6 @@
 # Listening
 
-Two complete practice tests: **Test A** (items 01–04) and **Test B** (items 05–08). Each test has the four IELTS parts, 10 questions per part, 40 in total.
+Three complete practice tests: **Test A** (items 01–04), **Test B** (05–08) and **Test C** (09–12). Each test has the four IELTS parts, 10 questions per part, 40 in total.
 
 **Each folder contains**
 | File | Purpose |
@@ -28,3 +28,7 @@ Two complete practice tests: **Test A** (items 01–04) and **Test B** (items 05
 | 06 | **Section 2 · Festival Volunteer Briefing** (10 Qs)<br>A coordinator explains rules and roles to festival volunteers — MCQ and matching. | Section 2 · Band 5–6.5 | community, environment, events | [transcript](06_s2_community_festival_volunteers/transcript.md) · [QUESTIONS](06_s2_community_festival_volunteers/QUESTIONS.md) · [SOLUTION](06_s2_community_festival_volunteers/SOLUTION.md) |
 | 07 | **Section 3 · Planning a Cycling Presentation** (10 Qs)<br>Two students plan a presentation on urban cycling policies — MCQ and matching case studies. | Section 3 · Band 6–7.5 | transport, cities, environment, education | [transcript](07_s3_presentation_on_cycling/transcript.md) · [QUESTIONS](07_s3_presentation_on_cycling/QUESTIONS.md) · [SOLUTION](07_s3_presentation_on_cycling/SOLUTION.md) |
 | 08 | **Section 4 · Lecture: Roman Concrete** (10 Qs)<br>Why Roman concrete has lasted 2,000 years and what modern engineers can learn — note completion. | Section 4 · Band 6.5–8 | history, engineering, science, environment | [transcript](08_s4_lecture_roman_concrete/transcript.md) · [QUESTIONS](08_s4_lecture_roman_concrete/QUESTIONS.md) · [SOLUTION](08_s4_lecture_roman_concrete/SOLUTION.md) |
+| 09 | **Section 1 · Homestay Enquiry** (10 Qs)<br>A student phones an agency to arrange a homestay — form completion. | Section 1 · Band 4.5–6 | everyday life, accommodation, education | [transcript](09_s1_homestay_enquiry/transcript.md) · [QUESTIONS](09_s1_homestay_enquiry/QUESTIONS.md) · [SOLUTION](09_s1_homestay_enquiry/SOLUTION.md) |
+| 10 | **Section 2 · The New City Library** (10 Qs)<br>A radio talk about a new library's facilities and floors — MCQ and matching. | Section 2 · Band 5–6.5 | community, cities, education | [transcript](10_s2_new_city_library/transcript.md) · [QUESTIONS](10_s2_new_city_library/QUESTIONS.md) · [SOLUTION](10_s2_new_city_library/SOLUTION.md) |
+| 11 | **Section 3 · Coastal Erosion Field Trip** (10 Qs)<br>Two geography students and a tutor review a field trip and plan their report. | Section 3 · Band 6–7.5 | environment, geography, education | [transcript](11_s3_coastal_field_trip/transcript.md) · [QUESTIONS](11_s3_coastal_field_trip/QUESTIONS.md) · [SOLUTION](11_s3_coastal_field_trip/SOLUTION.md) |
+| 12 | **Section 4 · Lecture: How Habits Form** (10 Qs)<br>A psychology lecture on the habit loop, how long habits take to form and how to change them. | Section 4 · Band 6.5–8 | psychology, health, science | [transcript](12_s4_lecture_habit_formation/transcript.md) · [QUESTIONS](12_s4_lecture_habit_formation/QUESTIONS.md) · [SOLUTION](12_s4_lecture_habit_formation/SOLUTION.md) |

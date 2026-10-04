@@ -1,7 +1,7 @@
 {
  "name": "learnIelts — IELTS Academic practice",
  "schema_version": 1,
- "commit": "02e2620",
+ "commit": "1b026b9",
  "question_types": {
   "tfng": "True / False / Not Given",
   "ynng": "Yes / No / Not Given",
@@ -24,56 +24,56 @@
    "label": "Listening",
    "path": "01_listening",
    "readme": "01_listening/README.md",
-   "count": 8
+   "count": 12
   },
   {
    "key": "reading",
    "label": "Reading",
    "path": "02_reading",
    "readme": "02_reading/README.md",
-   "count": 8
+   "count": 14
   },
   {
    "key": "writing_task1",
    "label": "Writing Task 1",
    "path": "03_writing_task1",
    "readme": "03_writing_task1/README.md",
-   "count": 10
+   "count": 14
   },
   {
    "key": "writing_task2",
    "label": "Writing Task 2",
    "path": "04_writing_task2",
    "readme": "04_writing_task2/README.md",
-   "count": 14
+   "count": 21
   },
   {
    "key": "speaking_part1",
    "label": "Speaking Part 1",
    "path": "05_speaking_part1",
    "readme": "05_speaking_part1/README.md",
-   "count": 12
+   "count": 13
   },
   {
    "key": "speaking_part2_3",
    "label": "Speaking Parts 2 & 3",
    "path": "06_speaking_part2_3",
    "readme": "06_speaking_part2_3/README.md",
-   "count": 12
+   "count": 13
   },
   {
    "key": "vocabulary",
    "label": "Vocabulary",
    "path": "07_vocabulary",
    "readme": "07_vocabulary/README.md",
-   "count": 10
+   "count": 14
   },
   {
    "key": "grammar",
    "label": "Grammar",
    "path": "08_grammar",
    "readme": "08_grammar/README.md",
-   "count": 8
+   "count": 12
   }
  ],
  "items": [
@@ -442,6 +442,145 @@
    ]
   },
   {
+   "id": "01_listening/09_s1_homestay_enquiry",
+   "section": "listening",
+   "slug": "09_s1_homestay_enquiry",
+   "order": 9,
+   "title": "Section 1 · Homestay Enquiry",
+   "summary": "A student phones an agency to arrange a homestay — form completion.",
+   "difficulty": "Section 1 · Band 4.5–6",
+   "topics": [
+    "everyday life",
+    "accommodation",
+    "education"
+   ],
+   "skills": [
+    "form completion",
+    "spelling",
+    "numbers"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "AGENT": "female",
+    "STUDENT": "male"
+   },
+   "test": "Practice Test C",
+   "question_count": 10,
+   "question_types": [
+    "gap"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
+   "id": "01_listening/10_s2_new_city_library",
+   "section": "listening",
+   "slug": "10_s2_new_city_library",
+   "order": 10,
+   "title": "Section 2 · The New City Library",
+   "summary": "A radio talk about a new library's facilities and floors — MCQ and matching.",
+   "difficulty": "Section 2 · Band 5–6.5",
+   "topics": [
+    "community",
+    "cities",
+    "education"
+   ],
+   "skills": [
+    "multiple choice",
+    "matching"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "PRESENTER": "female"
+   },
+   "test": "Practice Test C",
+   "question_count": 10,
+   "question_types": [
+    "matching",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
+   "id": "01_listening/11_s3_coastal_field_trip",
+   "section": "listening",
+   "slug": "11_s3_coastal_field_trip",
+   "order": 11,
+   "title": "Section 3 · Coastal Erosion Field Trip",
+   "summary": "Two geography students and a tutor review a field trip and plan their report.",
+   "difficulty": "Section 3 · Band 6–7.5",
+   "topics": [
+    "environment",
+    "geography",
+    "education"
+   ],
+   "skills": [
+    "multiple choice",
+    "choose two",
+    "matching"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "TUTOR": "female",
+    "JAMES": "male",
+    "PRIYA": "female"
+   },
+   "test": "Practice Test C",
+   "question_count": 10,
+   "question_types": [
+    "matching",
+    "mcq",
+    "mcq_multi"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
+   "id": "01_listening/12_s4_lecture_habit_formation",
+   "section": "listening",
+   "slug": "12_s4_lecture_habit_formation",
+   "order": 12,
+   "title": "Section 4 · Lecture: How Habits Form",
+   "summary": "A psychology lecture on the habit loop, how long habits take to form and how to change them.",
+   "difficulty": "Section 4 · Band 6.5–8",
+   "topics": [
+    "psychology",
+    "health",
+    "science"
+   ],
+   "skills": [
+    "note completion"
+   ],
+   "minutes": 8,
+   "speakers": {
+    "LECTURER": "male"
+   },
+   "test": "Practice Test C",
+   "question_count": 10,
+   "question_types": [
+    "gap"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "transcript.md"
+   ]
+  },
+  {
    "id": "02_reading/01_urban_heat_islands",
    "section": "reading",
    "slug": "01_urban_heat_islands",
@@ -710,6 +849,207 @@
    ]
   },
   {
+   "id": "02_reading/09_the_trouble_with_bees",
+   "section": "reading",
+   "slug": "09_the_trouble_with_bees",
+   "order": 9,
+   "title": "The Trouble with Bees",
+   "summary": "Why pollinators are declining and what it means for food production.",
+   "difficulty": "Passage 1 · Band 5.5–6.5",
+   "topics": [
+    "nature",
+    "food",
+    "environment"
+   ],
+   "skills": [
+    "true/false/not given",
+    "sentence completion",
+    "multiple choice"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "gap",
+    "mcq",
+    "tfng"
+   ],
+   "passage_words": 555,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/10_turning_seawater_into_drinking_water",
+   "section": "reading",
+   "slug": "10_turning_seawater_into_drinking_water",
+   "order": 10,
+   "title": "Fresh Water from the Sea",
+   "summary": "How desalination works and why it remains controversial.",
+   "difficulty": "Passage 2 · Band 6–7",
+   "topics": [
+    "water",
+    "technology",
+    "environment"
+   ],
+   "skills": [
+    "matching headings",
+    "summary completion",
+    "yes/no/not given"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "gap",
+    "matching",
+    "ynng"
+   ],
+   "passage_words": 532,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/11_the_bilingual_brain",
+   "section": "reading",
+   "slug": "11_the_bilingual_brain",
+   "order": 11,
+   "title": "The Bilingual Brain",
+   "summary": "Does speaking two languages change how we think? The evidence and the debate.",
+   "difficulty": "Passage 3 · Band 7–8",
+   "topics": [
+    "language",
+    "psychology",
+    "education"
+   ],
+   "skills": [
+    "multiple choice",
+    "yes/no/not given",
+    "matching sentence endings"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "matching",
+    "mcq",
+    "ynng"
+   ],
+   "passage_words": 577,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/12_london_coffee_houses",
+   "section": "reading",
+   "slug": "12_london_coffee_houses",
+   "order": 12,
+   "title": "The Penny Universities",
+   "summary": "How seventeenth-century coffee houses shaped business, science and news in London.",
+   "difficulty": "Passage 1–2 · Band 6–7",
+   "topics": [
+    "history",
+    "business",
+    "culture"
+   ],
+   "skills": [
+    "true/false/not given",
+    "note completion",
+    "matching features"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "gap",
+    "matching",
+    "tfng"
+   ],
+   "passage_words": 552,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/13_microplastics",
+   "section": "reading",
+   "slug": "13_microplastics",
+   "order": 13,
+   "title": "The Invisible Pollutant",
+   "summary": "Where microplastics come from, where they end up and what we know about their effects.",
+   "difficulty": "Passage 2 · Band 6.5–7.5",
+   "topics": [
+    "environment",
+    "ocean",
+    "health",
+    "science"
+   ],
+   "skills": [
+    "matching information",
+    "choose two",
+    "summary completion",
+    "true/false/not given"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "gap",
+    "matching",
+    "mcq_multi",
+    "tfng"
+   ],
+   "passage_words": 472,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "02_reading/14_animal_navigation",
+   "section": "reading",
+   "slug": "14_animal_navigation",
+   "order": 14,
+   "title": "Finding the Way Home",
+   "summary": "How migrating birds, turtles and insects navigate across thousands of kilometres.",
+   "difficulty": "Passage 3 · Band 7–8",
+   "topics": [
+    "nature",
+    "science",
+    "animals"
+   ],
+   "skills": [
+    "matching features",
+    "sentence completion",
+    "multiple choice"
+   ],
+   "minutes": 20,
+   "question_count": 13,
+   "question_types": [
+    "gap",
+    "matching",
+    "mcq"
+   ],
+   "passage_words": 618,
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "passage.md",
+    "questions.json"
+   ]
+  },
+  {
    "id": "03_writing_task1/01_line_graph_international_students",
    "section": "writing_task1",
    "slug": "01_line_graph_international_students",
@@ -925,6 +1265,96 @@
    "minutes": 20,
    "min_words": 150,
    "model_answer_words": 194,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/11_line_graph_house_prices",
+   "section": "writing_task1",
+   "slug": "11_line_graph_house_prices",
+   "order": 11,
+   "title": "Line Graph · House Prices in Three Cities",
+   "summary": "Describe diverging trends, a peak and a dip; practise approximation language.",
+   "difficulty": "Band 6.5–7.5 target",
+   "topics": [
+    "housing",
+    "economy",
+    "cities"
+   ],
+   "chart": "line",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 175,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/12_process_butterfly_life_cycle",
+   "section": "writing_task1",
+   "slug": "12_process_butterfly_life_cycle",
+   "order": 12,
+   "title": "Process · Life Cycle of a Butterfly",
+   "summary": "Describe a natural cycle using active verbs and stage vocabulary.",
+   "difficulty": "Band 6–7 target",
+   "topics": [
+    "nature",
+    "science"
+   ],
+   "chart": "process",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 187,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/13_table_waste_management",
+   "section": "writing_task1",
+   "slug": "13_table_waste_management",
+   "order": 13,
+   "title": "Table · Waste Management in Four Countries",
+   "summary": "Compare percentages across categories and countries; find the key contrasts.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "environment",
+    "government"
+   ],
+   "chart": "table",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 181,
+   "files": [
+    "data.json",
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "03_writing_task1/14_bar_chart_exercise_by_age_gender",
+   "section": "writing_task1",
+   "slug": "14_bar_chart_exercise_by_age_gender",
+   "order": 14,
+   "title": "Bar Chart · Regular Exercise by Age and Gender",
+   "summary": "Compare two groups across five categories; describe a reversal.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "health",
+    "society",
+    "age"
+   ],
+   "chart": "bar",
+   "minutes": 20,
+   "min_words": 150,
+   "model_answer_words": 193,
    "files": [
     "data.json",
     "model_answer.md",
@@ -1243,6 +1673,172 @@
    ]
   },
   {
+   "id": "04_writing_task2/15_opinion_ban_cars_city_centres",
+   "section": "writing_task2",
+   "slug": "15_opinion_ban_cars_city_centres",
+   "order": 15,
+   "title": "Opinion · Ban Private Cars from City Centres?",
+   "summary": "Partly agree essay with a phased, conditional position.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "transport",
+    "cities",
+    "environment"
+   ],
+   "essay_type": "opinion",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 291,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/16_discussion_online_vs_classroom_learning",
+   "section": "writing_task2",
+   "slug": "16_discussion_online_vs_classroom_learning",
+   "order": 16,
+   "title": "Discussion · Online vs Classroom Learning",
+   "summary": "Discuss both views and give a clear opinion favouring a blended approach.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "education",
+    "technology"
+   ],
+   "essay_type": "discussion",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 297,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/17_adv_disadv_ageing_population",
+   "section": "writing_task2",
+   "slug": "17_adv_disadv_ageing_population",
+   "order": 17,
+   "title": "Advantages & Disadvantages · An Ageing Population",
+   "summary": "Balanced effects of an ageing society on the economy and families.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "society",
+    "economy",
+    "health",
+    "age"
+   ],
+   "essay_type": "advantages_disadvantages",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 281,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/18_problem_solution_youth_unemployment",
+   "section": "writing_task2",
+   "slug": "18_problem_solution_youth_unemployment",
+   "order": 18,
+   "title": "Causes & Solutions · Youth Unemployment",
+   "summary": "Explain why young people struggle to find work and propose targeted measures.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "work",
+    "economy",
+    "young people",
+    "education"
+   ],
+   "essay_type": "problem_solution",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 281,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/19_two_part_shopping_online",
+   "section": "writing_task2",
+   "slug": "19_two_part_shopping_online",
+   "order": 19,
+   "title": "Two-part Question · The Shift to Online Shopping",
+   "summary": "Explain why online shopping is growing and evaluate its effect on town centres.",
+   "difficulty": "Band 7–8 target",
+   "topics": [
+    "technology",
+    "business",
+    "cities"
+   ],
+   "essay_type": "two_part",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 282,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/20_opinion_space_exploration_spending",
+   "section": "writing_task2",
+   "slug": "20_opinion_space_exploration_spending",
+   "order": 20,
+   "title": "Opinion · Is Space Exploration Worth the Money?",
+   "summary": "Disagree essay defending space spending with concrete benefits.",
+   "difficulty": "Band 7.5–8.5 target",
+   "topics": [
+    "science",
+    "government",
+    "economy"
+   ],
+   "essay_type": "opinion",
+   "minutes": 40,
+   "min_words": 250,
+   "model_answer_words": 271,
+   "files": [
+    "model_answer.md",
+    "prompt.md"
+   ]
+  },
+  {
+   "id": "04_writing_task2/99_prompt_bank",
+   "section": "writing_task2",
+   "slug": "99_prompt_bank",
+   "order": 99,
+   "title": "Task 2 Prompt Bank (60 questions)",
+   "summary": "60 extra Task 2 prompts across all essay types and topics, with a self-assessment checklist.",
+   "difficulty": "All levels",
+   "topics": [
+    "cities",
+    "crime",
+    "culture",
+    "education",
+    "environment",
+    "food",
+    "globalisation",
+    "government",
+    "health",
+    "media",
+    "society",
+    "sport",
+    "technology",
+    "tourism",
+    "work"
+   ],
+   "minutes": 40,
+   "min_words": 250,
+   "prompt_count": 60,
+   "files": [
+    "prompts.json",
+    "prompts.md"
+   ]
+  },
+  {
    "id": "05_speaking_part1/01_work_or_study",
    "section": "speaking_part1",
    "slug": "01_work_or_study",
@@ -1550,6 +2146,24 @@
    "model_answer_words": 147,
    "files": [
     "model_answer.md",
+    "questions.md"
+   ]
+  },
+  {
+   "id": "05_speaking_part1/99_question_bank",
+   "section": "speaking_part1",
+   "slug": "99_question_bank",
+   "order": 99,
+   "title": "Part 1 Question Bank (92 questions)",
+   "summary": "30 more Part 1 topics with 92 practice questions for flashcards or mock interviews.",
+   "difficulty": "All levels",
+   "topics": [
+    "speaking"
+   ],
+   "minutes": 15,
+   "question_count_spoken": 92,
+   "files": [
+    "question_bank.json",
     "questions.md"
    ]
   },
@@ -1951,6 +2565,24 @@
    ]
   },
   {
+   "id": "06_speaking_part2_3/99_cue_card_bank",
+   "section": "speaking_part2_3",
+   "slug": "99_cue_card_bank",
+   "order": 99,
+   "title": "Cue Card Bank (24 cards)",
+   "summary": "24 extra Part 2 cue cards with 72 linked Part 3 questions.",
+   "difficulty": "All levels",
+   "topics": [
+    "speaking"
+   ],
+   "minutes": 10,
+   "card_count": 24,
+   "files": [
+    "cue_cards.json",
+    "cue_cards.md"
+   ]
+  },
+  {
    "id": "07_vocabulary/01_environment",
    "section": "vocabulary",
    "slug": "01_environment",
@@ -2215,6 +2847,114 @@
    ]
   },
   {
+   "id": "07_vocabulary/11_crime_and_law",
+   "section": "vocabulary",
+   "slug": "11_crime_and_law",
+   "order": 11,
+   "title": "Crime & Law",
+   "summary": "12 high-value words for crime & law essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "crime",
+    "government"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "07_vocabulary/12_food_and_agriculture",
+   "section": "vocabulary",
+   "slug": "12_food_and_agriculture",
+   "order": 12,
+   "title": "Food & Agriculture",
+   "summary": "12 high-value words for food & agriculture essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "food",
+    "environment"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "07_vocabulary/13_arts_and_culture",
+   "section": "vocabulary",
+   "slug": "13_arts_and_culture",
+   "order": 13,
+   "title": "Arts & Culture",
+   "summary": "12 high-value words for arts & culture essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "arts",
+    "culture"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
+   "id": "07_vocabulary/14_linking_words_cohesion",
+   "section": "vocabulary",
+   "slug": "14_linking_words_cohesion",
+   "order": 14,
+   "title": "Linking Words & Cohesion",
+   "summary": "12 high-value words for linking words & cohesion essays and speaking, with collocations and exercises.",
+   "difficulty": "Band 6–8",
+   "topics": [
+    "writing",
+    "cohesion"
+   ],
+   "minutes": 15,
+   "word_count": 12,
+   "question_count": 10,
+   "question_types": [
+    "gap",
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "questions.json",
+    "word_list.md",
+    "words.json"
+   ]
+  },
+  {
    "id": "08_grammar/01_articles",
    "section": "grammar",
    "slug": "01_articles",
@@ -2397,10 +3137,102 @@
     "lesson.md",
     "questions.json"
    ]
+  },
+  {
+   "id": "08_grammar/09_hedging_and_modal_verbs",
+   "section": "grammar",
+   "slug": "09_hedging_and_modal_verbs",
+   "order": 9,
+   "title": "Hedging & Modal Verbs",
+   "summary": "Soften claims like an academic writer: may, might, could, tend to, it is likely that.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 10,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "08_grammar/10_gerunds_and_infinitives",
+   "section": "grammar",
+   "slug": "10_gerunds_and_infinitives",
+   "order": 10,
+   "title": "Gerunds & Infinitives",
+   "summary": "Choose -ing or to + verb after common verbs, adjectives and prepositions.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 10,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "08_grammar/11_sentence_boundaries_and_punctuation",
+   "section": "grammar",
+   "slug": "11_sentence_boundaries_and_punctuation",
+   "order": 11,
+   "title": "Sentence Boundaries & Punctuation",
+   "summary": "Avoid comma splices and fragments; use commas, semicolons and colons correctly.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 10,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
+  },
+  {
+   "id": "08_grammar/12_nominalisation_and_noun_phrases",
+   "section": "grammar",
+   "slug": "12_nominalisation_and_noun_phrases",
+   "order": 12,
+   "title": "Nominalisation & Noun Phrases",
+   "summary": "Turn verbs and adjectives into nouns to write in a concise, academic style.",
+   "difficulty": "Band 5.5–7.5",
+   "topics": [
+    "grammar"
+   ],
+   "minutes": 15,
+   "question_count": 10,
+   "question_types": [
+    "mcq"
+   ],
+   "files": [
+    "QUESTIONS.md",
+    "SOLUTION.md",
+    "lesson.md",
+    "questions.json"
+   ]
   }
  ],
  "totals": {
-  "items": 87,
-  "objective_questions": 349
+  "items": 118,
+  "objective_questions": 547
  }
 }

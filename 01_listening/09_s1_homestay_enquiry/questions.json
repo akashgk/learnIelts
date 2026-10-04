@@ -1,0 +1,100 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–10",
+   "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Name: Marco ________",
+     "answer": [
+      "Ferretti"
+     ],
+     "explanation": "Spelled F-E-R-R-E-T-T-I."
+    },
+    {
+     "n": 2,
+     "prompt": "Age: ________",
+     "answer": [
+      "23",
+      "twenty-three"
+     ],
+     "explanation": "'I'm twenty-three.'"
+    },
+    {
+     "n": 3,
+     "prompt": "Arrival date: ________ September",
+     "answer": [
+      "6",
+      "6th",
+      "sixth"
+     ],
+     "explanation": "He first mentions the eighth, then changes to 'the sixth of September'.",
+     "trap": "8th is the course start date."
+    },
+    {
+     "n": 4,
+     "prompt": "Length of homestay: ________ weeks",
+     "answer": [
+      "10",
+      "ten"
+     ],
+     "explanation": "Course is twelve weeks but he wants 'ten weeks with the family'.",
+     "trap": "12 is the course length."
+    },
+    {
+     "n": 5,
+     "prompt": "Diet: vegetarian, but eats ________",
+     "answer": [
+      "fish"
+     ],
+     "explanation": "'I don't eat meat, but I do eat fish.'"
+    },
+    {
+     "n": 6,
+     "prompt": "Allergy: ________",
+     "answer": [
+      "cats"
+     ],
+     "explanation": "'I'm allergic to cats.' Dogs are fine."
+    },
+    {
+     "n": 7,
+     "prompt": "Cost per week: £________",
+     "answer": [
+      "165"
+     ],
+     "explanation": "'one hundred and sixty-five pounds a week'."
+    },
+    {
+     "n": 8,
+     "prompt": "Preference: within ________ distance of the school",
+     "answer": [
+      "walking"
+     ],
+     "explanation": "'within walking distance of the school'."
+    },
+    {
+     "n": 9,
+     "prompt": "Family details sent by email within ________ working days",
+     "answer": [
+      "5",
+      "five"
+     ],
+     "explanation": "'within five working days'."
+    },
+    {
+     "n": 10,
+     "prompt": "Will be met at the ________ station",
+     "answer": [
+      "coach"
+     ],
+     "explanation": "'meet you at the coach station'."
+    }
+   ],
+   "strategy": "Listen for changes of mind ('I was going to say… but actually…'). Numbers often appear twice — the second one is usually the answer."
+  }
+ ]
+}

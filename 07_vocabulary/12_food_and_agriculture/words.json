@@ -1,0 +1,111 @@
+[
+ {
+  "word": "staple",
+  "pos": "n/adj",
+  "meaning": "a basic, main food",
+  "example": "Rice is the staple food for half the world.",
+  "collocations": [
+   "staple food / crop / diet"
+  ]
+ },
+ {
+  "word": "food security",
+  "pos": "n",
+  "meaning": "reliable access to enough affordable, nutritious food",
+  "example": "Droughts threaten food security in the region.",
+  "collocations": [
+   "ensure / threaten food security"
+  ]
+ },
+ {
+  "word": "organic",
+  "pos": "adj",
+  "meaning": "produced without artificial chemicals",
+  "example": "Organic vegetables are often more expensive.",
+  "collocations": [
+   "organic farming / produce"
+  ]
+ },
+ {
+  "word": "yield",
+  "pos": "n/v",
+  "meaning": "the amount produced by a crop",
+  "example": "New varieties have increased wheat yields.",
+  "collocations": [
+   "crop yields",
+   "high-yield"
+  ]
+ },
+ {
+  "word": "intensive farming",
+  "pos": "n",
+  "meaning": "farming that maximises output from land",
+  "example": "Intensive farming can damage soil.",
+  "collocations": [
+   "intensive farming methods"
+  ]
+ },
+ {
+  "word": "processed food",
+  "pos": "n",
+  "meaning": "food changed by industrial methods",
+  "example": "Processed food is often high in salt.",
+  "collocations": [
+   "highly processed food"
+  ]
+ },
+ {
+  "word": "malnutrition",
+  "pos": "n",
+  "meaning": "poor health caused by a lack of proper food",
+  "example": "Malnutrition affects millions of children.",
+  "collocations": [
+   "suffer from malnutrition"
+  ]
+ },
+ {
+  "word": "pesticide",
+  "pos": "n",
+  "meaning": "a chemical used to kill insects or pests",
+  "example": "Pesticide use is linked to declining bee numbers.",
+  "collocations": [
+   "pesticide use / residues"
+  ]
+ },
+ {
+  "word": "livestock",
+  "pos": "n",
+  "meaning": "farm animals",
+  "example": "Livestock farming produces significant emissions.",
+  "collocations": [
+   "raise / rear livestock"
+  ]
+ },
+ {
+  "word": "genetically modified",
+  "pos": "adj",
+  "meaning": "having altered DNA",
+  "example": "Genetically modified crops can resist drought.",
+  "collocations": [
+   "genetically modified (GM) crops"
+  ]
+ },
+ {
+  "word": "self-sufficient",
+  "pos": "adj",
+  "meaning": "able to produce all you need",
+  "example": "The country is self-sufficient in rice.",
+  "collocations": [
+   "self-sufficient in food"
+  ]
+ },
+ {
+  "word": "food miles",
+  "pos": "n",
+  "meaning": "the distance food travels from farm to consumer",
+  "example": "Buying local produce reduces food miles.",
+  "collocations": [
+   "reduce food miles"
+  ]
+ }
+]

@@ -1,0 +1,25 @@
+{
+ "title": "Task 2 Prompt Bank (60 questions)",
+ "summary": "60 extra Task 2 prompts across all essay types and topics, with a self-assessment checklist.",
+ "difficulty": "All levels",
+ "topics": [
+  "cities",
+  "crime",
+  "culture",
+  "education",
+  "environment",
+  "food",
+  "globalisation",
+  "government",
+  "health",
+  "media",
+  "society",
+  "sport",
+  "technology",
+  "tourism",
+  "work"
+ ],
+ "minutes": 40,
+ "min_words": 250,
+ "prompt_count": 60
+}

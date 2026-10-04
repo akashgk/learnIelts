@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Maize is a ________ crop in many African countries.",
+     "answer": [
+      "staple"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'staple'."
+    },
+    {
+     "n": 2,
+     "prompt": "Better irrigation has improved crop ________.",
+     "answer": [
+      "yields"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'yields'."
+    },
+    {
+     "n": 3,
+     "prompt": "A lack of vitamins can lead to ________.",
+     "answer": [
+      "malnutrition"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'malnutrition'."
+    },
+    {
+     "n": 4,
+     "prompt": "Cattle, sheep and pigs are all ________.",
+     "answer": [
+      "livestock"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'livestock'."
+    },
+    {
+     "n": 5,
+     "prompt": "Buying locally grown food reduces food ________.",
+     "answer": [
+      "miles"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'miles'."
+    },
+    {
+     "n": 6,
+     "prompt": "The country is now ________-sufficient in wheat.",
+     "answer": [
+      "self"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'self'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Choose the correct collocation:",
+     "options": [
+      {
+       "key": "A",
+       "text": "ensure food security"
+      },
+      {
+       "key": "B",
+       "text": "make food security"
+      },
+      {
+       "key": "C",
+       "text": "do food security"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Ensure / guarantee food security."
+    },
+    {
+     "n": 8,
+     "prompt": "'Organic' food is produced:",
+     "options": [
+      {
+       "key": "A",
+       "text": "without artificial chemicals"
+      },
+      {
+       "key": "B",
+       "text": "in factories"
+      },
+      {
+       "key": "C",
+       "text": "only in summer"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Organic = no synthetic pesticides or fertilisers."
+    },
+    {
+     "n": 9,
+     "prompt": "Which word means farm animals?",
+     "options": [
+      {
+       "key": "A",
+       "text": "livestock"
+      },
+      {
+       "key": "B",
+       "text": "livelihood"
+      },
+      {
+       "key": "C",
+       "text": "lifestyle"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Livestock."
+    },
+    {
+     "n": 10,
+     "prompt": "Choose the correct phrase:",
+     "options": [
+      {
+       "key": "A",
+       "text": "highly processed food"
+      },
+      {
+       "key": "B",
+       "text": "strongly processed food"
+      },
+      {
+       "key": "C",
+       "text": "heavily process food"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Highly processed food."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "________ the high cost, many families choose private schools. (+ noun)",
+     "answer": [
+      "Despite"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'Despite'."
+    },
+    {
+     "n": 2,
+     "prompt": "________ it was expensive, they bought the house. (+ clause)",
+     "answer": [
+      "Although"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'Although'."
+    },
+    {
+     "n": 3,
+     "prompt": "Sales rose in the north, ________ they fell in the south.",
+     "answer": [
+      "whereas"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'whereas'."
+    },
+    {
+     "n": 4,
+     "prompt": "The roads were closed ________ to heavy snow.",
+     "answer": [
+      "due"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'due'."
+    },
+    {
+     "n": 5,
+     "prompt": "The project will succeed ________ that the government continues funding.",
+     "answer": [
+      "provided"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'provided'."
+    },
+    {
+     "n": 6,
+     "prompt": "Prices increased sharply. ________, demand fell.",
+     "answer": [
+      "Consequently"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'Consequently'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Which is grammatically correct?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Despite it was cold, we went out."
+      },
+      {
+       "key": "B",
+       "text": "Despite the cold, we went out."
+      },
+      {
+       "key": "C",
+       "text": "Despite of the cold, we went out."
+      }
+     ],
+     "answer": "B",
+     "explanation": "Despite + noun. Never 'despite of' or 'despite + clause'."
+    },
+    {
+     "n": 8,
+     "prompt": "Which linker introduces an example?",
+     "options": [
+      {
+       "key": "A",
+       "text": "for instance"
+      },
+      {
+       "key": "B",
+       "text": "nevertheless"
+      },
+      {
+       "key": "C",
+       "text": "whereas"
+      }
+     ],
+     "answer": "A",
+     "explanation": "For instance = for example."
+    },
+    {
+     "n": 9,
+     "prompt": "Which is correct?",
+     "options": [
+      {
+       "key": "A",
+       "text": "However the plan failed."
+      },
+      {
+       "key": "B",
+       "text": "However, the plan failed."
+      },
+      {
+       "key": "C",
+       "text": "The plan, however failed."
+      }
+     ],
+     "answer": "B",
+     "explanation": "Sentence-initial 'However' needs a comma."
+    },
+    {
+     "n": 10,
+     "prompt": "'Nevertheless' is closest in meaning to:",
+     "options": [
+      {
+       "key": "A",
+       "text": "therefore"
+      },
+      {
+       "key": "B",
+       "text": "in spite of this"
+      },
+      {
+       "key": "C",
+       "text": "for example"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Nevertheless = in spite of this."
+    }
+   ]
+  }
+ ]
+}

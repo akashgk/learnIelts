@@ -1,0 +1,180 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "11–15",
+   "instructions": "Choose the correct letter.",
+   "questions": [
+    {
+     "n": 11,
+     "prompt": "Why was the library built on the old bus depot site?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It was close to the city centre."
+      },
+      {
+       "key": "B",
+       "text": "The council already owned the land."
+      },
+      {
+       "key": "C",
+       "text": "It was near the railway station."
+      }
+     ],
+     "answer": "B",
+     "explanation": "'the land was already owned by the city, which saved a great deal of money'.",
+     "trap": "C is a benefit mentioned afterwards, not the reason for choosing it."
+    },
+    {
+     "n": 12,
+     "prompt": "What is special about the library's opening hours?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It opens earlier than other libraries."
+      },
+      {
+       "key": "B",
+       "text": "It is open every day of the year."
+      },
+      {
+       "key": "C",
+       "text": "It stays open later than others in the region."
+      }
+     ],
+     "answer": "C",
+     "explanation": "'later than any other public library in the region'."
+    },
+    {
+     "n": 13,
+     "prompt": "What do new members need to bring?",
+     "options": [
+      {
+       "key": "A",
+       "text": "proof of address"
+      },
+      {
+       "key": "B",
+       "text": "a photograph"
+      },
+      {
+       "key": "C",
+       "text": "a student card"
+      }
+     ],
+     "answer": "A",
+     "explanation": "'bring proof of your address'. A photo is NOT needed — staff take one."
+    },
+    {
+     "n": 14,
+     "prompt": "Which environmental feature does the speaker find most impressive?",
+     "options": [
+      {
+       "key": "A",
+       "text": "solar panels"
+      },
+      {
+       "key": "B",
+       "text": "a rainwater system"
+      },
+      {
+       "key": "C",
+       "text": "natural lighting"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'Most impressive … is the roof, which collects rainwater'."
+    },
+    {
+     "n": 15,
+     "prompt": "Tickets for the author's talk",
+     "options": [
+      {
+       "key": "A",
+       "text": "cost a small fee."
+      },
+      {
+       "key": "B",
+       "text": "must be reserved online."
+      },
+      {
+       "key": "C",
+       "text": "are available at the main desk."
+      }
+     ],
+     "answer": "B",
+     "explanation": "'free but must be booked online'."
+    }
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "16–20",
+   "instructions": "What can visitors find or do on each floor? Choose FIVE answers from the list, A–G.",
+   "questions": [
+    {
+     "n": 16,
+     "prompt": "Ground floor",
+     "answer": "E",
+     "explanation": "Newspapers and magazines 'from around the world' = international publications."
+    },
+    {
+     "n": 17,
+     "prompt": "First floor",
+     "answer": "B",
+     "explanation": "Homework clubs after school for older children."
+    },
+    {
+     "n": 18,
+     "prompt": "Second floor",
+     "answer": "F",
+     "explanation": "'library of things' — tools, sewing machines, camping equipment."
+    },
+    {
+     "n": 19,
+     "prompt": "Third floor",
+     "answer": "A",
+     "explanation": "'strictly silent — no phone calls'."
+    },
+    {
+     "n": 20,
+     "prompt": "Top floor",
+     "answer": "C",
+     "explanation": "'you'll need to make an appointment in advance'."
+    }
+   ],
+   "options": [
+    {
+     "key": "A",
+     "text": "a place where phone use is not allowed"
+    },
+    {
+     "key": "B",
+     "text": "help with schoolwork"
+    },
+    {
+     "key": "C",
+     "text": "materials that require booking before viewing"
+    },
+    {
+     "key": "D",
+     "text": "a computer suite"
+    },
+    {
+     "key": "E",
+     "text": "international publications"
+    },
+    {
+     "key": "F",
+     "text": "non-book items to borrow"
+    },
+    {
+     "key": "G",
+     "text": "an exhibition space"
+    }
+   ]
+  }
+ ]
+}

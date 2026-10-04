@@ -1,0 +1,201 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "matching",
+   "range": "1–4",
+   "instructions": "Match each finding with the correct researcher, A–C. You may use any letter more than once.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "showed that birds learn which part of the night sky stays fixed",
+     "answer": "B",
+     "explanation": "Emlen's indigo buntings learned 'the point around which the night sky appears to rotate'."
+    },
+    {
+     "n": 2,
+     "prompt": "changed the apparent direction of a light source to test birds' responses",
+     "answer": "A",
+     "explanation": "Kramer 'used mirrors to shift the apparent position of the sun'."
+    },
+    {
+     "n": 3,
+     "prompt": "found evidence of an inherited map based on magnetism",
+     "answer": "C",
+     "explanation": "Lohmann's turtle experiments."
+    },
+    {
+     "n": 4,
+     "prompt": "observed that birds lost their sense of direction in cloudy weather",
+     "answer": "A",
+     "explanation": "Kramer's starlings 'became disoriented under overcast skies'."
+    }
+   ],
+   "options": [
+    {
+     "key": "A",
+     "text": "Gustav Kramer"
+    },
+    {
+     "key": "B",
+     "text": "Stephen Emlen"
+    },
+    {
+     "key": "C",
+     "text": "Kenneth Lohmann"
+    }
+   ]
+  },
+  {
+   "type": "gap",
+   "range": "5–9",
+   "instructions": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+   "questions": [
+    {
+     "n": 5,
+     "prompt": "Using the sun as a compass requires an internal ________.",
+     "answer": [
+      "clock"
+     ],
+     "explanation": "'this requires an internal clock'."
+    },
+    {
+     "n": 6,
+     "prompt": "Each location on Earth has a distinctive magnetic ________.",
+     "answer": [
+      "signature"
+     ],
+     "explanation": "'a distinctive magnetic \"signature\"'."
+    },
+    {
+     "n": 7,
+     "prompt": "One theory suggests birds detect magnetism through a protein called ________ in the eye.",
+     "answer": [
+      "cryptochrome"
+     ],
+     "explanation": "Paragraph 4."
+    },
+    {
+     "n": 8,
+     "prompt": "Shearwaters may use ________ carried by the wind to find their colonies.",
+     "answer": [
+      "odours",
+      "odors"
+     ],
+     "explanation": "'use odours carried by the wind'."
+    },
+    {
+     "n": 9,
+     "prompt": "Young birds that are blown off course often fail to ________ for it.",
+     "answer": [
+      "correct"
+     ],
+     "explanation": "'they often fail to correct for it'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "10–13",
+   "instructions": "Choose the correct letter.",
+   "questions": [
+    {
+     "n": 10,
+     "prompt": "Why is a compass alone 'not enough for true navigation'?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It does not work at night."
+      },
+      {
+       "key": "B",
+       "text": "It does not show the animal's position relative to its goal."
+      },
+      {
+       "key": "C",
+       "text": "It can be affected by magnetic fields."
+      },
+      {
+       "key": "D",
+       "text": "Young animals cannot learn to use it."
+      }
+     ],
+     "answer": "B",
+     "explanation": "An animal also needs 'a way of knowing where it is in relation to its goal'."
+    },
+    {
+     "n": 11,
+     "prompt": "What does the writer say about the two theories of magnetic detection?",
+     "options": [
+      {
+       "key": "A",
+       "text": "One has been disproved."
+      },
+      {
+       "key": "B",
+       "text": "Both may be correct."
+      },
+      {
+       "key": "C",
+       "text": "Neither involves the eye."
+      },
+      {
+       "key": "D",
+       "text": "They apply only to turtles."
+      }
+     ],
+     "answer": "B",
+     "explanation": "'The two mechanisms are not mutually exclusive'."
+    },
+    {
+     "n": 12,
+     "prompt": "Experiments with homing pigeons suggest that",
+     "options": [
+      {
+       "key": "A",
+       "text": "smell helps them navigate from unfamiliar places."
+      },
+      {
+       "key": "B",
+       "text": "they rely mainly on the stars."
+      },
+      {
+       "key": "C",
+       "text": "they cannot detect magnetic fields."
+      },
+      {
+       "key": "D",
+       "text": "blocking smell has no effect."
+      }
+     ],
+     "answer": "A",
+     "explanation": "Pigeons with blocked smell 'have greater difficulty returning home from unfamiliar release sites'."
+    },
+    {
+     "n": 13,
+     "prompt": "Why does the writer mention artificial lighting in the final paragraph?",
+     "options": [
+      {
+       "key": "A",
+       "text": "to explain how scientists study birds at night"
+      },
+      {
+       "key": "B",
+       "text": "to show human activity may disrupt navigation"
+      },
+      {
+       "key": "C",
+       "text": "to suggest birds prefer cities"
+      },
+      {
+       "key": "D",
+       "text": "to describe a new navigation method"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Human factors 'may all interfere with the cues on which migrating animals depend'."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "21–24",
+   "instructions": "Choose the correct letter.",
+   "questions": [
+    {
+     "n": 21,
+     "prompt": "What problem did the students have on the field trip?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The weather was bad."
+      },
+      {
+       "key": "B",
+       "text": "They ran out of time because of the tide."
+      },
+      {
+       "key": "C",
+       "text": "Their equipment was damaged."
+      }
+     ],
+     "answer": "B",
+     "explanation": "'the tide came in faster than we expected … we had to leave the beach earlier'.",
+     "trap": "A — the weather was 'better than forecast'."
+    },
+    {
+     "n": 22,
+     "prompt": "What surprised the students?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The protected cliffs were eroding quickly."
+      },
+      {
+       "key": "B",
+       "text": "Erosion was fastest just beyond the sea wall."
+      },
+      {
+       "key": "C",
+       "text": "The cliffs far from the wall were stable."
+      }
+     ],
+     "answer": "B",
+     "explanation": "'the unprotected cliffs immediately north of the wall were eroding — much faster'."
+    },
+    {
+     "n": 23,
+     "prompt": "Some residents complained that",
+     "options": [
+      {
+       "key": "A",
+       "text": "the wall spoiled the view."
+      },
+      {
+       "key": "B",
+       "text": "the beach was too crowded."
+      },
+      {
+       "key": "C",
+       "text": "the cost benefited only a few homes."
+      }
+     ],
+     "answer": "C",
+     "explanation": "'annoyed that the council had spent so much money protecting a small number of houses'."
+    },
+    {
+     "n": 24,
+     "prompt": "What do the students think about the older residents' comments?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They are interesting but not reliable evidence."
+      },
+      {
+       "key": "B",
+       "text": "They prove the beach has changed."
+      },
+      {
+       "key": "C",
+       "text": "They contradict the students' data."
+      }
+     ],
+     "answer": "A",
+     "explanation": "'That was interesting, but we can't really use it as evidence.'"
+    }
+   ]
+  },
+  {
+   "type": "mcq_multi",
+   "range": "25–26",
+   "instructions": "Choose TWO letters, A–E.",
+   "questions": [
+    {
+     "n": [
+      25,
+      26
+     ],
+     "prompt": "Which TWO tasks do the students still need to do?",
+     "answer": [
+      "B",
+      "D"
+     ],
+     "explanation": "B: check measurements against historical maps. D: compare their photos with the council's old photos. The questionnaire (C) was dropped."
+    }
+   ],
+   "options": [
+    {
+     "key": "A",
+     "text": "repeat the southern beach profiles"
+    },
+    {
+     "key": "B",
+     "text": "compare measurements with old maps"
+    },
+    {
+     "key": "C",
+     "text": "analyse questionnaire data"
+    },
+    {
+     "key": "D",
+     "text": "compare photographs from different years"
+    },
+    {
+     "key": "E",
+     "text": "interview council officials"
+    }
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "27–30",
+   "instructions": "What will the students include in each section of their report? Choose FOUR answers from the list, A–F.",
+   "questions": [
+    {
+     "n": 27,
+     "prompt": "Introduction",
+     "answer": "D",
+     "explanation": "Describe the geology — soft clay cliffs."
+    },
+    {
+     "n": 28,
+     "prompt": "Methods",
+     "answer": "A",
+     "explanation": "Explain how sites were chosen: a systematic sample every fifty metres."
+    },
+    {
+     "n": 29,
+     "prompt": "Results",
+     "answer": "E",
+     "explanation": "'Mainly graphs … comparing the protected and unprotected sections'."
+    },
+    {
+     "n": 30,
+     "prompt": "Conclusion",
+     "answer": "B",
+     "explanation": "'suggest what the council might do'."
+    }
+   ],
+   "options": [
+    {
+     "key": "A",
+     "text": "the sampling technique"
+    },
+    {
+     "key": "B",
+     "text": "recommendations for the local authority"
+    },
+    {
+     "key": "C",
+     "text": "residents' quotations"
+    },
+    {
+     "key": "D",
+     "text": "information about rock type"
+    },
+    {
+     "key": "E",
+     "text": "visual comparisons of data"
+    },
+    {
+     "key": "F",
+     "text": "a history of the sea wall"
+    }
+   ]
+  }
+ ]
+}

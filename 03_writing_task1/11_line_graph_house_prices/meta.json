@@ -1,0 +1,13 @@
+{
+ "title": "Line Graph · House Prices in Three Cities",
+ "summary": "Describe diverging trends, a peak and a dip; practise approximation language.",
+ "difficulty": "Band 6.5–7.5 target",
+ "topics": [
+  "housing",
+  "economy",
+  "cities"
+ ],
+ "chart": "line",
+ "minutes": 20,
+ "min_words": 150
+}

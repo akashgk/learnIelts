@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Many people who leave prison ________ within two years.",
+     "answer": [
+      "reoffend"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'reoffend'."
+    },
+    {
+     "n": 2,
+     "prompt": "Heavy fines may ________ people from dropping litter.",
+     "answer": [
+      "deter"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'deter'."
+    },
+    {
+     "n": 3,
+     "prompt": "Shoplifting is an example of ________ crime.",
+     "answer": [
+      "petty"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'petty'."
+    },
+    {
+     "n": 4,
+     "prompt": "Hacking and online fraud are forms of ________.",
+     "answer": [
+      "cybercrime"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'cybercrime'."
+    },
+    {
+     "n": 5,
+     "prompt": "Cameras in public places are a form of ________.",
+     "answer": [
+      "surveillance"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'surveillance'."
+    },
+    {
+     "n": 6,
+     "prompt": "Crimes committed by teenagers are known as ________ crime.",
+     "answer": [
+      "juvenile"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'juvenile'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Choose the correct collocation:",
+     "options": [
+      {
+       "key": "A",
+       "text": "impose a custodial sentence"
+      },
+      {
+       "key": "B",
+       "text": "make a custodial sentence"
+      },
+      {
+       "key": "C",
+       "text": "do a custodial sentence"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Courts impose / hand down sentences."
+    },
+    {
+     "n": 8,
+     "prompt": "'Rehabilitate' means:",
+     "options": [
+      {
+       "key": "A",
+       "text": "punish severely"
+      },
+      {
+       "key": "B",
+       "text": "help return to normal life"
+      },
+      {
+       "key": "C",
+       "text": "release early"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Rehabilitation focuses on reintegration."
+    },
+    {
+     "n": 9,
+     "prompt": "A person who has committed a crime is an:",
+     "options": [
+      {
+       "key": "A",
+       "text": "offender"
+      },
+      {
+       "key": "B",
+       "text": "offence"
+      },
+      {
+       "key": "C",
+       "text": "offensive"
+      }
+     ],
+     "answer": "A",
+     "explanation": "offender (person) / offence (the crime)."
+    },
+    {
+     "n": 10,
+     "prompt": "Choose the correct phrase:",
+     "options": [
+      {
+       "key": "A",
+       "text": "law enforcement agencies"
+      },
+      {
+       "key": "B",
+       "text": "law enforcing agencies"
+      },
+      {
+       "key": "C",
+       "text": "law force agencies"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Law enforcement agencies."
+    }
+   ]
+  }
+ ]
+}

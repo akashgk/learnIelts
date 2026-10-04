@@ -1,6 +1,6 @@
 # Grammar
 
-Eight focused lessons on the grammar that most affects IELTS Writing and Speaking scores, each with 8 auto-graded exercises.
+Twelve focused lessons on the grammar that most affects IELTS Writing and Speaking scores, each with 8–10 auto-graded exercises.
 
 **Each folder contains** `lesson.md` · `questions.json` · `QUESTIONS.md` · `SOLUTION.md` · `meta.json`.
 
@@ -18,3 +18,7 @@ Eight focused lessons on the grammar that most affects IELTS Writing and Speakin
 | 06 | **Comparing Data & Numbers** (8 Qs)<br>Accurate comparatives, superlatives, fractions and approximations for Task 1. | Band 5.5–7.5 | grammar | [lesson](06_comparisons_and_data/lesson.md) · [QUESTIONS](06_comparisons_and_data/QUESTIONS.md) · [SOLUTION](06_comparisons_and_data/SOLUTION.md) |
 | 07 | **Tenses for Task 1 and Task 2** (8 Qs)<br>Choose the right tense for past data, present facts, changes up to now and future predictions. | Band 5.5–7.5 | grammar | [lesson](07_tenses_for_writing/lesson.md) · [QUESTIONS](07_tenses_for_writing/QUESTIONS.md) · [SOLUTION](07_tenses_for_writing/SOLUTION.md) |
 | 08 | **Common Errors: Countable Nouns, Prepositions, Word Forms** (8 Qs)<br>Fix the small errors that pull Band 6 scripts down. | Band 5.5–7.5 | grammar | [lesson](08_common_errors/lesson.md) · [QUESTIONS](08_common_errors/QUESTIONS.md) · [SOLUTION](08_common_errors/SOLUTION.md) |
+| 09 | **Hedging & Modal Verbs** (10 Qs)<br>Soften claims like an academic writer: may, might, could, tend to, it is likely that. | Band 5.5–7.5 | grammar | [lesson](09_hedging_and_modal_verbs/lesson.md) · [QUESTIONS](09_hedging_and_modal_verbs/QUESTIONS.md) · [SOLUTION](09_hedging_and_modal_verbs/SOLUTION.md) |
+| 10 | **Gerunds & Infinitives** (10 Qs)<br>Choose -ing or to + verb after common verbs, adjectives and prepositions. | Band 5.5–7.5 | grammar | [lesson](10_gerunds_and_infinitives/lesson.md) · [QUESTIONS](10_gerunds_and_infinitives/QUESTIONS.md) · [SOLUTION](10_gerunds_and_infinitives/SOLUTION.md) |
+| 11 | **Sentence Boundaries & Punctuation** (10 Qs)<br>Avoid comma splices and fragments; use commas, semicolons and colons correctly. | Band 5.5–7.5 | grammar | [lesson](11_sentence_boundaries_and_punctuation/lesson.md) · [QUESTIONS](11_sentence_boundaries_and_punctuation/QUESTIONS.md) · [SOLUTION](11_sentence_boundaries_and_punctuation/SOLUTION.md) |
+| 12 | **Nominalisation & Noun Phrases** (10 Qs)<br>Turn verbs and adjectives into nouns to write in a concise, academic style. | Band 5.5–7.5 | grammar | [lesson](12_nominalisation_and_noun_phrases/lesson.md) · [QUESTIONS](12_nominalisation_and_noun_phrases/QUESTIONS.md) · [SOLUTION](12_nominalisation_and_noun_phrases/SOLUTION.md) |

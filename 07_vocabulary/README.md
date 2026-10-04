@@ -1,6 +1,6 @@
 # Vocabulary
 
-Ten topic word banks for the themes that come up most often in Writing Task 2 and Speaking. Each has 12 high-value words with meanings, example sentences and collocations, plus 10 auto-graded exercises.
+Fourteen word banks (thirteen topics plus linking words) for the themes that come up most often in Writing Task 2 and Speaking. Each has 12 high-value words with meanings, example sentences and collocations, plus 10 auto-graded exercises.
 
 **Each folder contains** `words.json` (structured: word, pos, meaning, example, collocations; ideal for flashcards or spaced repetition) · `word_list.md` · `questions.json` · `QUESTIONS.md` · `SOLUTION.md` · `meta.json`.
 
@@ -20,3 +20,7 @@ Ten topic word banks for the themes that come up most often in Writing Task 2 an
 | 08 | **Media & Advertising** (10 Qs)<br>12 high-value words for media & advertising essays and speaking, with collocations and exercises. | Band 6–8 | media | [word_list](08_media_and_advertising/word_list.md) · [QUESTIONS](08_media_and_advertising/QUESTIONS.md) · [SOLUTION](08_media_and_advertising/SOLUTION.md) |
 | 09 | **Science & Research** (10 Qs)<br>12 high-value words for science & research essays and speaking, with collocations and exercises. | Band 6–8 | science | [word_list](09_science_and_research/word_list.md) · [QUESTIONS](09_science_and_research/QUESTIONS.md) · [SOLUTION](09_science_and_research/SOLUTION.md) |
 | 10 | **Travel & Globalisation** (10 Qs)<br>12 high-value words for travel & globalisation essays and speaking, with collocations and exercises. | Band 6–8 | tourism, globalisation | [word_list](10_travel_and_globalisation/word_list.md) · [QUESTIONS](10_travel_and_globalisation/QUESTIONS.md) · [SOLUTION](10_travel_and_globalisation/SOLUTION.md) |
+| 11 | **Crime & Law** (10 Qs)<br>12 high-value words for crime & law essays and speaking, with collocations and exercises. | Band 6–8 | crime, government | [word_list](11_crime_and_law/word_list.md) · [QUESTIONS](11_crime_and_law/QUESTIONS.md) · [SOLUTION](11_crime_and_law/SOLUTION.md) |
+| 12 | **Food & Agriculture** (10 Qs)<br>12 high-value words for food & agriculture essays and speaking, with collocations and exercises. | Band 6–8 | food, environment | [word_list](12_food_and_agriculture/word_list.md) · [QUESTIONS](12_food_and_agriculture/QUESTIONS.md) · [SOLUTION](12_food_and_agriculture/SOLUTION.md) |
+| 13 | **Arts & Culture** (10 Qs)<br>12 high-value words for arts & culture essays and speaking, with collocations and exercises. | Band 6–8 | arts, culture | [word_list](13_arts_and_culture/word_list.md) · [QUESTIONS](13_arts_and_culture/QUESTIONS.md) · [SOLUTION](13_arts_and_culture/SOLUTION.md) |
+| 14 | **Linking Words & Cohesion** (10 Qs)<br>12 high-value words for linking words & cohesion essays and speaking, with collocations and exercises. | Band 6–8 | writing, cohesion | [word_list](14_linking_words_cohesion/word_list.md) · [QUESTIONS](14_linking_words_cohesion/QUESTIONS.md) · [SOLUTION](14_linking_words_cohesion/SOLUTION.md) |

@@ -1,0 +1,212 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Which sentence is best hedged for an academic essay?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Video games cause violence."
+      },
+      {
+       "key": "B",
+       "text": "Video games may contribute to aggressive behaviour in some children."
+      },
+      {
+       "key": "C",
+       "text": "Video games always make children violent."
+      }
+     ],
+     "answer": "B",
+     "explanation": "Modal + 'contribute to' + 'some' — precise and defensible."
+    },
+    {
+     "n": 2,
+     "prompt": "Young people ____ to spend more time online than older adults.",
+     "options": [
+      {
+       "key": "A",
+       "text": "tend"
+      },
+      {
+       "key": "B",
+       "text": "are tend"
+      },
+      {
+       "key": "C",
+       "text": "tending"
+      }
+     ],
+     "answer": "A",
+     "explanation": "'tend to + verb' expresses a general pattern."
+    },
+    {
+     "n": 3,
+     "prompt": "It ____ be argued that tourism damages local culture.",
+     "options": [
+      {
+       "key": "A",
+       "text": "could"
+      },
+      {
+       "key": "B",
+       "text": "must"
+      },
+      {
+       "key": "C",
+       "text": "will"
+      }
+     ],
+     "answer": "A",
+     "explanation": "'It could be argued that…' presents a view tentatively."
+    },
+    {
+     "n": 4,
+     "prompt": "Which is the strongest (most certain) prediction?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Prices may rise."
+      },
+      {
+       "key": "B",
+       "text": "Prices will rise."
+      },
+      {
+       "key": "C",
+       "text": "Prices might rise."
+      }
+     ],
+     "answer": "B",
+     "explanation": "'will' expresses certainty."
+    },
+    {
+     "n": 5,
+     "prompt": "There is evidence ____ exercise improves memory.",
+     "options": [
+      {
+       "key": "A",
+       "text": "that"
+      },
+      {
+       "key": "B",
+       "text": "which"
+      },
+      {
+       "key": "C",
+       "text": "for"
+      }
+     ],
+     "answer": "A",
+     "explanation": "'There is evidence that + clause'."
+    },
+    {
+     "n": 6,
+     "prompt": "'Arguably' means:",
+     "options": [
+      {
+       "key": "A",
+       "text": "it can reasonably be claimed"
+      },
+      {
+       "key": "B",
+       "text": "it is certainly true"
+      },
+      {
+       "key": "C",
+       "text": "nobody agrees"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Arguably = a reasonable claim, but open to debate."
+    },
+    {
+     "n": 7,
+     "prompt": "The new policy is ____ to reduce traffic. (probable result)",
+     "options": [
+      {
+       "key": "A",
+       "text": "likely"
+      },
+      {
+       "key": "B",
+       "text": "probably"
+      },
+      {
+       "key": "C",
+       "text": "possible"
+      }
+     ],
+     "answer": "A",
+     "explanation": "'is likely to + verb'. 'Probably' is an adverb: 'will probably reduce'."
+    },
+    {
+     "n": 8,
+     "prompt": "Which sentence over-hedges?",
+     "options": [
+      {
+       "key": "A",
+       "text": "This may reduce costs."
+      },
+      {
+       "key": "B",
+       "text": "This could perhaps possibly maybe reduce costs."
+      },
+      {
+       "key": "C",
+       "text": "This is likely to reduce costs."
+      }
+     ],
+     "answer": "B",
+     "explanation": "Stacking hedges sounds unnatural."
+    },
+    {
+     "n": 9,
+     "prompt": "Choose the correct form: 'Smartphones ____ to be making teenagers less sociable.'",
+     "options": [
+      {
+       "key": "A",
+       "text": "appear"
+      },
+      {
+       "key": "B",
+       "text": "appearing"
+      },
+      {
+       "key": "C",
+       "text": "are appear"
+      }
+     ],
+     "answer": "A",
+     "explanation": "'appear to + verb'."
+    },
+    {
+     "n": 10,
+     "prompt": "Which quantifier avoids over-generalising?",
+     "options": [
+      {
+       "key": "A",
+       "text": "all students"
+      },
+      {
+       "key": "B",
+       "text": "every student"
+      },
+      {
+       "key": "C",
+       "text": "many students"
+      }
+     ],
+     "answer": "C",
+     "explanation": "'many' avoids an absolute claim."
+    }
+   ]
+  }
+ ]
+}

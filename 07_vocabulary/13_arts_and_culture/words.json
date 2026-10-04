@@ -1,0 +1,110 @@
+[
+ {
+  "word": "heritage",
+  "pos": "n",
+  "meaning": "traditions, buildings and objects from the past",
+  "example": "The festival celebrates the region's cultural heritage.",
+  "collocations": [
+   "cultural / national heritage"
+  ]
+ },
+ {
+  "word": "exhibition",
+  "pos": "n",
+  "meaning": "a public display of art or objects",
+  "example": "The museum is hosting an exhibition of Indian textiles.",
+  "collocations": [
+   "hold / host an exhibition"
+  ]
+ },
+ {
+  "word": "performing arts",
+  "pos": "n",
+  "meaning": "music, dance and drama",
+  "example": "Funding for the performing arts has been cut.",
+  "collocations": [
+   "study the performing arts"
+  ]
+ },
+ {
+  "word": "creativity",
+  "pos": "n",
+  "meaning": "the ability to produce original ideas",
+  "example": "Art lessons foster creativity.",
+  "collocations": [
+   "foster / stifle creativity"
+  ]
+ },
+ {
+  "word": "aesthetic",
+  "pos": "adj",
+  "meaning": "relating to beauty",
+  "example": "The building has great aesthetic appeal.",
+  "collocations": [
+   "aesthetic value / appeal"
+  ]
+ },
+ {
+  "word": "contemporary",
+  "pos": "adj",
+  "meaning": "modern; belonging to the present",
+  "example": "She collects contemporary art.",
+  "collocations": [
+   "contemporary art / music"
+  ]
+ },
+ {
+  "word": "masterpiece",
+  "pos": "n",
+  "meaning": "an outstanding work of art",
+  "example": "The painting is considered a masterpiece.",
+  "collocations": [
+   "a literary masterpiece"
+  ]
+ },
+ {
+  "word": "patron",
+  "pos": "n",
+  "meaning": "a person who supports the arts with money",
+  "example": "Wealthy patrons funded Renaissance artists.",
+  "collocations": [
+   "patron of the arts"
+  ]
+ },
+ {
+  "word": "subsidy",
+  "pos": "n",
+  "meaning": "money given by government to reduce costs",
+  "example": "Theatres rely on state subsidies.",
+  "collocations": [
+   "government / state subsidy"
+  ]
+ },
+ {
+  "word": "preserve",
+  "pos": "v",
+  "meaning": "to keep something in its original state",
+  "example": "We must preserve traditional crafts.",
+  "collocations": [
+   "preserve traditions / heritage"
+  ]
+ },
+ {
+  "word": "mainstream",
+  "pos": "adj/n",
+  "meaning": "accepted by most people",
+  "example": "Hip-hop has become mainstream.",
+  "collocations": [
+   "mainstream culture / media"
+  ]
+ },
+ {
+  "word": "niche",
+  "pos": "adj/n",
+  "meaning": "appealing to a small, specialised group",
+  "example": "Jazz now has a niche audience.",
+  "collocations": [
+   "niche market / audience"
+  ]
+ }
+]

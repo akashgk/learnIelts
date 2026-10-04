@@ -1,0 +1,204 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–4",
+   "instructions": "Choose the correct letter.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "What was the main problem with early studies of bilingual children?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They used too few participants."
+      },
+      {
+       "key": "B",
+       "text": "They did not take social background into account."
+      },
+      {
+       "key": "C",
+       "text": "They tested children only in their stronger language."
+      },
+      {
+       "key": "D",
+       "text": "They were carried out by untrained researchers."
+      }
+     ],
+     "answer": "B",
+     "explanation": "They 'compared children from poor immigrant families with wealthier native speakers'; the disadvantage vanished when researchers 'control[led] for social background'.",
+     "trap": "C is the opposite: they were tested in their WEAKER language."
+    },
+    {
+     "n": 2,
+     "prompt": "According to the second paragraph, why might bilingualism improve executive function?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Bilinguals learn to read earlier."
+      },
+      {
+       "key": "B",
+       "text": "Bilinguals must keep inhibiting one language."
+      },
+      {
+       "key": "C",
+       "text": "Bilinguals spend more time studying."
+      },
+      {
+       "key": "D",
+       "text": "Bilinguals use only one language at a time."
+      }
+     ],
+     "answer": "B",
+     "explanation": "'must constantly suppress the language that is not needed'."
+    },
+    {
+     "n": 3,
+     "prompt": "What is 'cognitive reserve'?",
+     "options": [
+      {
+       "key": "A",
+       "text": "the brain's ability to delay the effects of damage"
+      },
+      {
+       "key": "B",
+       "text": "a type of memory used for languages"
+      },
+      {
+       "key": "C",
+       "text": "a treatment for Alzheimer's disease"
+      },
+      {
+       "key": "D",
+       "text": "the number of languages a person can learn"
+      }
+     ],
+     "answer": "A",
+     "explanation": "'allows the brain to cope with damage for longer before function declines'."
+    },
+    {
+     "n": 4,
+     "prompt": "What does 'publication bias' mean in this passage?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Journals prefer studies by famous scientists."
+      },
+      {
+       "key": "B",
+       "text": "Studies showing an effect are more likely to be published."
+      },
+      {
+       "key": "C",
+       "text": "Newspapers exaggerate scientific findings."
+      },
+      {
+       "key": "D",
+       "text": "Researchers hide their funding sources."
+      }
+     ],
+     "answer": "B",
+     "explanation": "'experiments that find an interesting effect are more likely to be … accepted'."
+    }
+   ]
+  },
+  {
+   "type": "ynng",
+   "range": "5–9",
+   "instructions": "Do the following statements agree with the claims of the writer? Write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+   "questions": [
+    {
+     "n": 5,
+     "prompt": "The early twentieth-century studies were based on sound methods.",
+     "answer": "NO",
+     "explanation": "'With hindsight, these studies were deeply flawed.'"
+    },
+    {
+     "n": 6,
+     "prompt": "Media coverage of the dementia findings was cautious.",
+     "answer": "NO",
+     "explanation": "'Newspapers enthusiastically reported that learning a language could protect against Alzheimer's'."
+    },
+    {
+     "n": 7,
+     "prompt": "Large studies have consistently confirmed the bilingual advantage.",
+     "answer": "NO",
+     "explanation": "'Several large studies … have failed to find any difference'."
+    },
+    {
+     "n": 8,
+     "prompt": "The argument that bilingualism takes many forms is reasonable.",
+     "answer": "YES",
+     "explanation": "'This is a fair point'."
+    },
+    {
+     "n": 9,
+     "prompt": "Children who learn two languages from birth speak both with a native accent.",
+     "answer": "NOT GIVEN",
+     "explanation": "Accent is never discussed."
+    }
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "10–13",
+   "instructions": "Complete each sentence with the correct ending, A–F.",
+   "questions": [
+    {
+     "n": 10,
+     "prompt": "Researchers in the 1960s found that",
+     "answer": "C",
+     "explanation": "'the supposed disadvantage disappeared'."
+    },
+    {
+     "n": 11,
+     "prompt": "Studies of whole populations over time have",
+     "answer": "E",
+     "explanation": "The dementia findings 'have not been consistently confirmed' in them."
+    },
+    {
+     "n": 12,
+     "prompt": "Treating all bilinguals as one group may",
+     "answer": "A",
+     "explanation": "'could easily hide real effects'."
+    },
+    {
+     "n": 13,
+     "prompt": "The writer believes that the main reasons to support bilingualism",
+     "answer": "D",
+     "explanation": "Communication, culture and family ties are 'reasons enough'.",
+     "trap": "B is tempting, but the writer says the attention debate is 'beside the point'."
+    }
+   ],
+   "options": [
+    {
+     "key": "A",
+     "text": "conceal genuine differences between people."
+    },
+    {
+     "key": "B",
+     "text": "depend on proof of improved attention."
+    },
+    {
+     "key": "C",
+     "text": "no disadvantage once family income was considered."
+    },
+    {
+     "key": "D",
+     "text": "have little to do with executive function."
+    },
+    {
+     "key": "E",
+     "text": "not reliably supported the dementia findings."
+    },
+    {
+     "key": "F",
+     "text": "caused parents to stop speaking two languages."
+    }
+   ]
+  }
+ ]
+}

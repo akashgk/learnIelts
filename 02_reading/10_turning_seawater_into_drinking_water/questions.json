@@ -1,0 +1,146 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "matching",
+   "range": "1–5",
+   "instructions": "Choose the correct heading for paragraphs B–F from the list of headings below.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Paragraph B",
+     "answer": "iv",
+     "explanation": "Describes the oldest, energy-intensive thermal method and why Gulf states used it."
+    },
+    {
+     "n": 2,
+     "prompt": "Paragraph C",
+     "answer": "vii",
+     "explanation": "How reverse osmosis works and how its efficiency has improved."
+    },
+    {
+     "n": 3,
+     "prompt": "Paragraph D",
+     "answer": "ii",
+     "explanation": "Cost and energy use, including the 'vicious circle' with climate change."
+    },
+    {
+     "n": 4,
+     "prompt": "Paragraph E",
+     "answer": "vi",
+     "explanation": "Brine: its harm to the seabed and possible uses (minerals)."
+    },
+    {
+     "n": 5,
+     "prompt": "Paragraph F",
+     "answer": "i",
+     "explanation": "The writer's opinion: desalination should be 'a last resort'."
+    }
+   ],
+   "options": [
+    {
+     "key": "i",
+     "text": "A personal view on when the technology should be used"
+    },
+    {
+     "key": "ii",
+     "text": "Financial and climate drawbacks"
+    },
+    {
+     "key": "iii",
+     "text": "The history of water shortages"
+    },
+    {
+     "key": "iv",
+     "text": "An early process and its main disadvantage"
+    },
+    {
+     "key": "v",
+     "text": "Why salt water cannot be drunk"
+    },
+    {
+     "key": "vi",
+     "text": "A waste product with risks and possibilities"
+    },
+    {
+     "key": "vii",
+     "text": "A more efficient alternative and its development"
+    },
+    {
+     "key": "viii",
+     "text": "Public opposition to new plants"
+    }
+   ]
+  },
+  {
+   "type": "gap",
+   "range": "6–9",
+   "instructions": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+   "questions": [
+    {
+     "n": 6,
+     "prompt": "In reverse osmosis, water passes at high pressure through a ________ with extremely small pores.",
+     "answer": [
+      "membrane"
+     ],
+     "explanation": "Paragraph C."
+    },
+    {
+     "n": 7,
+     "prompt": "The water is first filtered to remove sand and ________.",
+     "answer": [
+      "algae"
+     ],
+     "explanation": "Paragraph C: 'sand, algae and other material'."
+    },
+    {
+     "n": 8,
+     "prompt": "Brine is ________ than ordinary seawater, so it sinks.",
+     "answer": [
+      "denser"
+     ],
+     "explanation": "Paragraph E: 'brine is denser than seawater'."
+    },
+    {
+     "n": 9,
+     "prompt": "Scientists hope to obtain minerals such as magnesium and ________ from brine.",
+     "answer": [
+      "lithium"
+     ],
+     "explanation": "Paragraph E."
+    }
+   ]
+  },
+  {
+   "type": "ynng",
+   "range": "10–13",
+   "instructions": "Do the following statements agree with the claims of the writer? Write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+   "questions": [
+    {
+     "n": 10,
+     "prompt": "Desalination plants that use fossil fuels can worsen the problem they are meant to solve.",
+     "answer": "YES",
+     "explanation": "Paragraph D: the 'vicious circle'."
+    },
+    {
+     "n": 11,
+     "prompt": "Reducing leaks in water pipes is generally a more expensive option than desalination.",
+     "answer": "NO",
+     "explanation": "Paragraph F: such measures are 'usually far cheaper'."
+    },
+    {
+     "n": 12,
+     "prompt": "Desalination will soon be cheaper than river water.",
+     "answer": "NOT GIVEN",
+     "explanation": "The writer says it 'remains considerably more expensive' but makes no prediction about the future."
+    },
+    {
+     "n": 13,
+     "prompt": "Desalination can be useful for coastal areas with limited water sources.",
+     "answer": "YES",
+     "explanation": "Paragraph F: 'a valuable insurance policy against drought'."
+    }
+   ]
+  }
+ ]
+}

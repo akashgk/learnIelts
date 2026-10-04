@@ -1,0 +1,169 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "matching",
+   "range": "1–4",
+   "instructions": "The passage has six paragraphs, A–F. Which paragraph contains the following information?",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "an explanation of why animals may confuse plastic with food",
+     "answer": "D",
+     "explanation": "Particles 'covered with algae that make them smell like food'."
+    },
+    {
+     "n": 2,
+     "prompt": "a reference to a legal requirement in one country",
+     "answer": "F",
+     "explanation": "France requires washing-machine filters from 2025."
+    },
+    {
+     "n": 3,
+     "prompt": "a list of locations that includes the human body",
+     "answer": "A",
+     "explanation": "Paragraph A lists deep-sea sediments, Arctic ice, drinking water, table salt and human blood.",
+     "trap": "C mentions remote mountains, but not the human body."
+    },
+    {
+     "n": 4,
+     "prompt": "a reason why some research results may be unreliable",
+     "answer": "E",
+     "explanation": "Contamination from lab equipment or clothing 'can distort results'.",
+     "trap": "D also questions lab studies (high concentrations), but that's about relevance, not reliability of measurement."
+    }
+   ],
+   "options": [
+    {
+     "key": "A",
+     "text": "Paragraph A"
+    },
+    {
+     "key": "B",
+     "text": "Paragraph B"
+    },
+    {
+     "key": "C",
+     "text": "Paragraph C"
+    },
+    {
+     "key": "D",
+     "text": "Paragraph D"
+    },
+    {
+     "key": "E",
+     "text": "Paragraph E"
+    },
+    {
+     "key": "F",
+     "text": "Paragraph F"
+    }
+   ]
+  },
+  {
+   "type": "mcq_multi",
+   "range": "5–6",
+   "instructions": "Choose TWO letters, A–E.",
+   "questions": [
+    {
+     "n": [
+      5,
+      6
+     ],
+     "prompt": "Which TWO everyday sources of secondary microplastics are mentioned?",
+     "answer": [
+      "B",
+      "E"
+     ],
+     "explanation": "Paragraph B: synthetic clothing (fibres in washing) and car tyres. Face scrubs (A) produce PRIMARY microplastics."
+    }
+   ],
+   "options": [
+    {
+     "key": "A",
+     "text": "face scrubs"
+    },
+    {
+     "key": "B",
+     "text": "washing synthetic clothes"
+    },
+    {
+     "key": "C",
+     "text": "plastic bottles left in the sun"
+    },
+    {
+     "key": "D",
+     "text": "fishing nets"
+    },
+    {
+     "key": "E",
+     "text": "car tyres on roads"
+    }
+   ]
+  },
+  {
+   "type": "gap",
+   "range": "7–10",
+   "instructions": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "Microplastics move from land to the sea mainly via ________.",
+     "answer": [
+      "rivers"
+     ],
+     "explanation": "Paragraph C: 'Rivers carry them to the sea'."
+    },
+    {
+     "n": 8,
+     "prompt": "The smallest particles can fall to earth in rain or ________.",
+     "answer": [
+      "snow"
+     ],
+     "explanation": "Paragraph C."
+    },
+    {
+     "n": 9,
+     "prompt": "In laboratory tests, high levels of microplastics reduced feeding and ________ in some species.",
+     "answer": [
+      "growth"
+     ],
+     "explanation": "Paragraph D."
+    },
+    {
+     "n": 10,
+     "prompt": "Harmful chemicals tend to stick to the ________ of microplastics.",
+     "answer": [
+      "surfaces"
+     ],
+     "explanation": "Paragraph D: 'stick to their surfaces'."
+    }
+   ]
+  },
+  {
+   "type": "tfng",
+   "range": "11–13",
+   "instructions": "Do the following statements agree with the information given in the text? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+   "questions": [
+    {
+     "n": 11,
+     "prompt": "All countries have banned microbeads in cosmetics.",
+     "answer": "FALSE",
+     "explanation": "Banned 'in a number of countries' — not all."
+    },
+    {
+     "n": 12,
+     "prompt": "Indoor air is one route by which people take in microplastics.",
+     "answer": "TRUE",
+     "explanation": "Paragraph E: 'breathing in particles from indoor air'."
+    },
+    {
+     "n": 13,
+     "prompt": "Scientists have proved that microplastics in human organs cause disease.",
+     "answer": "FALSE",
+     "explanation": "'detecting them is not the same as demonstrating harm'."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,362 @@
+[
+ {
+  "id": 1,
+  "task": "Describe a time you were late for something important.",
+  "bullets": [
+   "what it was",
+   "why you were late",
+   "what happened",
+   "and how you felt about it"
+  ],
+  "part3_questions": [
+   "Why are some people often late?",
+   "Is punctuality more important in some cultures than others?",
+   "How has technology changed the way we manage time?"
+  ]
+ },
+ {
+  "id": 2,
+  "task": "Describe a website or app that you find useful.",
+  "bullets": [
+   "what it is",
+   "how you found it",
+   "what you use it for",
+   "and explain why it is useful"
+  ],
+  "part3_questions": [
+   "What are the most popular apps in your country?",
+   "Do people rely too much on apps?",
+   "How might apps change in the future?"
+  ]
+ },
+ {
+  "id": 3,
+  "task": "Describe an old object that your family has kept for a long time.",
+  "bullets": [
+   "what it is",
+   "where it came from",
+   "how long your family has had it",
+   "and why it is important to your family"
+  ],
+  "part3_questions": [
+   "Why do people keep old things?",
+   "Do young people value old objects?",
+   "Should old buildings be preserved?"
+  ]
+ },
+ {
+  "id": 4,
+  "task": "Describe a time you received good news.",
+  "bullets": [
+   "what the news was",
+   "how you received it",
+   "who you shared it with",
+   "and how you felt"
+  ],
+  "part3_questions": [
+   "How do people usually share good news nowadays?",
+   "Is there too much bad news in the media?",
+   "Do people prefer to hear news from friends or the media?"
+  ]
+ },
+ {
+  "id": 5,
+  "task": "Describe a person you know who is good at their job.",
+  "bullets": [
+   "who this person is",
+   "what job they do",
+   "how you know them",
+   "and why you think they are good at it"
+  ],
+  "part3_questions": [
+   "What makes someone successful at work?",
+   "Is job satisfaction more important than salary?",
+   "Should people stay in the same job for a long time?"
+  ]
+ },
+ {
+  "id": 6,
+  "task": "Describe a city you would like to visit in the future.",
+  "bullets": [
+   "which city it is",
+   "how you learned about it",
+   "what you would do there",
+   "and why you want to visit"
+  ],
+  "part3_questions": [
+   "Why do people like to visit big cities?",
+   "What problems does tourism cause in cities?",
+   "Will people travel more or less in the future?"
+  ]
+ },
+ {
+  "id": 7,
+  "task": "Describe a sport or physical activity you enjoy.",
+  "bullets": [
+   "what it is",
+   "when you started",
+   "how often you do it",
+   "and why you enjoy it"
+  ],
+  "part3_questions": [
+   "Why do some people not exercise?",
+   "Should governments promote sport?",
+   "Are professional athletes good role models?"
+  ]
+ },
+ {
+  "id": 8,
+  "task": "Describe a time you had to make a difficult decision.",
+  "bullets": [
+   "what the decision was",
+   "when it happened",
+   "what options you had",
+   "and explain how you made the decision"
+  ],
+  "part3_questions": [
+   "What decisions do young people find difficult?",
+   "Should parents make decisions for their children?",
+   "Do people make better decisions alone or in groups?"
+  ]
+ },
+ {
+  "id": 9,
+  "task": "Describe a film or TV series that made you think.",
+  "bullets": [
+   "what it was",
+   "when you watched it",
+   "what it was about",
+   "and why it made you think"
+  ],
+  "part3_questions": [
+   "Why are documentaries popular?",
+   "Do films influence people's behaviour?",
+   "Will cinemas disappear in the future?"
+  ]
+ },
+ {
+  "id": 10,
+  "task": "Describe a time you learned something from a mistake.",
+  "bullets": [
+   "what the mistake was",
+   "when it happened",
+   "what the result was",
+   "and what you learned"
+  ],
+  "part3_questions": [
+   "Why are some people afraid of making mistakes?",
+   "Should schools punish students for mistakes?",
+   "Can people learn from other people's mistakes?"
+  ]
+ },
+ {
+  "id": 11,
+  "task": "Describe a quiet place you like to go to.",
+  "bullets": [
+   "where it is",
+   "how often you go there",
+   "what you do there",
+   "and why you like it"
+  ],
+  "part3_questions": [
+   "Is it hard to find quiet places in cities?",
+   "Why do some people prefer noisy places?",
+   "How does noise affect people's health?"
+  ]
+ },
+ {
+  "id": 12,
+  "task": "Describe a piece of clothing you like to wear.",
+  "bullets": [
+   "what it is",
+   "where you got it",
+   "when you wear it",
+   "and why you like it"
+  ],
+  "part3_questions": [
+   "Do people judge others by their clothes?",
+   "Why do fashions change so quickly?",
+   "Should students wear school uniforms?"
+  ]
+ },
+ {
+  "id": 13,
+  "task": "Describe a conversation you had that changed your opinion.",
+  "bullets": [
+   "who you talked to",
+   "what you talked about",
+   "what your opinion was before",
+   "and how it changed"
+  ],
+  "part3_questions": [
+   "Why is it difficult to change people's opinions?",
+   "Do social media make people more open-minded?",
+   "Is it important to listen to opposing views?"
+  ]
+ },
+ {
+  "id": 14,
+  "task": "Describe an environmental problem in your area.",
+  "bullets": [
+   "what the problem is",
+   "what causes it",
+   "how it affects people",
+   "and what could be done about it"
+  ],
+  "part3_questions": [
+   "Who should be responsible for protecting the environment?",
+   "Are young people more environmentally aware than older people?",
+   "Can technology solve environmental problems?"
+  ]
+ },
+ {
+  "id": 15,
+  "task": "Describe a time you saw something interesting on social media.",
+  "bullets": [
+   "what it was",
+   "where you saw it",
+   "what it was about",
+   "and why it was interesting"
+  ],
+  "part3_questions": [
+   "Why do things go viral online?",
+   "How can people tell if information online is true?",
+   "Should social media be regulated?"
+  ]
+ },
+ {
+  "id": 16,
+  "task": "Describe a family member you spend a lot of time with.",
+  "bullets": [
+   "who this person is",
+   "what you do together",
+   "how often you see them",
+   "and why you spend a lot of time with them"
+  ],
+  "part3_questions": [
+   "How have families changed in your country?",
+   "Should older people live with their children?",
+   "What role do grandparents play in family life?"
+  ]
+ },
+ {
+  "id": 17,
+  "task": "Describe a time you tried a new food.",
+  "bullets": [
+   "what the food was",
+   "where you tried it",
+   "what it tasted like",
+   "and whether you would eat it again"
+  ],
+  "part3_questions": [
+   "Why are people sometimes unwilling to try new food?",
+   "How has globalisation changed what people eat?",
+   "Should children be taught to cook at school?"
+  ]
+ },
+ {
+  "id": 18,
+  "task": "Describe a public building you like.",
+  "bullets": [
+   "what and where it is",
+   "what it looks like",
+   "what people use it for",
+   "and why you like it"
+  ],
+  "part3_questions": [
+   "Should governments spend money on beautiful public buildings?",
+   "How has architecture changed in your country?",
+   "Should old buildings be replaced by modern ones?"
+  ]
+ },
+ {
+  "id": 19,
+  "task": "Describe something you did that made you feel proud.",
+  "bullets": [
+   "what you did",
+   "when you did it",
+   "who was involved",
+   "and why you felt proud"
+  ],
+  "part3_questions": [
+   "Should parents praise their children a lot?",
+   "What achievements are valued in your society?",
+   "Is it better to work alone or in a team to achieve goals?"
+  ]
+ },
+ {
+  "id": 20,
+  "task": "Describe a time when you had to wait for a long time.",
+  "bullets": [
+   "when and where it was",
+   "what you were waiting for",
+   "what you did while waiting",
+   "and how you felt"
+  ],
+  "part3_questions": [
+   "Why are people less patient nowadays?",
+   "In what situations do people have to wait?",
+   "How could waiting times in public services be reduced?"
+  ]
+ },
+ {
+  "id": 21,
+  "task": "Describe a skill you would like to learn in the future.",
+  "bullets": [
+   "what the skill is",
+   "how you would learn it",
+   "how long it would take",
+   "and why you want to learn it"
+  ],
+  "part3_questions": [
+   "Which skills will be most important in the future?",
+   "Is it better to learn from a teacher or by yourself?",
+   "Should employers pay for staff training?"
+  ]
+ },
+ {
+  "id": 22,
+  "task": "Describe a time you lost something.",
+  "bullets": [
+   "what you lost",
+   "where and when you lost it",
+   "what you did to find it",
+   "and how you felt"
+  ],
+  "part3_questions": [
+   "Why do people lose things?",
+   "Is it a good idea to give a reward for lost items?",
+   "How can technology help people find lost things?"
+  ]
+ },
+ {
+  "id": 23,
+  "task": "Describe an interesting talk or lecture you attended.",
+  "bullets": [
+   "who gave it",
+   "what it was about",
+   "where it took place",
+   "and why it was interesting"
+  ],
+  "part3_questions": [
+   "What makes a good public speaker?",
+   "Are online talks as effective as live ones?",
+   "Should students learn presentation skills at school?"
+  ]
+ },
+ {
+  "id": 24,
+  "task": "Describe a time you enjoyed being outdoors.",
+  "bullets": [
+   "where you were",
+   "who you were with",
+   "what you did",
+   "and why you enjoyed it"
+  ],
+  "part3_questions": [
+   "Do children spend enough time outdoors?",
+   "What outdoor activities are popular in your country?",
+   "How do cities provide outdoor spaces?"
+  ]
+ }
+]

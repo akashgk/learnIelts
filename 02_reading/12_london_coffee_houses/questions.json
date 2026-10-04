@@ -1,0 +1,134 @@
+{
+ "total": 13,
+ "groups": [
+  {
+   "type": "tfng",
+   "range": "1–5",
+   "instructions": "Do the following statements agree with the information given in the text? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "London's first coffee house opened before Oxford's.",
+     "answer": "FALSE",
+     "explanation": "Oxford 1650; London 'followed two years later'."
+    },
+    {
+     "n": 2,
+     "prompt": "Customers were mainly attracted by the quality of the coffee.",
+     "answer": "FALSE",
+     "explanation": "Popularity 'owed less to the taste of the coffee … than to the atmosphere'."
+    },
+    {
+     "n": 3,
+     "prompt": "In some coffee houses, customers did not have to give their seat to someone of higher rank.",
+     "answer": "TRUE",
+     "explanation": "'no one was obliged to give up their place to a person of higher status'."
+    },
+    {
+     "n": 4,
+     "prompt": "Coffee houses charged more than taverns.",
+     "answer": "NOT GIVEN",
+     "explanation": "A penny admission is mentioned, but tavern prices are not."
+    },
+    {
+     "n": 5,
+     "prompt": "Charles II's order to close coffee houses was never put into practice.",
+     "answer": "TRUE",
+     "explanation": "It was 'withdrawn within days, before it had even come into effect'."
+    }
+   ]
+  },
+  {
+   "type": "gap",
+   "range": "6–9",
+   "instructions": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+   "questions": [
+    {
+     "n": 6,
+     "prompt": "Lloyd's: started c. 1688 — ship-owners found people to ________ their ships",
+     "answer": [
+      "insure"
+     ],
+     "explanation": "'people willing to insure their vessels'."
+    },
+    {
+     "n": 7,
+     "prompt": "Lloyd encouraged business by publishing shipping ________",
+     "answer": [
+      "news"
+     ],
+     "explanation": "'collecting and publishing shipping news'."
+    },
+    {
+     "n": 8,
+     "prompt": "Share dealers were removed from the Royal Exchange because of ________ behaviour",
+     "answer": [
+      "rowdy"
+     ],
+     "explanation": "'expelled from the Royal Exchange for their rowdy behaviour'."
+    },
+    {
+     "n": 9,
+     "prompt": "Decline: tea was promoted by the East India ________",
+     "answer": [
+      "Company"
+     ],
+     "explanation": "'promoted by the powerful East India Company'."
+    }
+   ]
+  },
+  {
+   "type": "matching",
+   "range": "10–13",
+   "instructions": "Match each statement with the correct person or group, A–E.",
+   "questions": [
+    {
+     "n": 10,
+     "prompt": "complained that coffee houses spread criticism of the authorities",
+     "answer": "C",
+     "explanation": "Charles II saw them as places where 'criticism of the government' was spread."
+    },
+    {
+     "n": 11,
+     "prompt": "is said to have performed a scientific demonstration in public",
+     "answer": "B",
+     "explanation": "Halley 'is said to have dissected a dolphin in front of fellow customers'."
+    },
+    {
+     "n": 12,
+     "prompt": "was not personally involved in the business named after him",
+     "answer": "A",
+     "explanation": "'Lloyd himself was not an insurer'."
+    },
+    {
+     "n": 13,
+     "prompt": "claimed that men were ignoring their domestic responsibilities",
+     "answer": "D",
+     "explanation": "The 1674 pamphlet said men 'were neglecting their families'."
+    }
+   ],
+   "options": [
+    {
+     "key": "A",
+     "text": "Edward Lloyd"
+    },
+    {
+     "key": "B",
+     "text": "Edmond Halley"
+    },
+    {
+     "key": "C",
+     "text": "King Charles II"
+    },
+    {
+     "key": "D",
+     "text": "the authors of a 1674 pamphlet"
+    },
+    {
+     "key": "E",
+     "text": "the East India Company"
+    }
+   ]
+  }
+ ]
+}

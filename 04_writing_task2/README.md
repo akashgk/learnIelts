@@ -1,15 +1,15 @@
 # Writing Task 2
 
-Fourteen essays covering all six Task 2 question types:
+Twenty model essays covering all six Task 2 question types, plus a **prompt bank of 60 extra questions** (`99_prompt_bank`):
 
 | Type (`essay_type`) | Question wording | Items |
 |---|---|---|
-| `opinion` | To what extent do you agree or disagree? | 01, 07, 09, 13 |
-| `discussion` | Discuss both views and give your opinion. | 02, 08, 11 |
-| `advantages_disadvantages` | What are the advantages and disadvantages? | 03 |
+| `opinion` | To what extent do you agree or disagree? | 01, 07, 09, 13, 15, 20 |
+| `discussion` | Discuss both views and give your opinion. | 02, 08, 11, 16 |
+| `advantages_disadvantages` | What are the advantages and disadvantages? | 03, 17 |
 | `advantages_outweigh` | Do the advantages outweigh the disadvantages? | 10 |
-| `problem_solution` | What are the causes / problems? What solutions? | 04, 12 |
-| `two_part` | Two direct questions | 05, 14 |
+| `problem_solution` | What are the causes / problems? What solutions? | 04, 12, 18 |
+| `two_part` | Two direct questions | 05, 14, 19 |
 | `positive_negative` | Is this a positive or negative development? | 06 |
 
 **Each folder contains** `prompt.md` (task + approach tips) · `model_answer.md` (Band 8–9 essay, then plan, examiner notes and topic vocabulary after `---`) · `meta.json`.
@@ -36,3 +36,10 @@ Fourteen essays covering all six Task 2 question types:
 | 12 | **Causes & Solutions · Young People Reading Less**<br>Explain a social trend and propose matching, practical solutions. | Band 7–8 target | education, technology, young people, culture | [prompt](12_causes_solutions_decline_in_reading/prompt.md) · [model_answer](12_causes_solutions_decline_in_reading/model_answer.md) |
 | 13 | **Opinion · Should Rich Countries Help Poorer Nations?**<br>Agree with a qualification — focus on how aid should be given. | Band 7.5–8.5 target | globalisation, economy, government | [prompt](13_opinion_rich_countries_aid/prompt.md) · [model_answer](13_opinion_rich_countries_aid/model_answer.md) |
 | 14 | **Two-part Question · Celebrities as Role Models**<br>Explain celebrity influence and judge whether it is positive or negative. | Band 7–8 target | media, young people, society, technology | [prompt](14_two_part_celebrities_role_models/prompt.md) · [model_answer](14_two_part_celebrities_role_models/model_answer.md) |
+| 15 | **Opinion · Ban Private Cars from City Centres?**<br>Partly agree essay with a phased, conditional position. | Band 7–8 target | transport, cities, environment | [prompt](15_opinion_ban_cars_city_centres/prompt.md) · [model_answer](15_opinion_ban_cars_city_centres/model_answer.md) |
+| 16 | **Discussion · Online vs Classroom Learning**<br>Discuss both views and give a clear opinion favouring a blended approach. | Band 7–8 target | education, technology | [prompt](16_discussion_online_vs_classroom_learning/prompt.md) · [model_answer](16_discussion_online_vs_classroom_learning/model_answer.md) |
+| 17 | **Advantages & Disadvantages · An Ageing Population**<br>Balanced effects of an ageing society on the economy and families. | Band 7–8 target | society, economy, health, age | [prompt](17_adv_disadv_ageing_population/prompt.md) · [model_answer](17_adv_disadv_ageing_population/model_answer.md) |
+| 18 | **Causes & Solutions · Youth Unemployment**<br>Explain why young people struggle to find work and propose targeted measures. | Band 7–8 target | work, economy, young people, education | [prompt](18_problem_solution_youth_unemployment/prompt.md) · [model_answer](18_problem_solution_youth_unemployment/model_answer.md) |
+| 19 | **Two-part Question · The Shift to Online Shopping**<br>Explain why online shopping is growing and evaluate its effect on town centres. | Band 7–8 target | technology, business, cities | [prompt](19_two_part_shopping_online/prompt.md) · [model_answer](19_two_part_shopping_online/model_answer.md) |
+| 20 | **Opinion · Is Space Exploration Worth the Money?**<br>Disagree essay defending space spending with concrete benefits. | Band 7.5–8.5 target | science, government, economy | [prompt](20_opinion_space_exploration_spending/prompt.md) · [model_answer](20_opinion_space_exploration_spending/model_answer.md) |
+| 99 | **Task 2 Prompt Bank (60 questions)**<br>60 extra Task 2 prompts across all essay types and topics, with a self-assessment checklist. | All levels | cities, crime, culture, education, environment, food, globalisation, government, health, media, society, sport, technology, tourism, work | [prompts](99_prompt_bank/prompts.md) |

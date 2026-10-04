@@ -9,16 +9,16 @@ A complete, structured practice bank for **IELTS Academic**: Listening, Reading,
 | # | Section | Items | Each item contains |
 |---|---|---|---|
 | 00 | [Exam guide](00_exam_guide/README.md) | 5 | Test format · band scores & conversion tables · question-type strategies · 8-week plan · test-day checklist |
-| 01 | [Listening](01_listening/README.md) | 8 (2 full tests, 80 Qs) | `transcript.md` (TTS-ready) · `questions.json` · `QUESTIONS.md` · `SOLUTION.md` |
-| 02 | [Reading](02_reading/README.md) | 8 passages (105 Qs) | `passage.md` · `questions.json` · `QUESTIONS.md` · `SOLUTION.md` (evidence + traps) |
-| 03 | [Writing Task 1](03_writing_task1/README.md) | 10 | `prompt.md` · `data.json` (chart spec) · `model_answer.md` (Band 8–9 + notes) |
-| 04 | [Writing Task 2](04_writing_task2/README.md) | 14 (all 6 essay types) | `prompt.md` · `model_answer.md` (essay + plan + vocabulary) |
-| 05 | [Speaking Part 1](05_speaking_part1/README.md) | 12 topics | `questions.md` · `model_answer.md` |
-| 06 | [Speaking Parts 2 & 3](06_speaking_part2_3/README.md) | 12 cue cards | `cue_card.md` · `model_answer.md` (2-min talk + Part 3) |
-| 07 | [Vocabulary](07_vocabulary/README.md) | 10 topic sets (120 words, 100 Qs) | `words.json` · `word_list.md` · exercises |
-| 08 | [Grammar](08_grammar/README.md) | 8 lessons (64 Qs) | `lesson.md` · exercises |
+| 01 | [Listening](01_listening/README.md) | 12 (3 full tests, 120 Qs) | `transcript.md` (TTS-ready) · `questions.json` · `QUESTIONS.md` · `SOLUTION.md` |
+| 02 | [Reading](02_reading/README.md) | 14 passages (183 Qs) | `passage.md` · `questions.json` · `QUESTIONS.md` · `SOLUTION.md` (evidence + traps) |
+| 03 | [Writing Task 1](03_writing_task1/README.md) | 14 | `prompt.md` · `data.json` (chart spec) · `model_answer.md` (Band 8–9 + notes) |
+| 04 | [Writing Task 2](04_writing_task2/README.md) | 20 model essays + 60-prompt bank | `prompt.md` · `model_answer.md` (essay + plan + vocabulary) |
+| 05 | [Speaking Part 1](05_speaking_part1/README.md) | 12 modelled topics + 92-question bank | `questions.md` · `model_answer.md` |
+| 06 | [Speaking Parts 2 & 3](06_speaking_part2_3/README.md) | 12 modelled cue cards + 24-card bank | `cue_card.md` · `model_answer.md` (2-min talk + Part 3) |
+| 07 | [Vocabulary](07_vocabulary/README.md) | 14 sets (168 words, 140 Qs) | `words.json` · `word_list.md` · exercises |
+| 08 | [Grammar](08_grammar/README.md) | 12 lessons (104 Qs) | `lesson.md` · exercises |
 
-**Totals:** 87 study items · 349 auto-graded questions · 24 model essays/reports · 24 speaking sets.
+**Totals:** 118 study items · 547 auto-graded questions · 34 model essays/reports · 60 extra essay prompts · 24 modelled speaking sets + 92 Part 1 questions and 24 cue cards in the banks.
 
 ## 🗂 Folder structure
 

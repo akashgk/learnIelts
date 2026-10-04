@@ -1,0 +1,362 @@
+[
+ {
+  "id": 1,
+  "essay_type": "opinion",
+  "topic": "education",
+  "prompt": "Schools should teach practical skills such as cooking and managing money instead of academic subjects like history and literature. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 2,
+  "essay_type": "opinion",
+  "topic": "education",
+  "prompt": "All students should be required to study a foreign language until the end of secondary school. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 3,
+  "essay_type": "opinion",
+  "topic": "education",
+  "prompt": "Homework is unnecessary and should be abolished in primary schools. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 4,
+  "essay_type": "opinion",
+  "topic": "technology",
+  "prompt": "Children under the age of 13 should not be allowed to own a smartphone. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 5,
+  "essay_type": "opinion",
+  "topic": "technology",
+  "prompt": "Social media companies should be held legally responsible for false information posted on their platforms. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 6,
+  "essay_type": "opinion",
+  "topic": "work",
+  "prompt": "A four-day working week would benefit both employees and employers. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 7,
+  "essay_type": "opinion",
+  "topic": "work",
+  "prompt": "Companies should be required to pay men and women the same salary for the same job, and publish this information. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 8,
+  "essay_type": "opinion",
+  "topic": "environment",
+  "prompt": "Governments should impose heavy taxes on flights to reduce their environmental impact. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 9,
+  "essay_type": "opinion",
+  "topic": "environment",
+  "prompt": "Single-use plastic products should be completely banned. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 10,
+  "essay_type": "opinion",
+  "topic": "health",
+  "prompt": "Junk food advertising should be banned on television and online. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 11,
+  "essay_type": "opinion",
+  "topic": "health",
+  "prompt": "The government, not individuals, is responsible for public health. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 12,
+  "essay_type": "opinion",
+  "topic": "society",
+  "prompt": "Older people should be encouraged to continue working beyond the retirement age. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 13,
+  "essay_type": "opinion",
+  "topic": "cities",
+  "prompt": "New housing developments should always include green spaces, even if this means fewer homes are built. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 14,
+  "essay_type": "opinion",
+  "topic": "crime",
+  "prompt": "Prison sentences are the best way to reduce crime. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 15,
+  "essay_type": "opinion",
+  "topic": "culture",
+  "prompt": "Museums and art galleries should be free for everyone. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 16,
+  "essay_type": "opinion",
+  "topic": "media",
+  "prompt": "News reporting today focuses too much on negative stories. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 17,
+  "essay_type": "opinion",
+  "topic": "sport",
+  "prompt": "Professional athletes are paid far too much money. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 18,
+  "essay_type": "opinion",
+  "topic": "globalisation",
+  "prompt": "International English tests should be replaced by assessments of practical communication skills. To what extent do you agree or disagree?"
+ },
+ {
+  "id": 19,
+  "essay_type": "discussion",
+  "topic": "education",
+  "prompt": "Some people think universities should provide graduates with the knowledge and skills needed in the workplace. Others think the true function of a university is to give access to knowledge for its own sake. Discuss both views and give your own opinion."
+ },
+ {
+  "id": 20,
+  "essay_type": "discussion",
+  "topic": "education",
+  "prompt": "Some believe children should start formal education at a very early age, while others think they should not begin school until they are at least seven. Discuss both views and give your own opinion."
+ },
+ {
+  "id": 21,
+  "essay_type": "discussion",
+  "topic": "technology",
+  "prompt": "Some people think technology has made our lives more complicated, while others believe it has made life easier. Discuss both views and give your own opinion."
+ },
+ {
+  "id": 22,
+  "essay_type": "discussion",
+  "topic": "work",
+  "prompt": "Some people prefer to work for a large company, while others prefer a small business or self-employment. Discuss both views and give your own opinion."
+ },
+ {
+  "id": 23,
+  "essay_type": "discussion",
+  "topic": "environment",
+  "prompt": "Some say that protecting the environment is the responsibility of governments, while others say individuals should do more. Discuss both views and give your own opinion."
+ },
+ {
+  "id": 24,
+  "essay_type": "discussion",
+  "topic": "society",
+  "prompt": "Some people think that young people should be free to choose their own career, while others think parents should help decide. Discuss both views and give your own opinion."
+ },
+ {
+  "id": 25,
+  "essay_type": "discussion",
+  "topic": "cities",
+  "prompt": "Some believe that living in a big city is good for people, while others think it is harmful. Discuss both views and give your own opinion."
+ },
+ {
+  "id": 26,
+  "essay_type": "discussion",
+  "topic": "crime",
+  "prompt": "Some people think the best way to reduce crime is longer prison sentences, while others believe education is more effective. Discuss both views and give your own opinion."
+ },
+ {
+  "id": 27,
+  "essay_type": "discussion",
+  "topic": "culture",
+  "prompt": "Some people believe that traditional cultures will disappear because of globalisation, while others think they will survive. Discuss both views and give your own opinion."
+ },
+ {
+  "id": 28,
+  "essay_type": "discussion",
+  "topic": "health",
+  "prompt": "Some think that sport at school should be compulsory, while others feel students should choose whether to take part. Discuss both views and give your own opinion."
+ },
+ {
+  "id": 29,
+  "essay_type": "discussion",
+  "topic": "media",
+  "prompt": "Some people say advertising encourages us to buy things we do not need. Others say it provides useful information about new products. Discuss both views and give your own opinion."
+ },
+ {
+  "id": 30,
+  "essay_type": "discussion",
+  "topic": "government",
+  "prompt": "Some argue that governments should spend money on railways, while others think it should be spent on roads. Discuss both views and give your own opinion."
+ },
+ {
+  "id": 31,
+  "essay_type": "advantages_disadvantages",
+  "topic": "education",
+  "prompt": "More students are choosing to take a gap year between school and university. Do the advantages outweigh the disadvantages?"
+ },
+ {
+  "id": 32,
+  "essay_type": "advantages_disadvantages",
+  "topic": "work",
+  "prompt": "Many people now work in the 'gig economy', doing short-term freelance jobs. What are the advantages and disadvantages?"
+ },
+ {
+  "id": 33,
+  "essay_type": "advantages_disadvantages",
+  "topic": "technology",
+  "prompt": "Artificial intelligence is increasingly used to make decisions in areas such as hiring and lending. Do the advantages outweigh the disadvantages?"
+ },
+ {
+  "id": 34,
+  "essay_type": "advantages_disadvantages",
+  "topic": "globalisation",
+  "prompt": "Many students now study in a foreign country. What are the advantages and disadvantages for the students and for the host country?"
+ },
+ {
+  "id": 35,
+  "essay_type": "advantages_disadvantages",
+  "topic": "cities",
+  "prompt": "In some countries, more people are choosing to live in apartments rather than houses. Do the advantages outweigh the disadvantages?"
+ },
+ {
+  "id": 36,
+  "essay_type": "advantages_disadvantages",
+  "topic": "society",
+  "prompt": "More and more people are using cashless payment methods. Do the advantages outweigh the disadvantages?"
+ },
+ {
+  "id": 37,
+  "essay_type": "advantages_disadvantages",
+  "topic": "tourism",
+  "prompt": "Some countries are developing space tourism. Do the advantages outweigh the disadvantages?"
+ },
+ {
+  "id": 38,
+  "essay_type": "advantages_disadvantages",
+  "topic": "food",
+  "prompt": "Many people now buy ready-made meals instead of cooking. What are the advantages and disadvantages?"
+ },
+ {
+  "id": 39,
+  "essay_type": "problem_solution",
+  "topic": "health",
+  "prompt": "Obesity rates among children are rising in many countries. What are the causes, and what solutions can you suggest?"
+ },
+ {
+  "id": 40,
+  "essay_type": "problem_solution",
+  "topic": "environment",
+  "prompt": "Many species of plants and animals are becoming extinct. Why is this happening, and what can be done to prevent it?"
+ },
+ {
+  "id": 41,
+  "essay_type": "problem_solution",
+  "topic": "cities",
+  "prompt": "Housing in many large cities has become unaffordable for ordinary workers. What problems does this cause, and how can it be solved?"
+ },
+ {
+  "id": 42,
+  "essay_type": "problem_solution",
+  "topic": "society",
+  "prompt": "Many people feel lonely, even though they live in busy cities. What are the causes, and what can be done?"
+ },
+ {
+  "id": 43,
+  "essay_type": "problem_solution",
+  "topic": "education",
+  "prompt": "Many students find it difficult to concentrate in class. What are the reasons, and how can this be addressed?"
+ },
+ {
+  "id": 44,
+  "essay_type": "problem_solution",
+  "topic": "technology",
+  "prompt": "Online fraud and scams are increasing. What are the causes, and what measures could reduce them?"
+ },
+ {
+  "id": 45,
+  "essay_type": "problem_solution",
+  "topic": "work",
+  "prompt": "Many employees suffer from stress at work. What are the causes, and what can employers do about it?"
+ },
+ {
+  "id": 46,
+  "essay_type": "problem_solution",
+  "topic": "environment",
+  "prompt": "Food waste is a major problem in developed countries. Why does it happen, and what can be done?"
+ },
+ {
+  "id": 47,
+  "essay_type": "problem_solution",
+  "topic": "crime",
+  "prompt": "Crime rates among teenagers have increased in some areas. What are the causes, and what are the solutions?"
+ },
+ {
+  "id": 48,
+  "essay_type": "two_part",
+  "topic": "society",
+  "prompt": "Many people today do not know their neighbours. Why is this? What can be done to build stronger communities?"
+ },
+ {
+  "id": 49,
+  "essay_type": "two_part",
+  "topic": "technology",
+  "prompt": "People today spend more time looking at screens than ever before. Why is this? Is it a positive or negative development?"
+ },
+ {
+  "id": 50,
+  "essay_type": "two_part",
+  "topic": "work",
+  "prompt": "Many people change careers several times during their lives. Why do they do this? Is it a positive trend?"
+ },
+ {
+  "id": 51,
+  "essay_type": "two_part",
+  "topic": "culture",
+  "prompt": "Fewer people are learning traditional skills such as handicrafts. Why is this happening? Should these skills be preserved?"
+ },
+ {
+  "id": 52,
+  "essay_type": "two_part",
+  "topic": "health",
+  "prompt": "Many people choose to follow a vegetarian or vegan diet. What are the reasons? Should more people do the same?"
+ },
+ {
+  "id": 53,
+  "essay_type": "two_part",
+  "topic": "education",
+  "prompt": "In many countries, fewer students are studying science subjects at university. Why is this? What can be done to encourage them?"
+ },
+ {
+  "id": 54,
+  "essay_type": "two_part",
+  "topic": "media",
+  "prompt": "Many people now get their news from social media rather than newspapers. Why is this? What problems might it cause?"
+ },
+ {
+  "id": 55,
+  "essay_type": "positive_negative",
+  "topic": "society",
+  "prompt": "In many countries, people are getting married and having children later in life. Is this a positive or negative development?"
+ },
+ {
+  "id": 56,
+  "essay_type": "positive_negative",
+  "topic": "globalisation",
+  "prompt": "English is becoming the main language of international communication. Is this a positive or negative development?"
+ },
+ {
+  "id": 57,
+  "essay_type": "positive_negative",
+  "topic": "technology",
+  "prompt": "More and more businesses are using robots to replace human workers. Is this a positive or negative development?"
+ },
+ {
+  "id": 58,
+  "essay_type": "positive_negative",
+  "topic": "cities",
+  "prompt": "Many shopping malls are being built in cities while local markets are disappearing. Is this a positive or negative development?"
+ },
+ {
+  "id": 59,
+  "essay_type": "positive_negative",
+  "topic": "education",
+  "prompt": "Many universities now offer degree courses entirely online. Is this a positive or negative development?"
+ },
+ {
+  "id": 60,
+  "essay_type": "positive_negative",
+  "topic": "tourism",
+  "prompt": "Tourists increasingly visit remote, natural places that were previously untouched. Is this a positive or negative development?"
+ }
+]

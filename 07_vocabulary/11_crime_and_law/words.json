@@ -1,0 +1,110 @@
+[
+ {
+  "word": "offender",
+  "pos": "n",
+  "meaning": "a person who has committed a crime",
+  "example": "Young offenders need support as well as punishment.",
+  "collocations": [
+   "young / repeat offender"
+  ]
+ },
+ {
+  "word": "deter",
+  "pos": "v",
+  "meaning": "to discourage someone from doing something",
+  "example": "Visible policing can deter burglars.",
+  "collocations": [
+   "deter crime / criminals"
+  ]
+ },
+ {
+  "word": "custodial sentence",
+  "pos": "n",
+  "meaning": "a punishment of time in prison",
+  "example": "Short custodial sentences rarely reduce reoffending.",
+  "collocations": [
+   "receive / impose a custodial sentence"
+  ]
+ },
+ {
+  "word": "reoffend",
+  "pos": "v",
+  "meaning": "to commit another crime after punishment",
+  "example": "Education in prison reduces the likelihood that people reoffend.",
+  "collocations": [
+   "rate of reoffending"
+  ]
+ },
+ {
+  "word": "community service",
+  "pos": "n",
+  "meaning": "unpaid work as a punishment",
+  "example": "He was sentenced to 200 hours of community service.",
+  "collocations": [
+   "do / be sentenced to community service"
+  ]
+ },
+ {
+  "word": "law enforcement",
+  "pos": "n",
+  "meaning": "the police and other agencies that apply the law",
+  "example": "Law enforcement agencies are using facial recognition.",
+  "collocations": [
+   "law enforcement agencies"
+  ]
+ },
+ {
+  "word": "petty crime",
+  "pos": "n",
+  "meaning": "minor crime such as shoplifting",
+  "example": "Petty crime has risen in the city centre.",
+  "collocations": [
+   "petty crime / theft"
+  ]
+ },
+ {
+  "word": "cybercrime",
+  "pos": "n",
+  "meaning": "crime committed using computers or the internet",
+  "example": "Cybercrime costs businesses billions each year.",
+  "collocations": [
+   "tackle cybercrime"
+  ]
+ },
+ {
+  "word": "legislation",
+  "pos": "n",
+  "meaning": "laws, or the process of making them",
+  "example": "Stricter legislation on knives was introduced.",
+  "collocations": [
+   "introduce / enforce legislation"
+  ]
+ },
+ {
+  "word": "rehabilitate",
+  "pos": "v",
+  "meaning": "to help an offender return to normal life",
+  "example": "Prisons should rehabilitate rather than merely punish.",
+  "collocations": [
+   "rehabilitate offenders"
+  ]
+ },
+ {
+  "word": "surveillance",
+  "pos": "n",
+  "meaning": "careful watching, often by police or cameras",
+  "example": "CCTV surveillance is common in city centres.",
+  "collocations": [
+   "CCTV / mass surveillance"
+  ]
+ },
+ {
+  "word": "juvenile",
+  "pos": "adj",
+  "meaning": "relating to young people under 18",
+  "example": "Juvenile crime is often linked to poverty.",
+  "collocations": [
+   "juvenile crime / court"
+  ]
+ }
+]

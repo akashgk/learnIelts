@@ -1,0 +1,147 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "gap",
+   "range": "1–6",
+   "instructions": "Complete each sentence with ONE word from the word list.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Ancient temples are part of a nation's cultural ________.",
+     "answer": [
+      "heritage"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'heritage'."
+    },
+    {
+     "n": 2,
+     "prompt": "Strict exam systems can ________ creativity.",
+     "answer": [
+      "stifle"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'stifle'."
+    },
+    {
+     "n": 3,
+     "prompt": "The gallery is holding an ________ of local photography.",
+     "answer": [
+      "exhibition"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'exhibition'."
+    },
+    {
+     "n": 4,
+     "prompt": "Many small theatres depend on government ________.",
+     "answer": [
+      "subsidies"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'subsidies'."
+    },
+    {
+     "n": 5,
+     "prompt": "Communities try to ________ traditional dances.",
+     "answer": [
+      "preserve"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'preserve'."
+    },
+    {
+     "n": 6,
+     "prompt": "Classical music appeals to a ________ audience in some countries.",
+     "answer": [
+      "niche"
+     ],
+     "explanation": "See the word list entry for the phrase containing 'niche'."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "range": "7–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 7,
+     "prompt": "'Contemporary art' is:",
+     "options": [
+      {
+       "key": "A",
+       "text": "ancient art"
+      },
+      {
+       "key": "B",
+       "text": "modern art"
+      },
+      {
+       "key": "C",
+       "text": "religious art"
+      }
+     ],
+     "answer": "B",
+     "explanation": "Contemporary = of the present time."
+    },
+    {
+     "n": 8,
+     "prompt": "Choose the correct collocation:",
+     "options": [
+      {
+       "key": "A",
+       "text": "foster creativity"
+      },
+      {
+       "key": "B",
+       "text": "make creativity"
+      },
+      {
+       "key": "C",
+       "text": "do creativity"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Foster / encourage / nurture creativity."
+    },
+    {
+     "n": 9,
+     "prompt": "A wealthy supporter of artists is a:",
+     "options": [
+      {
+       "key": "A",
+       "text": "patron"
+      },
+      {
+       "key": "B",
+       "text": "patrol"
+      },
+      {
+       "key": "C",
+       "text": "pattern"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Patron of the arts."
+    },
+    {
+     "n": 10,
+     "prompt": "Music, dance and drama together are the:",
+     "options": [
+      {
+       "key": "A",
+       "text": "performing arts"
+      },
+      {
+       "key": "B",
+       "text": "visual arts"
+      },
+      {
+       "key": "C",
+       "text": "fine crafts"
+      }
+     ],
+     "answer": "A",
+     "explanation": "Performing arts."
+    }
+   ]
+  }
+ ]
+}

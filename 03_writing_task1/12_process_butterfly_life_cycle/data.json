@@ -1,0 +1,23 @@
+{
+ "chart": "process",
+ "title": "Life cycle of a butterfly",
+ "cyclic": true,
+ "steps": [
+  {
+   "label": "Egg",
+   "text": "Female lays 100–300 eggs on a leaf; they hatch after 3–7 days"
+  },
+  {
+   "label": "Caterpillar (larva)",
+   "text": "Eats leaves and grows for 2–3 weeks, shedding its skin 4–5 times"
+  },
+  {
+   "label": "Chrysalis (pupa)",
+   "text": "Attaches to a stem; body transforms over 10–14 days"
+  },
+  {
+   "label": "Adult",
+   "text": "Emerges, dries wings, mates; lives 2–4 weeks; cycle repeats"
+  }
+ ]
+}

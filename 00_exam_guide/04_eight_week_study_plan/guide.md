@@ -13,6 +13,7 @@ The plan uses only the material in this repo plus free official tests (see `reso
 | **5** | Harder reading & listening | R05, R06 · L04, L06, L07 · W2-05, 06, 07 · V04, V08 | Read one long article (Guardian, BBC Future, The Conversation) |
 | **6** | Speed & range | R07, R08 · L08 · W1-06, 08, 09, 10 · W2-08, 09, 10 · G08 | Paraphrase 5 sentences from an article |
 | **7** | Full mocks | Listening Test A (L01–04) and Test B (L05–08) under time · R06+R07+R08 as a full 60-min test · W2-11, 12 · S23 04–08 | Speaking: 2-minute talk every day |
+| **7½** | Extra mocks | Listening Test C (L09–12) · R09+R10+R14 as a full test · W1-11 to 14 · W2-15 to 20 · G09–G12 · V11–V14 | One prompt from the Task 2 bank every day |
 | **8** | Review & polish | Redo every question you got wrong · W2-13, 14 · S23 09–12 · S1 05–12 · V09, V10 · exam guide 05 | Sleep 7–8 hours. Light review only in the last 2 days |
 
 ## How to work through a practice item

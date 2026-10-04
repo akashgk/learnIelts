@@ -1,0 +1,111 @@
+[
+ {
+  "word": "furthermore",
+  "pos": "adv",
+  "meaning": "adds a further point (formal)",
+  "example": "Furthermore, the policy would reduce costs.",
+  "collocations": [
+   "Furthermore, …"
+  ]
+ },
+ {
+  "word": "however",
+  "pos": "adv",
+  "meaning": "introduces a contrast (new sentence)",
+  "example": "However, this view ignores the cost.",
+  "collocations": [
+   "However, …"
+  ]
+ },
+ {
+  "word": "whereas",
+  "pos": "conj",
+  "meaning": "contrasts two facts in one sentence",
+  "example": "Men preferred football, whereas women preferred tennis.",
+  "collocations": [
+   "X, whereas Y"
+  ]
+ },
+ {
+  "word": "despite",
+  "pos": "prep",
+  "meaning": "contrast + noun/-ing",
+  "example": "Despite the rain, the event continued.",
+  "collocations": [
+   "despite + noun / -ing"
+  ]
+ },
+ {
+  "word": "although",
+  "pos": "conj",
+  "meaning": "contrast + clause",
+  "example": "Although it was raining, the event continued.",
+  "collocations": [
+   "although + clause"
+  ]
+ },
+ {
+  "word": "consequently",
+  "pos": "adv",
+  "meaning": "introduces a result",
+  "example": "Fees rose. Consequently, applications fell.",
+  "collocations": [
+   "Consequently, …"
+  ]
+ },
+ {
+  "word": "due to",
+  "pos": "prep",
+  "meaning": "because of + noun",
+  "example": "Flights were cancelled due to fog.",
+  "collocations": [
+   "due to + noun"
+  ]
+ },
+ {
+  "word": "in contrast",
+  "pos": "phrase",
+  "meaning": "highlights a difference",
+  "example": "In contrast, rural areas saw a decline.",
+  "collocations": [
+   "In contrast, …",
+   "in contrast to + noun"
+  ]
+ },
+ {
+  "word": "for instance",
+  "pos": "phrase",
+  "meaning": "introduces an example",
+  "example": "Some jobs, for instance nursing, are hard to automate.",
+  "collocations": [
+   "for instance / for example"
+  ]
+ },
+ {
+  "word": "nevertheless",
+  "pos": "adv",
+  "meaning": "despite what was just said",
+  "example": "The plan is costly. Nevertheless, it is necessary.",
+  "collocations": [
+   "Nevertheless, …"
+  ]
+ },
+ {
+  "word": "provided that",
+  "pos": "conj",
+  "meaning": "only if",
+  "example": "The scheme works provided that funding continues.",
+  "collocations": [
+   "provided (that) + clause"
+  ]
+ },
+ {
+  "word": "in addition to",
+  "pos": "prep",
+  "meaning": "as well as + noun/-ing",
+  "example": "In addition to cost, there are safety concerns.",
+  "collocations": [
+   "in addition to + noun / -ing"
+  ]
+ }
+]

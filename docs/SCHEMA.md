@@ -57,6 +57,17 @@ Fetch any file as `<raw-base>/<id>/<file>`.
 
 `QUESTIONS.md` and `SOLUTION.md` are **generated** from `questions.json`.
 
+### Practice banks (`99_*` folders)
+These folders hold practice prompts without model answers.
+
+| Folder | Data file | Shape |
+|---|---|---|
+| `04_writing_task2/99_prompt_bank` | `prompts.json` | `[{id, essay_type, topic, prompt}]` |
+| `05_speaking_part1/99_question_bank` | `question_bank.json` | `[{topic, questions: [...]}]` |
+| `06_speaking_part2_3/99_cue_card_bank` | `cue_cards.json` | `[{id, task, bullets: [...], part3_questions: [...]}]` |
+
+Use them to draw a random prompt or flashcard.
+
 ## `questions.json` (auto-gradable items)
 
 ```jsonc

@@ -1,6 +1,6 @@
 # Speaking Parts 2 & 3
 
-Twelve cue cards, each with linked Part 3 discussion questions, as in the real test.
+Twelve cue cards with full model answers, each with linked Part 3 discussion questions, plus a **cue card bank** (`99_cue_card_bank`) of 24 more cards with 72 Part 3 questions (`cue_cards.json`).
 
 **Each folder contains** `cue_card.md` (the card + Part 3 questions) · `model_answer.md` (a ~2-minute model talk, 1-minute prep notes, Part 3 model answers, useful phrases) · `meta.json` (with `cue_card` and `part3_questions` for a timer or mock-interview app).
 
@@ -24,3 +24,4 @@ Twelve cue cards, each with linked Part 3 discussion questions, as in the real t
 | 10 | **Part 2 & 3 · Useful Advice You Received**<br>Describe a piece of good advice you received. | Band 7–8 models | people, work | [cue_card](10_advice_you_received/cue_card.md) · [model_answer](10_advice_you_received/model_answer.md) |
 | 11 | **Part 2 & 3 · A Festival or Celebration**<br>Describe a festival or celebration that is important in your country. | Band 7–8 models | culture, traditions | [cue_card](11_festival_or_celebration/cue_card.md) · [model_answer](11_festival_or_celebration/model_answer.md) |
 | 12 | **Part 2 & 3 · A Goal for the Future**<br>Describe a goal you would like to achieve in the future. | Band 7–8 models | work, ambition, education | [cue_card](12_future_goal/cue_card.md) · [model_answer](12_future_goal/model_answer.md) |
+| 99 | **Cue Card Bank (24 cards)**<br>24 extra Part 2 cue cards with 72 linked Part 3 questions. | All levels | speaking | [cue_cards](99_cue_card_bank/cue_cards.md) |

@@ -1,0 +1,212 @@
+{
+ "total": 10,
+ "groups": [
+  {
+   "type": "mcq",
+   "range": "1–10",
+   "instructions": "Choose the correct letter, A, B or C.",
+   "questions": [
+    {
+     "n": 1,
+     "prompt": "Many people avoid ____ public transport at night.",
+     "options": [
+      {
+       "key": "A",
+       "text": "using"
+      },
+      {
+       "key": "B",
+       "text": "to use"
+      },
+      {
+       "key": "C",
+       "text": "use"
+      }
+     ],
+     "answer": "A",
+     "explanation": "avoid + -ing."
+    },
+    {
+     "n": 2,
+     "prompt": "The council has decided ____ a new park.",
+     "options": [
+      {
+       "key": "A",
+       "text": "building"
+      },
+      {
+       "key": "B",
+       "text": "to build"
+      },
+      {
+       "key": "C",
+       "text": "build"
+      }
+     ],
+     "answer": "B",
+     "explanation": "decide + to-infinitive."
+    },
+    {
+     "n": 3,
+     "prompt": "Governments can reduce traffic by ____ public transport.",
+     "options": [
+      {
+       "key": "A",
+       "text": "improve"
+      },
+      {
+       "key": "B",
+       "text": "to improve"
+      },
+      {
+       "key": "C",
+       "text": "improving"
+      }
+     ],
+     "answer": "C",
+     "explanation": "Preposition + -ing."
+    },
+    {
+     "n": 4,
+     "prompt": "I look forward to ____ from you.",
+     "options": [
+      {
+       "key": "A",
+       "text": "hear"
+      },
+      {
+       "key": "B",
+       "text": "hearing"
+      },
+      {
+       "key": "C",
+       "text": "heard"
+      }
+     ],
+     "answer": "B",
+     "explanation": "'to' here is a preposition → -ing."
+    },
+    {
+     "n": 5,
+     "prompt": "Doctors recommend ____ at least seven hours a night.",
+     "options": [
+      {
+       "key": "A",
+       "text": "sleeping"
+      },
+      {
+       "key": "B",
+       "text": "to sleep"
+      },
+      {
+       "key": "C",
+       "text": "sleep"
+      }
+     ],
+     "answer": "A",
+     "explanation": "recommend + -ing."
+    },
+    {
+     "n": 6,
+     "prompt": "He stopped ____ because it was bad for his health. (= quit)",
+     "options": [
+      {
+       "key": "A",
+       "text": "to smoke"
+      },
+      {
+       "key": "B",
+       "text": "smoking"
+      },
+      {
+       "key": "C",
+       "text": "smoke"
+      }
+     ],
+     "answer": "B",
+     "explanation": "stop + -ing = quit the activity."
+    },
+    {
+     "n": 7,
+     "prompt": "Remember ____ the door when you leave.",
+     "options": [
+      {
+       "key": "A",
+       "text": "locking"
+      },
+      {
+       "key": "B",
+       "text": "to lock"
+      },
+      {
+       "key": "C",
+       "text": "lock"
+      }
+     ],
+     "answer": "B",
+     "explanation": "remember + to-infinitive = a task to do."
+    },
+    {
+     "n": 8,
+     "prompt": "Many families cannot afford ____ abroad.",
+     "options": [
+      {
+       "key": "A",
+       "text": "travelling"
+      },
+      {
+       "key": "B",
+       "text": "to travel"
+      },
+      {
+       "key": "C",
+       "text": "travel"
+      }
+     ],
+     "answer": "B",
+     "explanation": "afford + to-infinitive."
+    },
+    {
+     "n": 9,
+     "prompt": "Instead of ____ by car, try cycling.",
+     "options": [
+      {
+       "key": "A",
+       "text": "going"
+      },
+      {
+       "key": "B",
+       "text": "to go"
+      },
+      {
+       "key": "C",
+       "text": "go"
+      }
+     ],
+     "answer": "A",
+     "explanation": "instead of + -ing."
+    },
+    {
+     "n": 10,
+     "prompt": "She is used to ____ long hours.",
+     "options": [
+      {
+       "key": "A",
+       "text": "work"
+      },
+      {
+       "key": "B",
+       "text": "working"
+      },
+      {
+       "key": "C",
+       "text": "worked"
+      }
+     ],
+     "answer": "B",
+     "explanation": "be used to + -ing (accustomed to)."
+    }
+   ]
+  }
+ ]
+}
